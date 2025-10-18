@@ -1,0 +1,7 @@
+requests
+tenacity
+tqdm
+orjson
+python-dotenv
+jsonschema
+openai>=1.30.0
