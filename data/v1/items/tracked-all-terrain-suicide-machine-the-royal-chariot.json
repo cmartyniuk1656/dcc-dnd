@@ -1,0 +1,65 @@
+{
+  "activation": [],
+  "ai_description": "Tracked All-Terrain Suicide Machine. The Royal Chariot – Contraption. If a snowmobile got drunk on moonshine and had a sweaty, ill-advised night with a hillbilly’s coon-hunting ATV, this oversized birth defect of a vehicle would be the result. Quickly traverses through both sand and snow. Don’t worry about the lack of roll cage or the grossly-misplaced center of gravity, or the fact this thing will do an impressive impersonation of a catapult the moment it hits a rock. The most important part is that it looks kind of badass.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image=Royal Chariot.JPEG |imagecaption= Art by OutFold |type= Contraption, Vehicle |keywords= |effects= |source= }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "tracked-all-terrain-suicide-machine-the-royal-chariot",
+  "images": [
+    {
+      "alt": "Art by OutFold",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/1a/Royal_Chariot.JPEG/revision/latest?cb=20250208040757",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Contraption",
+    "Vehicle"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Tracked All-Terrain Suicide Machine. The Royal Chariot",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Tracked_All-Terrain_Suicide_Machine._The_Royal_Chariot",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

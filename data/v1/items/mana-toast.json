@@ -1,0 +1,87 @@
+{
+  "activation": [],
+  "ai_description": "This is toast. It refills your mana. That’s it. Nothing more. Fuck you.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Mana Toast is a burned triangle of toast that restores mana.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Restores mana",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "mana-toast",
+  "images": [
+    {
+      "alt": "Mana Toast image",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/bb/00911.jpg/revision/latest?cb=20240309230245",
+      "srcset": [],
+      "title": "Mana Toast",
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Consumable",
+    "Food"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Mana Toast",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Mana_Toast",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Restores mana.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

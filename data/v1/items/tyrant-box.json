@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Tyrant Box is a Loot Box distributed for killing a mayor in the dungeon.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "tyrant-box",
+  "images": [],
+  "kind": "LootBox",
+  "kind_detail": [
+    "Loot Boxes"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Tyrant Box",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Tyrant_Box",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Loot Box distributed for killing a mayor.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,66 @@
+{
+  "activation": [],
+  "ai_description": "Dwarven Industrial Light-Duty Automaton. This contraption is in Sleep Mode. Smaller-sized, industrial workhorses used to complete simple tasks, such as pushing bins full of ore up from the depths. Not commonly used for fighting or defense.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Automatons used to help monsters get from the Exit-only cavern back to the first stop. They are not designed for fighting.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "dwarven-industrial-light-duty-automaton-contraption",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f3/Dwarven_Images.jpg/revision/latest?cb=20250321014726",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Other",
+  "kind_detail": [
+    "Contraption"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Dwarven Industrial Light-Duty Automaton Contraption",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dwarven_Industrial_Light-Duty_Automaton_Contraption",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Used to complete simple tasks and help monsters navigate.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Dwarven"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,80 @@
+{
+  "activation": [],
+  "ai_description": "A potion designed by a shifty Changeling combining the effects of a Gold Standard Healing Potion and the Troll’s Second Wind for a de facto Immortality for thirty seconds, but with unfortunate side effects.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": 30,
+    "overdose_rules": "Potion sickness lasts for 10 hours after use.",
+    "stack_limit": null,
+    "use_time": null,
+    "uses": 2
+  },
+  "description": "A potion that provides immortality for 30 seconds, healing almost anything for that duration but has side effects such as potion sickness and limited uses.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Immortality",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Healing",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "mordecai-s-special-brew",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Mordecai's Special Brew",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Mordecai's_Special_Brew",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Provides immortality for 30 seconds; healing affects are powerful but limited by potion sickness and maximum uses.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

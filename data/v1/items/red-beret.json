@@ -1,0 +1,67 @@
+{
+  "activation": [],
+  "ai_description": "-->",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image=Viva La Revolucion by Mashermellow.png |imagecaption=Art by u/Mashermello, Reddit |type= Hat |keywords= |effects= |source= |buy= |sell= }}{{Quote | quote = “I do prefer my white tiara, but I’m thinking maybe I should embrace the revolutionary look...” Donut }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "red-beret",
+  "images": [
+    {
+      "alt": "Art by u/Mashermello, Reddit",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/99/Viva_La_Revolucion_by_Mashermellow.png/revision/latest?cb=20250406033931",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Apparel",
+  "kind_detail": [
+    "Hat"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Red Beret",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Red_Beret",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Red Beret is an item found in Dungeon Crawler Carl.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Hat",
+  "tags": [
+    "Floor 8",
+    "Donut"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

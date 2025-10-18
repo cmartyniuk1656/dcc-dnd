@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "This piece of paper was mercilessly ripped from a perfectly innocent book. Anybody who thinks to mutilate books in such a manner is obviously a terrible person. It appears to be an extract of a cleric’s journal, one side half a terrible love poem for his aunt, the other something about ghosts.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "This piece of paper was mercilessly ripped from a perfectly innocent book. It's torn away from its home and irreparably harmed. It appears to be an extract of a cleric’s journal, with half a terrible love poem for his aunt and something about ghosts.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "torn-book-page",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Torn Book Page",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Torn_Book_Page",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

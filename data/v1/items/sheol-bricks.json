@@ -1,0 +1,84 @@
+{
+  "activation": [],
+  "ai_description": "If Santa gives coal to the regular naughty kids, he’d probably give this stuff to history’s greatest villains, like Hans Gruber and the guy who invented those shoes with the individual toes built in. It burns a lot hotter and a lot longer than regular coal. And when I say “a lot longer,” I mean until the end of your lifetime. So like a week or more.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Sheol Bricks are the hardened, shriveled, blackened corpses of Lesser Demon infants. Common on the Fifteenth Floor, these coal-like bricks are a valuable resource that burn long and hot when exposed to fire.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "coal, but better",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "sheol-bricks",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/6b/Sheol_Bricks.jpg/revision/latest?cb=20240521210607",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Utility"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-17T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-17T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Sheol Bricks",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Sheol_Bricks",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Consumable Items",
+  "tags": [
+    "crafting materials",
+    "utility items",
+    "floor 4",
+    "floor 15"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

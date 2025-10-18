@@ -1,0 +1,107 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Fang Caps of the Expectorating Tizheruk is a Fleeting Item. Fun Fact. There is not a single dentist from your world left in the dungeon. A few made it to the first floor, but every single one of those fuckers is now tits up. There's a few hygienists left, but I wouldn't want to rely on those chuckleheads. So what I'm getting at is that you need to install these yourself. Make sure they're facing the right direction. You can always take them off but this is a fleeting Item. That means they disappear once they're off. So don't fuck it up. Turns two of your incisors into ripping, tearing, deadly choppers that would impress even the most self-hating goth.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "{{PAGENAME}} is a fleeting item that can be placed on the teeth of either a crawler or pet to increase their biting damage. They are gold in color and little tendrils of electricity spark when the teeth are snapped.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Increases melee bite damage",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": 0.25,
+      "modifiers": [],
+      "name": "Inflicts level-five Poisoned status",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": 0.1,
+      "modifiers": [],
+      "name": "Inflicts level-five Paralyzed status",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-fang-caps-of-the-expectorating-tizheruk",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/92/Fang_Caps.png/revision/latest?cb=20251006020541",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Wearable Item"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Fang Caps of the Expectorating Tizheruk",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Fang_Caps_of_the_Expectorating_Tizheruk",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Increases melee bite damage by 50%, each bite attack has a 25% chance to inflict level-five Poisoned status, each bite attack has a 10% chance to inflict level-five Paralyzed status.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Fleeting Item",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

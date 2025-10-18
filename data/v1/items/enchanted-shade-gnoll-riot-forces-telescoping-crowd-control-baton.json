@@ -1,0 +1,86 @@
+{
+  "activation": [],
+  "ai_description": "This item’s length is adjustable, from 25 centimeters to 3 meters. Automatically casts Level-five Cone of Knockback if swung at a group of 10 or more like mobs. This triggers only once every five minutes.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "This enchanted truncheon is designed to crack skulls and to teach those ungrateful bastards to show some got-damned respect.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Casts level 5 Cone of Knockback",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "swing"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-shade-gnoll-riot-forces-telescoping-crowd-control-baton",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": 2048,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/34/Expandable-steel-baton-841598_2048x2048.webp/revision/latest?cb=20250411204829",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": 2048
+    }
+  ],
+  "kind": "Weapon",
+  "kind_detail": [
+    "Baton"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Shade Gnoll Riot Forces Telescoping Crowd Control Baton",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Shade_Gnoll_Riot_Forces_Telescoping_Crowd_Control_Baton",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Weapon designed for crowd control with special abilities.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Baton",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": {
+    "category": "Baton",
+    "damage": [],
+    "handedness": null,
+    "properties": [],
+    "range_m": null,
+    "reach_m": null
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "activation": [],
+  "ai_description": "Big Top Ticket. Lucky you! This ticket admits one adult into the Grimaldi’s Traveling Circus Big Top Show. The holder of this ticket is guaranteed Safe Passage through the public areas only. Grimaldi reserves the right to rescind this safe passage guarantee to drunks and purveyors of violence. Guaranteed good time or your money back!",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Big Top Ticket is an item looted from Terror the Clown on the Third Floor. It allows entry into Grimaldi's Traveling Circus.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "big-top-ticket",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/ff/Big_Top_Ticket.png/revision/latest?cb=20250719051938",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Key"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Big Top Ticket",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Big_Top_Ticket",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

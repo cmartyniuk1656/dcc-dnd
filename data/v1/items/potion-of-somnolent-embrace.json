@@ -1,0 +1,53 @@
+{
+  "activation": [],
+  "ai_description": "Gently brings you to rest until you fall asleep.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Repels Dinosaurs",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "potion-of-somnolent-embrace",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Potion"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Potion of Somnolent Embrace",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Potion_of_Somnolent_Embrace",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

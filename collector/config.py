@@ -1,5 +1,12 @@
 import os
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
+if os.getenv("OPENAI_BASE_URL", "").strip() == "":
+    os.environ.pop("OPENAI_BASE_URL", None)
+
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", None) or None
 OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-5-thinking")

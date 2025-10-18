@@ -1,0 +1,71 @@
+{
+  "activation": [],
+  "ai_description": "Pawna’s Cries. This potion has a limited shelf life. This potion adds plus three to any spell or skill of your choosing.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Similar but distinct from the Pawna's Tears Potion, the Pawna's Cries potion adds three levels to any spell or skill that the crawler chooses. Due to its \"limited shelf life,\" it must be used before the Floor collapses.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "pawna-s-cries",
+  "images": [
+    {
+      "alt": "Pawna's Cries",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9b/00197.jpg/revision/latest?cb=20231121202512",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-05T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-05T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Pawna's Cries",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Pawna's_Cries",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "+3 to any Skill or Spell",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Potion",
+  "tags": [
+    "Potion"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

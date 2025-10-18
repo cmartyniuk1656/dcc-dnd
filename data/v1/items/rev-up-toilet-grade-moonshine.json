@@ -1,0 +1,151 @@
+{
+  "activation": [],
+  "ai_description": "Rev-Up Toilet-Grade Moonshine is a highly flammable liquid manufactured by Unvaccinated Clurichaun Rev-Up Consultants, creating several dangerous effects when consumed.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Rev-Up Toilet-Grade Moonshine is a highly flammable liquid with explosive fumes and several debuffs and effects when consumed. It can be found in sturdy clay jugs with 'Rev-Up' written on the side.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Highly flammable",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Explosive fumes",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Shit-Faced Debuff",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": 0.5,
+      "modifiers": [],
+      "name": "50% chance to render you Blind for 30 hours",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": 0.05,
+      "modifiers": [],
+      "name": "5% chance to immediately kill you",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": 0.45,
+      "modifiers": [],
+      "name": "45% chance to permanently raise a random stat by 2 points",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "rev-up-toilet-grade-moonshine",
+  "images": [
+    {
+      "alt": "Rev-Up Toilet-Grade Moonshine",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/5a/Rev_Up_Moonshine.jpg/revision/latest?cb=20240414204956",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Rev-Up Toilet-Grade Moonshine",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Rev-Up_Toilet-Grade_Moonshine",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "This item is highly sought after for its dangerous properties.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Potion",
+    "Accelerant"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

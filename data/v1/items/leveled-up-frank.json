@@ -1,0 +1,66 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Leveled-Up Frank is a copy of the deceased crawler Frank Q, and a Level 90 Blood Assassin Class Night Elf. After he's added to Carl and Donut's deck, he's rebranded as: Leveled-Up Frank. Sober Edition. Level 100 Night Elf Blood Assassin. He carries a red sword.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "leveled-up-frank",
+  "images": [
+    {
+      "alt": "Leveled-Up Frank",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://dungeon-crawler-carl.fandom.com/wiki/Special:FilePath/00058.jpg",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Character",
+  "kind_detail": [],
+  "level_requirement": 100,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Leveled-Up Frank",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Leveled-Up_Frank",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Leveled-Up Frank is a copy of the deceased crawler Frank Q, rebranded as a Level 100 Night Elf Blood Assassin.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "T'Ghee Card",
+    "Blood Assassin Class",
+    "Night Elf"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

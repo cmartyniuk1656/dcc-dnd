@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "Stuffed Slate Butterfly Figure. (With tags.) The slate butterfly is one of the more common figures in Jaxbrin’s newest lineup. The tragic story of the butterflies who accidentally killed all their fairy friends is a beloved fairytale. It’s also based loosely on a true story, which is no surprise considering how parents just love to romanticize mass-casualty events.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A stuffed figure of a Slate Butterfly made by Jaxbrin Amusements, Limited.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "stuffed-slate-butterfly-figure",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Stuffed Figure"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Stuffed Slate Butterfly Figure",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Stuffed_Slate_Butterfly_Figure",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

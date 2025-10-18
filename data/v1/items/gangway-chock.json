@@ -1,0 +1,79 @@
+{
+  "activation": [],
+  "ai_description": "-->",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Gangway Chock is a massive sheet of metal fashioned out of a breastplate from the Third Floor. It's a rectangular hunk of metal with rounded edges, thinned out to about a 1/5 inch. It's \"solid and heavy as shit\".",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Block mobs from entering subway cars on the Iron Tangle",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "gangway-chock",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/62/Chock_V2.jpg/revision/latest?cb=20250315040128",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Defense"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Gangway Chock",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Gangway_Chock",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Defense item that blocks mobs from subway cars.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Defense",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

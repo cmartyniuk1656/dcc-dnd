@@ -1,0 +1,89 @@
+{
+  "activation": [],
+  "ai_description": "Veriluxx RealPet Dungeon Crawl Special Edition Exclusive. Princess Donut the Queen Anne Chonk. The ultimate play toy, Veriluxx RealPet Companions are budget-friendly, nearly indestructible collectibles that will give your child hours and hours of fun. Because these interactive toys do not require an implant certificate to play with and enjoy, parents needn’t worry about how many hours their children are spending with their new best friends! Mix and match! They fight! They love! They will share your deepest, darkest secrets! Each Veriluxx RealPet Companion is a fully licensed depiction of your favorite personality or creature. The onboard AI comes preprogrammed with a 100% accurate and realistic persona, and it will learn as it goes. It’s like having a real pet, but better! Available on the Syndicate Trade Network. Mongo companion sold separately. Veriluxx. For the children. Action-grip Hekatonkheires coming soon!",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The ultimate play toy, Veriluxx RealPet Companions are budget-friendly, nearly indestructible collectibles that will give your child hours and hours of fun.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "veriluxx-realpet-dungeon-crawl-special-edition-exclusive",
+  "images": [
+    {
+      "alt": "Art by u/OutFold, Reddit",
+      "attribution": {
+        "author": "u/OutFold",
+        "license": null,
+        "source_url": "https://www.reddit.com/"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/d0/Robot_Donut_by_OutFold.jpg/revision/latest?cb=20250411042245",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "splash",
+      "width": 200
+    },
+    {
+      "alt": "Art by u/Meldinar, Reddit",
+      "attribution": {
+        "author": "u/Meldinar",
+        "license": null,
+        "source_url": "https://www.reddit.com/"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f6/Loita_by_Meldinar.jpg/revision/latest?cb=20250418014158",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "splash",
+      "width": 200
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T12:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T12:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Veriluxx RealPet Dungeon Crawl Special Edition Exclusive",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Veriluxx_RealPet_Dungeon_Crawl_Special_Edition_Exclusive",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

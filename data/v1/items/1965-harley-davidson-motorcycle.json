@@ -1,0 +1,71 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A genuine 1965 Harley Davidson FLH Electra Glide motorcycle, which has a dent on the gas tank from Carl's childhood.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "1965-harley-davidson",
+  "images": [
+    {
+      "alt": "1965 Harley Davidson Motorcycle",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/fb/543066377o.jpg/revision/latest?cb=20231128202533",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Vehicle"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "1965 Harley Davidson",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/1965_Harley_Davidson_Motorcycle",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Item from Earth's reality, notable in the story as a prized possession of Carl's father.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Earth",
+    "Items",
+    "Vehicles",
+    "Carl",
+    "Floor 4",
+    "Floor 8"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

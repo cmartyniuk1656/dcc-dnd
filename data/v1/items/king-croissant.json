@@ -1,0 +1,72 @@
+{
+  "activation": [],
+  "ai_description": "-->",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A fuzzy black kitten with a teeny tiny headset microphone meant as a replacement for Donut. He has bard abilities including an escape song.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "king-croissant",
+  "images": [
+    {
+      "alt": "Art by @mggcreates, Instagram",
+      "attribution": {
+        "author": "Mggcreates",
+        "license": null,
+        "source_url": "https://www.instagram.com/mggcreates"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/37/King_Croissant_by_Mggcreates.jpg/revision/latest?cb=20250520051408",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Card",
+  "kind_detail": [
+    "T'Ghee Card"
+  ],
+  "level_requirement": 60,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "King Croissant",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/King_Croissant",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "King Croissant is a level 60 kitten who was used as a T'Ghee card by the Reminiscence Hydra of Malicious Compliance.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "NPCs",
+    "T'Ghee Cards",
+    "Floor 8"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

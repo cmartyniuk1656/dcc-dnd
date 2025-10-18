@@ -1,0 +1,73 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": 1,
+    "use_time": "5 seconds",
+    "uses": 10
+  },
+  "description": "Hobgoblin Detonators are single-use magical items that can be used to detonate up to ten explosive devices at the same time. It has a range of approximately 10 km (6.21 miles).",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Remote Detonation",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "hobgoblin-detonator",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Single-Use"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-06T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-06T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Hobgoblin Detonator",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Hobgoblin_Detonator",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Single-use magical item for detonation of explosives.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Explosives",
+    "Single-Use",
+    "Items",
+    "Consumable Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

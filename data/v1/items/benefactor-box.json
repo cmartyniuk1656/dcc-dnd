@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [
+    "Sponsor Box"
+  ],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Benefactor Boxes are ordered by a crawler's Sponsors. The sponsor chooses an item to include in the box; these rare items are typically stronger than Dungeon-generated loot, and do not need to fit the Dungeon's theme. The item's strength and value determines the Benefactor Box's tier, which in turn determines the Box's price. Most sponsors can only afford to send Silver or Gold tier boxes; however, in general, a Bronze Benefactor Box is better than a Gold Adventurer Box.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "benefactor-box",
+  "images": [],
+  "kind": "LootBox",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-11-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-11-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Benefactor Box",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Benefactor_Box",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Benefactor Boxes are special loot boxes obtained from sponsors.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

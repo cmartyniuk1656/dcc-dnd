@@ -1,0 +1,48 @@
+{
+  "activation": [],
+  "ai_description": "Arrow of Enthusiastic Double Gonorrhea. This is a regular arrow, but the tip is dipped in a poison that will inflict you with Enthusiastic Double Gonorrhea.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Although it looks deceptively like a normal arrow, the Arrow of Enthusiastic Gonorrhea is tipped with a poison that inflicts Enthusiastic Double Gonorrhea.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "arrow-of-enthusiastic-double-gonorrhea",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Consumable",
+    "Poison",
+    "Arrow"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Arrow of Enthusiastic Double Gonorrhea",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Arrow_of_Enthusiastic_Double_Gonorrhea",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

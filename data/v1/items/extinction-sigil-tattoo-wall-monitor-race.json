@@ -1,0 +1,74 @@
+{
+  "activation": [],
+  "ai_description": "Extinction Sigil Tattoo removes automatic hostility for any natural enemies of lizard-class creatures. Warning: holding this Extinction Sigil will cause lizard-class enemies to deal 20% more damage against you. Any Wall Monitors will deal 150% more damage against you. You may only hide this tattoo with a cover-up sleeve.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image=File:Carl and Donut by Content Office.webp |imagecaption=Art by u/Content_Office_2479, Reddit |type= |keywords= |effects= |source= |buy= |sell= }}{{Quote | quote = “Don’t worry, it’s tiny. It’s just below your left eye. Barely noticeable. Like a teardrop tattoo, but smaller. It’s almost like a freckle. What is it? It looks like a gecko foot. It’s cute.” Katia Grim }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "extinction-sigil-tattoo-wall-monitor-race",
+  "images": [
+    {
+      "alt": "Art by u/Content_Office_2479, Reddit",
+      "attribution": {
+        "author": "u/Content_Office_2479",
+        "license": null,
+        "source_url": "https://www.reddit.com/"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/68/Carl_and_Donut_by_Content_Office.webp/revision/latest?cb=20250405035203",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Tattoo",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Extinction Sigil Tattoo",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Extinction_Sigil_Tattoo_(Wall_Monitor_Race)",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "It looks like a gecko foot.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "tattoo",
+    "Wall Monitor Race"
+  ],
+  "tattoo": {
+    "body_location": "below left eye",
+    "faction_keys": []
+  },
+  "tech": null,
+  "weapon": null
+}

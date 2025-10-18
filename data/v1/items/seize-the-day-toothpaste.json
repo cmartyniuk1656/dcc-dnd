@@ -1,0 +1,62 @@
+{
+  "activation": [],
+  "ai_description": "Seize the Day Toothpaste - Five Applications: This enchanted, cherry-flavored toothpaste gives you buffs for 30 hours including Three Times Damage to all Boss Monsters or Four Times Damage if the Boss is a Province, Country, or Floor Boss. Buff may only be applied in a safe room.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "You are imbued with the following buffs for 30 hours: Three Times Damage to all Boss Monsters or Four Times Damage to all Boss Monsters if the Boss is a Province, Country, or Floor Boss.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "seize-the-day-toothpaste",
+  "images": [
+    {
+      "alt": "Seize the Day Toothpaste",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f8/Seize_the_day.jpg/revision/latest/scale-to-width-down/200?cb=20210330173008",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": 200
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Seize the Day Toothpaste",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Seize_the_Day_Toothpaste",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Utility",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

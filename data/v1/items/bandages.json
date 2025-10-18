@@ -1,0 +1,70 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Bandages can be used to stop Bleed effects. They are frequently and abundantly found in low-tier Loot Boxes (especially Adventurer Boxes) on the First and Second floors.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Stop Bleed effects",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "bandages",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Consumable"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Bandages",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Bandages",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Stops Bleed effects; found in Loot Boxes.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Pharmaceuticals",
+  "tags": [
+    "Utility Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

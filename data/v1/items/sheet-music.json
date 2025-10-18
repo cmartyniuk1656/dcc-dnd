@@ -1,0 +1,50 @@
+{
+  "activation": [],
+  "ai_description": "-->",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Sheet Music is similar to a scroll or magic book but exclusive to bard classes. It allows bards to sing a song they normally couldn’t, making it easier to pull off but with a chance of failure if the performance was out of key. If sung badly it tears a little bit, too many tears and it’s ruined.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "sheet-music",
+  "images": [],
+  "kind": "Other",
+  "kind_detail": [
+    "Bard Tool"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Sheet Music",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Sheet_Music",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Sheet Music is a bard tool that helps bards perform songs with a chance of failure if sung out of key.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Bard Tool",
+  "tags": [
+    "Utility Items",
+    "Books",
+    "Scrolls"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

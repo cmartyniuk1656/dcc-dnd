@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "Gnomish Legate Balloon. 'The Vahana.' Contraption. Of all the vehicles left aboard the dreadnaught Wasteland, the Vahana is perhaps the oldest. Once, long ago, the gnomes believed they could avoid war. And while they could not leave this conflict-infested world, they could take to the skies, out of reach of everyone else. They hoped they could set themselves up as neutral peacekeepers. Everyone knew that the black and gold-striped balloons were off limits. The balloons were a symbol of hope. The sight of a Gnomish Legate on the horizon heralded the arrival of ambassadors, and perhaps peace. But when new visitors came to their world, coming via a mysterious portal, everything changed. These were winged predators who would not have peace, and they would not suffer anybody else sharing their skies. The Legate Balloons were traded for a different sort of vehicle. The sylvan balloons were mostly dismantled and recycled, sewn together to give extra security to the gnomish settlements, which were also repurposed. The peaceful, flying communities changed their name from sky garden to dreadnaught.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image= |imagecaption= |type= |keywords= |effects= |source= |buy= |sell= }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "gnomish-legate-balloon",
+  "images": [],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Gnomish Legate Balloon",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Gnomish_Legate_Balloon",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

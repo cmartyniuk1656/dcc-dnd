@@ -1,0 +1,49 @@
+{
+  "activation": [],
+  "ai_description": "Coffee Shop Author Kit. Alcoholism and crippling self-doubt not included. A magical sheet of paper with a quill for writing and copying information.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Coffee Shop Author Kit is a crafting tool consisting of a magical sheet of paper, a quill pen, and a little capped jar filled with black ink. It allows users to copy information from a second (or third) page of their scratchpad onto the magical paper or from the magical paper to their scratchpad.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "coffee-shop-author-kit",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Interface Enhancement"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Coffee Shop Author Kit",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Coffee_Shop_Author_Kit",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "crafting",
+    "utility"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

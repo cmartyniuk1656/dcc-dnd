@@ -1,0 +1,72 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The saber is part of an enchanted set, but the magical abilities only apply when the set is together.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "left-fang-of-the-green-sultan",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/96/Left_Fang_of_the_Green_Sultan.jpg/revision/latest?cb=20250330170054",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Weapon",
+  "kind_detail": [
+    "Weapon",
+    "Saber"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Left Fang of the Green Sultan",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Left_Fang_of_the_Green_Sultan",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Enchanted saber previously owned by Eva; magical abilities activate when part of a set.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": {
+    "category": "Saber",
+    "damage": [],
+    "handedness": null,
+    "properties": [],
+    "range_m": null,
+    "reach_m": null
+  }
+}

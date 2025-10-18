@@ -1,0 +1,94 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Marks the bearer as the enemy of a specific deity and all its worshippers. Provides a 25% damage bonus against adherents of the deity, but all adherents will attack the bearer on sight.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Damage Bonus",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Attack on Sight",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "1",
+  "images": [
+    {
+      "alt": "Art by roosterjazz",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/ff/Enemy_of_the_church.jpeg/revision/latest?cb=20250805043552",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Tattoo",
+  "kind_detail": [
+    "Tattoo|effects=* 25% bonus damage against adherents of Deity."
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enemy of the Church",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enemy_of_the_Church_Tattoo",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Provides a 25% damage bonus against adherents of the deity, but adherents will attack the bearer on sight.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": {
+    "body_location": "upper left arm",
+    "faction_keys": []
+  },
+  "tech": null,
+  "weapon": null
+}

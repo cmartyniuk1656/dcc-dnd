@@ -1,0 +1,144 @@
+{
+  "activation": [],
+  "ai_description": "The Scavenger’s Daughter. Upgrade Patch. Back Patch. This is a divine item. This is a unique item. This is a fleeting item. You may only affix one back patch at a time. This patch depicts a pile of scary skulls, all stacked up nice and neat.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "This patch is a thick, black piece of fabric embroidered with a white pile of skulls from various creatures, stacked up neatly into a pyramid. There is additional transparent stitching forming the image of a giant centipede crawling through all the skulls.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Stat doubling",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "affixed"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Dexterity bonus",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "affixed"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Strength bonus",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "affixed"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Notification of deity presence",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "affixed"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Climb Benefit",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "affixed"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Soul Reaper Skill",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "affixed"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Mysterious Bone Key Benefit",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "affixed"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "scavengers-daughter-upgrade-patch",
+  "images": [
+    {
+      "alt": "original design by dnd_artnewb (Instagram)",
+      "attribution": {
+        "author": null,
+        "license": null,
+        "source_url": null
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/18/Scavenger%27s_Daughter.jpg/revision/latest?cb=20240923050020",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "splash",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Upgrade Patch",
+    "Back Patch"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Scavenger's Daughter Upgrade Patch",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Scavenger's_Daughter_Upgrade_Patch",
+    "source_type": "wiki"
+  },
+  "rarity": "Unique",
+  "rules_text": "Provides various benefits when divine entities are nearby.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Divine",
+    "Unique",
+    "Fleeting"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,64 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The box is a Loot Box distributed for using an Ability Tattoo for the first time in battle.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "have-you-goddamned-figured-out-how-to-use-this-in-conjunction-with-the-fucking-voodoo-book-yet-jesus-christ-i-can-only-h",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/8c/Voodoo_Book_Box.jpg/revision/latest?cb=20250309044430",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "LootBox",
+  "kind_detail": [
+    "Loot Boxes"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Have You Goddamned Figured Out How To Use This In Conjunction With the Fucking Voodoo Book Yet? Jesus Christ I Can Only Help You So Much box",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Have_You_Goddamned_Figured_Out_How_To_Use_This_In_Conjunction_With_the_Fucking_Voodoo_Book_Yet?_Jesus_Christ_I_Can_Only_Help_You_So_Much_box",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

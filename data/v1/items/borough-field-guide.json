@@ -1,0 +1,60 @@
+{
+  "activation": [],
+  "ai_description": "The AI described the item as a guide that alleviates the fear of the unknown by revealing monster types in the area.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A persistent loot item dropped by slain Borough Bosses that shows mob types and levels in the area on the crawler's minimap.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Shows Mob Types and Levels in area on crawler's Minimap",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "borough-field-guide",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Borough Field Guide",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Borough_Field_Guide",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Shows Mob Types and Levels in area on crawler's Minimap.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Utility Items",
+  "tags": [
+    "Persistent Loot"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

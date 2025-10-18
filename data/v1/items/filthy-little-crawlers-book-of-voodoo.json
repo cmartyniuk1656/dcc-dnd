@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "The Filthy Little Crawler’s Book of Voodoo. Warning: You may not trade this item. This item may not be destroyed. You may remove it from your inventory to use it, but you will not be able to throw it away. If you drop this book, it will automatically return to your inventory. This book is not retroactively filled with the entries of people you have already met. You must be within close-ish vicinity of them for their name to be added. Works only with crawlers who also own this book.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A book that can be used to exchange messages with other crawlers you have met that also own a \"filthy little crawlers book of voodoo\". When meeting a crawler that also has this book their name will appear in it, if you write a message under their name only they will receive it, if you write under your name everyone can see it. Messages can be erased on demand. It can't be traded, destroyed or thrown away, if dropped it will return to your inventory.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "filthy-little-crawlers-book-of-voodoo",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-06T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-06T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Filthy Little Crawlers Book of Voodoo",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Filthy_Little_Crawlers_Book_of_Voodoo",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Utility Items",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

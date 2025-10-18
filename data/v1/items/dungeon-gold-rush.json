@@ -1,0 +1,113 @@
+{
+  "activation": [],
+  "ai_description": "Scratch off one spot for varying effects on your next attack. One hour cooldown between scratches.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": 3600,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": 1
+  },
+  "description": "It is a lottery ticket with six scratch-off spots, revealing various outcomes for attacks against mobs.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Possible Outcomes",
+      "outcomes": [
+        {
+          "effects": [],
+          "prob": null,
+          "result": "Mob drops 5,000 coins",
+          "weight": null
+        },
+        {
+          "effects": [],
+          "prob": null,
+          "result": "Damage against Mob is doubled",
+          "weight": null
+        },
+        {
+          "effects": [],
+          "prob": null,
+          "result": "Mob splits in two",
+          "weight": null
+        },
+        {
+          "effects": [],
+          "prob": null,
+          "result": "Mob is invulnerable for 30 seconds",
+          "weight": null
+        }
+      ],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "scratch"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "dungeon-gold-rush",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/5d/Dungeon_Gold_Rush.png/revision/latest?cb=20250601013956",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Dungeon Gold Rush",
+  "physical": {
+    "dimensions_cm": null,
+    "durability": null,
+    "size_category": null,
+    "weight_kg": null
+  },
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dungeon_Gold_Rush",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Lottery ticket with various effects for attacks against mobs; one hour cooldown between uses.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

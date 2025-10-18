@@ -1,0 +1,97 @@
+{
+  "activation": [],
+  "ai_description": "Blitz Stick. It’s like candy, but for your mind. If you eat this, your Intelligence temporarily rises by five points. If you smoke it, there’s a 15% chance your Intelligence will permanently rise by 1. There might be a side effect or two. Or three.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Blitz sticks look a bit like licorice sticks and, when lit, have a distinct tangy smell like patchouli. While smoking a blitz stick, saying 'show me...' can produce a vivid non-existent memory or create a false escapist dream. The hallucinations are shorter each time the drug is used. They are one of the few substances that cannot be counteracted with a Rapid Detox Potion. The addictive properties of blitz sticks can be treated with an unidentified skin patch, which must be worn for a while.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": "temporary",
+          "stat": "INT",
+          "value": 5
+        }
+      ],
+      "name": "If Eaten",
+      "notes": "+5 INT (temporary)",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": 0.15,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "INT",
+          "value": 1
+        }
+      ],
+      "name": "If Smoked",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "blitz-sticks",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Pharmaceutical"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Blitz Sticks",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Blitz_Sticks",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Addictive magical hallucinogen.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Pharmaceutical",
+  "tags": [
+    "Magical"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,198 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Anarchist’s Battle Rattle. This sleeveless jacket in its current form only offers meager protections compared to some other items of this caliber. However, its ability to host as many upgrade patches as you can fit makes this one of the best, most upgradeable protection items in the game. It imbues various effects including +1 to all base stats and improved range and accuracy for thrown explosives.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A sleeveless black jacket made of thick canvas, the Anarchist's Battle Rattle glows with a subtle purplish light. The jacket does not appear to be damaged by flesh injuries.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "STR",
+          "value": 1
+        }
+      ],
+      "name": "+1 STR",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "INT",
+          "value": 1
+        }
+      ],
+      "name": "+1 INT",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CON",
+          "value": 1
+        }
+      ],
+      "name": "+1 CON",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "DEX",
+          "value": 1
+        }
+      ],
+      "name": "+1 DEX",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CHA",
+          "value": 1
+        }
+      ],
+      "name": "+1 CHA",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "+50% Range - all thrown explosives",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "+50% Accuracy - all thrown explosives",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-anarchist-s-battle-rattle",
+  "images": [
+    {
+      "alt": "Art by @Kippin21, Twitter",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/be/Carl_by_Kippin21.jpg/revision/latest?cb=20250801015013",
+      "srcset": [],
+      "title": "Enchanted Anarchist's Battle Rattle Image",
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Apparel",
+  "kind_detail": [
+    "Clothing (Chest)"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Anarchist's Battle Rattle",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Anarchist's_Battle_Rattle",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "A sleeveless black jacket that enhances base stats and is compatible with upgrade patches.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

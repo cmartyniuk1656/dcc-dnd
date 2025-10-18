@@ -1,0 +1,70 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": 1
+  },
+  "description": "Heal Scrolls are single-use items that restore a crawler's health. They do not cost mana to cast and can be used on any nearby crawler with no cooldown between uses.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": 1.0,
+      "modifiers": [],
+      "name": "Heal",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "heal-scroll",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-21T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-21T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Heal Scroll",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Heal_Scroll",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Single-use item restoring health without mana cost.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Scroll",
+  "tags": [
+    "heal",
+    "scroll",
+    "consumable"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

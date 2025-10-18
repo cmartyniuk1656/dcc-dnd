@@ -1,0 +1,74 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": 1
+  },
+  "description": "Single-use, brown-colored potions that can be used to heal injured pets, dungeon familiars, and presumably animal-class mobs that are not affected by a standard Healing Potion.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Heals creature",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": {
+    "conjured": false,
+    "description": null,
+    "material": null
+  },
+  "id": "heal-pet-potion",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Potion"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Heal Pet Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Heal_Pet_Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Heals injured pets and dungeon familiars.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Potion",
+  "tags": [
+    "Consumable",
+    "Single-Use"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

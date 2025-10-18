@@ -1,0 +1,72 @@
+{
+  "activation": [],
+  "ai_description": "Drink this if your party is attacked by a pack of dinosaurs, and they’ll eat you last. Effect lasts a full 30 hours.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": 1080000,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Repels Dinosaurs",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "potion-of-dinosaur-repellent",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/af/00094.jpg/revision/latest?cb=20231111230947",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Potion of Dinosaur Repellent",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.9,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Potion_of_Dinosaur_Repellent",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Potion of Dinosaur Repellent",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Potion",
+  "tags": [
+    "Potion",
+    "Consumable"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

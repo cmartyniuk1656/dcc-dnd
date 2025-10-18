@@ -1,0 +1,66 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Holy Goopers are essentially holy water grenades. They act like napalm to Vampires, burning them up when exposed to light or a strong Torch spell.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Vampire accelerant",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "holy-gooper-potion",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Holy Gooper Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Holy_Gooper_Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Holy Goopers are produced by combining a fine Healing Potion and an air-activated coagulant inside a potion ball and dipping the ball in the Sun Shrine.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Potion",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

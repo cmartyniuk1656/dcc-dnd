@@ -1,0 +1,126 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The wearer of this cloak gains +4 to Constitution and becomes resistant to poison and ice-based attacks. In addition, the cloak adds Anti-Piercing resistance to all worn armor.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CON",
+          "value": 4
+        }
+      ],
+      "name": "Constitution Buff",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Resistance to Ice",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Resistance to Poison",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Anti-Piercing Benefit",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-nightgaunt-cloak-of-stoutness",
+  "images": [
+    {
+      "alt": "Carl walking through the Necropolis of Anser",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": "image/png",
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b0/Enchanted_Nightgaunt_Cloak_of_Stoutness.png/revision/latest?cb=20250809045946",
+      "srcset": [],
+      "title": "Enchanted Nightgaunt Cloak of Stoutness",
+      "transparent": null,
+      "type": "splash",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-10T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-10T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Nightgaunt Cloak of Stoutness",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Nightgaunt_Cloak_of_Stoutness",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Buffs Constitution and provides resistances.",
+  "series": "Dungeon Crawler Carl",
+  "slot": "neck",
+  "subcategory": "Clothing",
+  "tags": [
+    "Cloak",
+    "Nightgaunt",
+    "Apparel"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

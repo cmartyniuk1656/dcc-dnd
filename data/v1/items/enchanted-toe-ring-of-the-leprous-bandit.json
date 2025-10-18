@@ -1,0 +1,80 @@
+{
+  "activation": [],
+  "ai_description": "This is a unique item. Most children in the universe know the exciting tale of the Leprous Bandit, the infamous human thief whose people were starving to death because of a planet-wide quarantine.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Enchanted Toe Ring of the Leprous Bandit is a valuable item that allows the wearer to temporarily walk barefoot on non-horizontal surfaces, and spread an active debuff to one target.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Sticky Feet Benefit",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Super Spreader Benefit",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-toe-ring-of-the-leprous-bandit",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Jewelry",
+    "Toe Ring"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Toe Ring of the Leprous Bandit",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Toe_Ring_of_the_Leprous_Bandit",
+    "source_type": "wiki"
+  },
+  "rarity": "Unique",
+  "rules_text": "This toe ring imbues the Sticky Feet Benefit and the Super Spreader Benefit.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Unique"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

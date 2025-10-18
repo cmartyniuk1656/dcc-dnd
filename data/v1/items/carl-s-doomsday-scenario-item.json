@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "Type: Unstable custom explosive. Effect: An explosion large enough to rattle the teeth of a god. Status: Explosion Imminent (3/1x10^7). Created by a man who murders babies and steals rare collectibles from his elders, this device is powerful enough to level an entire city and all the suburbs around it. It is created by combining a massively overloaded soul crystal and a Sheol Glass Reaper Case. Warning: This item can no longer be stabilized.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "An explosion large enough to rattle the teeth of a god, created from a soul crystal and a Sheol Glass Reaper Case.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "carl-s-doomsday-scenario",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Unstable custom explosive"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Carl’s Doomsday Scenario",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Carl's_Doomsday_Scenario_(Item)",
+    "source_type": "wiki"
+  },
+  "rarity": "Pretty Damn Rare",
+  "rules_text": "Unstable custom explosive.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,70 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [
+    "Rev-Up"
+  ],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Stimulates hair growth when applied to any surface.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Stimulates hair growth",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "application"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "rev-up-magic-hair-restoration-tonic",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Consumable"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Rev-Up Magic Hair Restoration Tonic",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Rev-Up_Magic_Hair_Restoration_Tonic",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Stimulates hair growth when applied to any surface.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

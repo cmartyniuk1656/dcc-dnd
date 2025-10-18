@@ -1,0 +1,109 @@
+{
+  "activation": [],
+  "ai_description": "This potion adds plus five to any spell or skill of your choosing.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Pawna's Tears is an extremely high-value item that adds five levels to any spell or skill chosen by the imbiber. The potion does not expire.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "none",
+          "value": 5
+        }
+      ],
+      "name": "Skill/Spell Boost",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "Use"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Imbiber receives a boost to skill or spell of choice",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "Use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "pawna-s-tears",
+  "images": [
+    {
+      "alt": "Pawna's Tears Potion",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/db/Pawnas_Tears.jpg/revision/latest?cb=20240319152134",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Potion"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-02T12:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-02T12:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Pawna's Tears",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Pawna's_Tears",
+    "source_type": "wiki"
+  },
+  "rarity": "Legendary",
+  "rules_text": "Adds five levels to any spell or skill chosen by the imbiber.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Potion",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

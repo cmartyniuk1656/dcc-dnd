@@ -1,0 +1,117 @@
+{
+  "activation": [],
+  "ai_description": "The full text can be found on pp. 198-199 of the Kindle and print editions, or at 3:30 of Chapter 19 in the audiobook.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "A pink orchid contained inside the Engaged Lock Box of the Night Wyrm.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Unconsciousness",
+      "notes": "Renders you unconscious for one hour with your health at 1%.",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Boon Choice",
+      "notes": "Grants one of three permanent boons.",
+      "outcomes": [
+        {
+          "effects": [],
+          "prob": null,
+          "result": "Triple Constitution",
+          "weight": 1
+        },
+        {
+          "effects": [],
+          "prob": null,
+          "result": "Celestial Attendant",
+          "weight": 1
+        },
+        {
+          "effects": [],
+          "prob": null,
+          "result": "Pregnancy",
+          "weight": 1
+        }
+      ],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "after unconsciousness"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "orchid-of-eileithyia-s-grace",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b8/00874.jpg/revision/latest?cb=20240227223315",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Orchid of Eileithyia's Grace",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Orchid_of_Eileithyia's_Grace",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "A pink orchid that grants one of three boons from the goddess Eileithyia after use.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

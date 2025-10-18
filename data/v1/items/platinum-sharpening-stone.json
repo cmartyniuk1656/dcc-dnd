@@ -1,0 +1,71 @@
+{
+  "activation": [],
+  "ai_description": "Platinum Sharpening Stone. Warning: This item has a short shelf life. Apply this to any spiked offensive weapon to receive the following buffs. Plus (2 x current level)% damage to all attacks. Plus 1 to all current stat buffs. Does not add new buffs if they do not exist. It also makes the weapon look extra oily and mean looking. In other words, the weapon’s appearance may change. But only a little.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Applied to a spiked offensive weapon: Plus (2 x current level)% damage to all attacks. Plus 1 to all current stat buffs.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "platinum-sharpening-stone",
+  "images": [
+    {
+      "alt": "Platinum Sharpening Stone",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9e/Platinum_Sharpening_Stone.jpg/revision/latest?cb=20240414145613",
+      "srcset": [],
+      "title": "Platinum Sharpening Stone",
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Platinum Sharpening Stone",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Platinum_Sharpening_Stone",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Applied to a spiked offensive weapon: Plus (2 x current level)% damage to all attacks. Plus 1 to all current stat buffs.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Short shelf life"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

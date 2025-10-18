@@ -1,0 +1,68 @@
+{
+  "activation": [],
+  "ai_description": "Casket in the Sky. Party Planner. Tilt Rotor Stealth Light Bomber. This vehicle is classed as tier three Armor for the purposes of Faction Wars.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Party Planner is an airship received in a Celestial box for surviving being marked for death.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "party-planner",
+  "images": [
+    {
+      "alt": "Party Planner Airship",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9e/Screen_Shot_2025-03-06_at_8.47.33_PM.png/revision/latest?cb=20250307024836",
+      "srcset": [],
+      "title": "Party Planner",
+      "transparent": null,
+      "type": "splash",
+      "width": null
+    }
+  ],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Vehicle"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Party Planner",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Party_Planner_Vehicle",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Party Planner is a light bomber designed for stealth missions.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Vehicle",
+    "Celestial",
+    "Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

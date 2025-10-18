@@ -1,0 +1,50 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [
+    "Indigenous Species Protection Act"
+  ],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Indigenous Planetary Species Protection Act is a Syndicate law governing 'collection actions' and the creation of World Dungeons for Dungeon Crawler World.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "indigenous-planetary-species-protection-act",
+  "images": [],
+  "kind": "Other",
+  "kind_detail": [
+    "Syndicate Law"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Indigenous Planetary Species Protection Act",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Indigenous_Planetary_Species_Protection_Act",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Governs collection actions and World Dungeon creation.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Syndicate Law"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,72 @@
+{
+  "activation": [],
+  "ai_description": "The Bard’s Golden Throat – Enchanted Headset Microphone.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A microphone that automatically tunes songs to within one and a half steps of the correct note, assists in the proper formation of bard based songs and amplifies noise to twice normal volume, this can be increased to five times normal volume. It also provides +5% charisma.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CHA",
+          "value": 5
+        }
+      ],
+      "name": "Amplification",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "equipped"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "bard-s-golden-throat",
+  "images": [],
+  "kind": "Apparel",
+  "kind_detail": [
+    "Face Covering"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Bard's Golden Throat",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Bard's_Golden_Throat",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Equipped Items",
+    "Accessories",
+    "Floor 8"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

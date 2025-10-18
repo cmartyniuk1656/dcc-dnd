@@ -1,0 +1,95 @@
+{
+  "activation": [],
+  "ai_description": "Rockard’s Ring of Sniping is named after Rockard, an orcish warrior known for stealing glory from other crawlers. Wearing this ring imbues benefits including the Ripe Benefit and the Loaded Benefit.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "An amber-stoned ring.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Ripe Benefit",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Loaded Benefit",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "rockard-s-ring-of-sniping",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/88/00229.jpg/revision/latest?cb=20231123181028",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-25T12:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-25T12:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Rockard's Ring of Sniping",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Rockard's_Ring_of_Sniping",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Ring",
+  "tags": [
+    "Equipped Items",
+    "Jewelry",
+    "Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

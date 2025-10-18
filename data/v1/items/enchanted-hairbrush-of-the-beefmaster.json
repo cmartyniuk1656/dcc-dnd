@@ -1,0 +1,157 @@
+{
+  "activation": [],
+  "ai_description": "The Enchanted Hairbrush of the Beefmaster. This item may only be used on a male with an average hair length of 25 centimeters or longer. This item may only be used on a single person, once per day. Your history is filled with luscious men whose power resided in their lovely locks. Now, it’s your turn. If you use this magical hairbrush upon your head for five minutes straight, you will receive the following benefits for the next thirty hours: The Shining Charisma Benefit. The Speedster Benefit. Plus 25% to your constitution. Level 10 Entourage Spell. Plus your hair will be shiny and healthy, and it will goddamn glisten.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The hairbrush is shining gold with a jeweled handle. It shrieks like 'a group of women squealing and cheering at a rock concert' when Carl is brushing his hair. When he stops, the brush shouts 'Encore!' and only stops after 2 minutes.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Shining Charisma Benefit",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Speedster Benefit",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Increase Constitution by 25%",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Level 10 Entourage Spell",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Shiny and healthy hair",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-hairbrush-of-the-beefmaster",
+  "images": [
+    {
+      "alt": "Art by u/mastahpotato, Reddit",
+      "attribution": {
+        "author": "u/mastahpotato",
+        "license": null,
+        "source_url": "https://www.reddit.com/"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/ca/Carl_mastahpotato.gif/revision/latest?cb=20250827045006",
+      "srcset": [],
+      "title": "Carl mastahpotato.gif",
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by @autumnalfrost, Tumblr",
+      "attribution": {
+        "author": "@autumnalfrost",
+        "license": null,
+        "source_url": "https://www.tumblr.com/"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/4c/Hairbrush_of_the_beefmaster_by_autumnalfrost.jpg/revision/latest?cb=20250713220819",
+      "srcset": [],
+      "title": "Hairbrush of the beefmaster by autumnalfrost.jpg",
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Hair Brush"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Hairbrush of the Beefmaster",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Hairbrush_of_the_Beefmaster",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "The hairbrush grants various charisma and speed benefits when used.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Hair Brush",
+  "tags": [
+    "Divine"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

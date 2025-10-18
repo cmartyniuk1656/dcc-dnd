@@ -1,4 +1,3972 @@
 {
-  "total": 0,
-  "items": []
+  "total": 379,
+  "items": [
+    {
+      "id": "1914-box",
+      "name": "1914 Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes",
+        "Floor 9"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/80/1914.png/revision/latest?cb=20250307205033",
+      "url": "/data/v1/items/1914-box.json"
+    },
+    {
+      "id": "1965-harley-davidson",
+      "name": "1965 Harley Davidson",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Earth",
+        "Items",
+        "Vehicles",
+        "Carl",
+        "Floor 4",
+        "Floor 8"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/fb/543066377o.jpg/revision/latest?cb=20231128202533",
+      "url": "/data/v1/items/1965-harley-davidson.json"
+    },
+    {
+      "id": "1965-harley-davidson",
+      "name": "1965 Harley Davidson",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Vehicles",
+        "Earth Items",
+        "Items",
+        "Carl",
+        "Floor 4",
+        "Floor 8"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/fb/543066377o.jpg/revision/latest?cb=20231128202533",
+      "url": "/data/v1/items/1965-harley-davidson.json"
+    },
+    {
+      "id": "accounts-tab",
+      "name": "Accounts Tab",
+      "kind": "Interface",
+      "subcategory": null,
+      "tags": [
+        "Crawler Interface",
+        "Dungeon Mechanics",
+        "Crafting"
+      ],
+      "image": null,
+      "url": "/data/v1/items/accounts-tab.json"
+    },
+    {
+      "id": "achievement",
+      "name": "Achievement",
+      "kind": "Mechanic",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/achievement.json"
+    },
+    {
+      "id": "adept-fountain-pen",
+      "name": "Adept's Fountain Pen",
+      "kind": "Tool",
+      "subcategory": null,
+      "tags": [
+        "Calligraphy",
+        "Pen"
+      ],
+      "image": null,
+      "url": "/data/v1/items/adept-fountain-pen.json"
+    },
+    {
+      "id": "adept-s-fountain-pen",
+      "name": "Adept's Fountain Pen",
+      "kind": "Tool",
+      "subcategory": null,
+      "tags": [
+        "Calligraphy Pen"
+      ],
+      "image": null,
+      "url": "/data/v1/items/adept-s-fountain-pen.json"
+    },
+    {
+      "id": "adepts-fountain-pen",
+      "name": "Adept's Fountain Pen",
+      "kind": "Tool",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/adepts-fountain-pen.json"
+    },
+    {
+      "id": "adventurer-box",
+      "name": "Adventurer Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/adventurer-box.json"
+    },
+    {
+      "id": "adventurer-s-box",
+      "name": "Adventurer's Box",
+      "kind": "LootBox",
+      "subcategory": "",
+      "tags": [
+        "Loot Boxes"
+      ],
+      "image": null,
+      "url": "/data/v1/items/adventurer-s-box.json"
+    },
+    {
+      "id": "alchemy-table",
+      "name": "Alchemy Table",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "crafting",
+        "alchemy",
+        "loot transformation"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/63/Alchemy_Table_lvl3.png/revision/latest?cb=20250306044230",
+      "url": "/data/v1/items/alchemy-table.json"
+    },
+    {
+      "id": "alpha-male-carl",
+      "name": "Alpha Male Carl",
+      "kind": "Card",
+      "subcategory": null,
+      "tags": [
+        "T'Ghee Card"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/ad/Alpha_Carl_by_nulli_cat.jpg/revision/latest?cb=20250713221839",
+      "url": "/data/v1/items/alpha-male-carl.json"
+    },
+    {
+      "id": "apostate-box",
+      "name": "Apostate Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/apostate-box.json"
+    },
+    {
+      "id": "apothecary-beanie",
+      "name": "Apothecary Beanie",
+      "kind": "Apparel",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/apothecary-beanie.json"
+    },
+    {
+      "id": "apparel-box",
+      "name": "Apparel Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/5c/00846.jpg/revision/latest?cb=20240224175903",
+      "url": "/data/v1/items/apparel-box.json"
+    },
+    {
+      "id": "armorer-s-workshop",
+      "name": "Armorer's Workshop",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "Crafting",
+        "Workbench",
+        "Personal Space"
+      ],
+      "image": null,
+      "url": "/data/v1/items/armorer-s-workshop.json"
+    },
+    {
+      "id": "arrow-of-enthusiastic-double-gonorrhea",
+      "name": "Arrow of Enthusiastic Double Gonorrhea",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/arrow-of-enthusiastic-double-gonorrhea.json"
+    },
+    {
+      "id": "assassins-box",
+      "name": "Assassin's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Box"
+      ],
+      "image": null,
+      "url": "/data/v1/items/assassins-box.json"
+    },
+    {
+      "id": "assassins-box",
+      "name": "Assassin's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/assassins-box.json"
+    },
+    {
+      "id": "asshole-s-box",
+      "name": "Asshole's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/asshole-s-box.json"
+    },
+    {
+      "id": "assholes-box",
+      "name": "Asshole's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/assholes-box.json"
+    },
+    {
+      "id": "automaton-table",
+      "name": "Automaton Table",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "Crafting Tables",
+        "Crafting",
+        "Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/5e/Automaton_Table.jpg/revision/latest?cb=20240830210146",
+      "url": "/data/v1/items/automaton-table.json"
+    },
+    {
+      "id": "bam-bam",
+      "name": "Bam Bam",
+      "kind": "Card",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/bam-bam.json"
+    },
+    {
+      "id": "bandages",
+      "name": "Bandages",
+      "kind": "Consumable",
+      "subcategory": "Pharmaceuticals",
+      "tags": [
+        "Utility Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/bandages.json"
+    },
+    {
+      "id": "bard-golden-throat",
+      "name": "Bard's Golden Throat",
+      "kind": "Apparel",
+      "subcategory": "Face Covering",
+      "tags": [
+        "Equipped Items",
+        "Accessories",
+        "Floor 8"
+      ],
+      "image": null,
+      "url": "/data/v1/items/bard-golden-throat.json"
+    },
+    {
+      "id": "bard-s-golden-throat",
+      "name": "Bard's Golden Throat",
+      "kind": "Apparel",
+      "subcategory": null,
+      "tags": [
+        "Equipped Items",
+        "Accessories",
+        "Floor 8"
+      ],
+      "image": null,
+      "url": "/data/v1/items/bard-s-golden-throat.json"
+    },
+    {
+      "id": "beguiler-box",
+      "name": "Beguiler Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/beguiler-box.json"
+    },
+    {
+      "id": "belt-of-buoyancy",
+      "name": "Belt of Buoyancy",
+      "kind": "Accessory",
+      "subcategory": "Equipped Item",
+      "tags": [
+        "Quadruped"
+      ],
+      "image": null,
+      "url": "/data/v1/items/belt-of-buoyancy.json"
+    },
+    {
+      "id": "benefactor-box",
+      "name": "Benefactor Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/benefactor-box.json"
+    },
+    {
+      "id": "big-daddy-box",
+      "name": "Big Daddy Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/87/Big_Daddy_Box.jpg/revision/latest?cb=20250320042444",
+      "url": "/data/v1/items/big-daddy-box.json"
+    },
+    {
+      "id": "big-top-ticket",
+      "name": "Big Top Ticket",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/ff/Big_Top_Ticket.png/revision/latest?cb=20250719051938",
+      "url": "/data/v1/items/big-top-ticket.json"
+    },
+    {
+      "id": "blitz-sticks",
+      "name": "Blitz Sticks",
+      "kind": "Consumable",
+      "subcategory": "Pharmaceutical",
+      "tags": [
+        "Magical"
+      ],
+      "image": null,
+      "url": "/data/v1/items/blitz-sticks.json"
+    },
+    {
+      "id": "bolt-of-ophiotaurus",
+      "name": "Bolt of Ophiotaurus",
+      "kind": "Projectile",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/bolt-of-ophiotaurus.json"
+    },
+    {
+      "id": "bolt-of-petrify-rock-class",
+      "name": "Bolt of Petrify Rock Class",
+      "kind": "Projectile",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/bolt-of-petrify-rock-class.json"
+    },
+    {
+      "id": "bolt-thrower-s-workshop",
+      "name": "Bolt-Thrower's Workshop",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "Crafting Tables",
+        "Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/55/Crossbow_bolts_workshop.png/revision/latest?cb=20250306052636",
+      "url": "/data/v1/items/bolt-thrower-s-workshop.json"
+    },
+    {
+      "id": "bomb-upgrade-patch",
+      "name": "Bomb Upgrade Patch",
+      "kind": "Item",
+      "subcategory": "Upgrade Patch",
+      "tags": [
+        "Patch",
+        "Upgrade"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/49/Bomb_patch.png/revision/latest?cb=20240915165207",
+      "url": "/data/v1/items/bomb-upgrade-patch.json"
+    },
+    {
+      "id": "book-burner-patch",
+      "name": "Book Burner Upgrade Patch",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Embroidered"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/23/Book_burner_patch.PNG/revision/latest?cb=20241130195146",
+      "url": "/data/v1/items/book-burner-patch.json"
+    },
+    {
+      "id": "borough-field-guide",
+      "name": "Borough Field Guide",
+      "kind": "Item",
+      "subcategory": "Utility Items",
+      "tags": [
+        "Persistent Loot"
+      ],
+      "image": null,
+      "url": "/data/v1/items/borough-field-guide.json"
+    },
+    {
+      "id": "boss-box",
+      "name": "Boss Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/boss-box.json"
+    },
+    {
+      "id": "bounty-box",
+      "name": "Bounty Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9c/Bounty_Box.jpg/revision/latest?cb=20250328004838",
+      "url": "/data/v1/items/bounty-box.json"
+    },
+    {
+      "id": "brawlers-box",
+      "name": "Brawler's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/40/00144.jpg/revision/latest?cb=20231117155256",
+      "url": "/data/v1/items/brawlers-box.json"
+    },
+    {
+      "id": "brawlers-box",
+      "name": "Brawler's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/40/00144.jpg/revision/latest?cb=20231117155256",
+      "url": "/data/v1/items/brawlers-box.json"
+    },
+    {
+      "id": "brin-root",
+      "name": "Brin Root",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Crafting Materials",
+        "Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/brin-root.json"
+    },
+    {
+      "id": "bronze-condom",
+      "name": "Bronze Condom",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Safe Sex"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9d/Bea_Arthur_Condom.png/revision/latest?cb=20250305143046",
+      "url": "/data/v1/items/bronze-condom.json"
+    },
+    {
+      "id": "bugbear-paste",
+      "name": "Bugbear Paste",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Explosives",
+        "Crafting Materials",
+        "Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/bugbear-paste.json"
+    },
+    {
+      "id": "carl-doomsday-scenario",
+      "name": "Carl's Doomsday Scenario",
+      "kind": "Item",
+      "subcategory": "Explosives",
+      "tags": [
+        "Consumable Items",
+        "Explosives",
+        "Floor 3",
+        "Carl"
+      ],
+      "image": null,
+      "url": "/data/v1/items/carl-doomsday-scenario.json"
+    },
+    {
+      "id": "carl-jug-o-boom",
+      "name": "Carl's Jug O'Boom",
+      "kind": "Consumable",
+      "subcategory": "Explosive",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/Carls_Jug_o_boom_by_Ottoe57.jpg/revision/latest?cb=20250411203434",
+      "url": "/data/v1/items/carl-jug-o-boom.json"
+    },
+    {
+      "id": "carl-s-jug-o-boom",
+      "name": "Carl's Jug O'Boom",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Explosive",
+        "Crafted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/Carls_Jug_o_boom_by_Ottoe57.jpg/revision/latest?cb=20250411203434",
+      "url": "/data/v1/items/carl-s-jug-o-boom.json"
+    },
+    {
+      "id": "xistera",
+      "name": "Carl's Xistera",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [
+        "Equipable",
+        "Ranged"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/28/Chist%C3%A9ra.jpg/revision/latest?cb=20240401210013",
+      "url": "/data/v1/items/xistera.json"
+    },
+    {
+      "id": "carl-doomsday-scenario-item",
+      "name": "Carl\u2019s Doomsday Scenario",
+      "kind": "Item",
+      "subcategory": "Consumable Items",
+      "tags": [
+        "Unstable",
+        "custom",
+        "explosive"
+      ],
+      "image": null,
+      "url": "/data/v1/items/carl-doomsday-scenario-item.json"
+    },
+    {
+      "id": "carl-s-doomsday-scenario",
+      "name": "Carl\u2019s Doomsday Scenario",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/carl-s-doomsday-scenario.json"
+    },
+    {
+      "id": "carl-s-doomsday-scenario",
+      "name": "Carl\u2019s Doomsday Scenario",
+      "kind": "Item",
+      "subcategory": "Explosives",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/carl-s-doomsday-scenario.json"
+    },
+    {
+      "id": "casino-chip",
+      "name": "Casino Chip",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Desperado Club"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c7/Casino_Chip.jpg/revision/latest?cb=20250419042521",
+      "url": "/data/v1/items/casino-chip.json"
+    },
+    {
+      "id": "celestial",
+      "name": "Celestial",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/celestial.json"
+    },
+    {
+      "id": "celestial-grenade",
+      "name": "Celestial Grenade",
+      "kind": "Consumable",
+      "subcategory": "Explosives",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/celestial-grenade.json"
+    },
+    {
+      "id": "champion-pack",
+      "name": "Champion Pack",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/champion-pack.json"
+    },
+    {
+      "id": "charm-animal-potion",
+      "name": "Charm Animal",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/charm-animal-potion.json"
+    },
+    {
+      "id": "cheat-code-potion",
+      "name": "Cheat Code Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/cheat-code-potion.json"
+    },
+    {
+      "id": "cleaner-bot",
+      "name": "Cleaner Bot",
+      "kind": "Other",
+      "subcategory": "Personal Space Upgrade",
+      "tags": [
+        "technology",
+        "personal space upgrade",
+        "floor 4"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/38/Cleaner_Bot_by_1Estel1.png/revision/latest?cb=20250515213406",
+      "url": "/data/v1/items/cleaner-bot.json"
+    },
+    {
+      "id": "cloak-of-the-benevolent-champion",
+      "name": "Cloak of the Benevolent Champion",
+      "kind": "Other",
+      "subcategory": "Cloak",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/cloak-of-the-benevolent-champion.json"
+    },
+    {
+      "id": "coffee-shop-author-kit",
+      "name": "Coffee Shop Author Kit",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "crafting",
+        "utility"
+      ],
+      "image": null,
+      "url": "/data/v1/items/coffee-shop-author-kit.json"
+    },
+    {
+      "id": "combo-card",
+      "name": "Combo Card",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/combo-card.json"
+    },
+    {
+      "id": "community-pool",
+      "name": "Community Pool",
+      "kind": "Consumable",
+      "subcategory": "Scroll",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/community-pool.json"
+    },
+    {
+      "id": "confusing-fog-spell",
+      "name": "Confusing Fog",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "fog",
+        "spell",
+        "blinding"
+      ],
+      "image": null,
+      "url": "/data/v1/items/confusing-fog-spell.json"
+    },
+    {
+      "id": "control-sigil",
+      "name": "Control Sigil",
+      "kind": "Mechanic",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/89/Control_Sigil.jpg/revision/latest?cb=20250318032606",
+      "url": "/data/v1/items/control-sigil.json"
+    },
+    {
+      "id": "cosmic-buff-potion",
+      "name": "Cosmic Buff Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [
+        "Item",
+        "Consumable",
+        "Potion"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/38/00924.jpg/revision/latest?cb=20240312130340",
+      "url": "/data/v1/items/cosmic-buff-potion.json"
+    },
+    {
+      "id": "cracker-jack",
+      "name": "Cracker Jack",
+      "kind": "Item",
+      "subcategory": "Scrolls",
+      "tags": [
+        "Consumable Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/cracker-jack.json"
+    },
+    {
+      "id": "crafter-s-box",
+      "name": "Crafter's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/1e/Crafter%27s_Box.jpg/revision/latest?cb=20250313020644",
+      "url": "/data/v1/items/crafter-s-box.json"
+    },
+    {
+      "id": "craftsman-3000-series-rolling-tool-chest",
+      "name": "Craftsman 3000 Series Rolling Tool Chest",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/06/R.jpg/revision/latest?cb=20231129191956",
+      "url": "/data/v1/items/craftsman-3000-series-rolling-tool-chest.json"
+    },
+    {
+      "id": "crawler-biscuit",
+      "name": "Crawler Biscuit",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Food",
+        "Consumable",
+        "Item"
+      ],
+      "image": null,
+      "url": "/data/v1/items/crawler-biscuit.json"
+    },
+    {
+      "id": "crowd-control-box",
+      "name": "Crowd Control Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/crowd-control-box.json"
+    },
+    {
+      "id": "de-sleeving-box",
+      "name": "De-Sleeving Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/de-sleeving-box.json"
+    },
+    {
+      "id": "deity-s-box",
+      "name": "Deity's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/3c/00711.jpg/revision/latest?cb=20231217141745",
+      "url": "/data/v1/items/deity-s-box.json"
+    },
+    {
+      "id": "demolition-workshop-tab",
+      "name": "Demolition Workshop Tab",
+      "kind": "Interface",
+      "subcategory": null,
+      "tags": [
+        "Crawler Interface",
+        "Dungeon Mechanics",
+        "Crafting"
+      ],
+      "image": null,
+      "url": "/data/v1/items/demolition-workshop-tab.json"
+    },
+    {
+      "id": "desperado-pass-tattoo",
+      "name": "Desperado Pass",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c1/Desperado_Club_Tattoo_by_Doodlemancer.jpg/revision/latest?cb=20251012184434",
+      "url": "/data/v1/items/desperado-pass-tattoo.json"
+    },
+    {
+      "id": "did-you-really-just-cast-fireball-in-a-room-this-small-box",
+      "name": "Did-You-Really-Just-Cast-Fireball-in-a-Room-This-Small Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/73/Did_you_cast_fireball_box.jpg/revision/latest?cb=20250309043749",
+      "url": "/data/v1/items/did-you-really-just-cast-fireball-in-a-room-this-small-box.json"
+    },
+    {
+      "id": "dirty-little-phased-bolt",
+      "name": "Dirty Little Phased Bolt",
+      "kind": "Projectile",
+      "subcategory": null,
+      "tags": [
+        "Phased"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/71/Dirty_Little_Phased_Bolt.jpg/revision/latest?cb=20250325043744",
+      "url": "/data/v1/items/dirty-little-phased-bolt.json"
+    },
+    {
+      "id": "dirty-shirley",
+      "name": "Dirty Shirley",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Drink"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7f/Dirty_Shirly_Reign_Kid.jpg/revision/latest?cb=20250811021921",
+      "url": "/data/v1/items/dirty-shirley.json"
+    },
+    {
+      "id": "dismemberment-limited",
+      "name": "Dismemberment Limited",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Train Line",
+        "Named Line"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/af/Dismemberment_Limited.jpg/revision/latest?cb=20250319012632",
+      "url": "/data/v1/items/dismemberment-limited.json"
+    },
+    {
+      "id": "dr-ratchet-s-automaton-build-it-kit",
+      "name": "Doctor Ratchet's Automaton Build-It Kit",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "crafting supplies"
+      ],
+      "image": null,
+      "url": "/data/v1/items/dr-ratchet-s-automaton-build-it-kit.json"
+    },
+    {
+      "id": "doggy-door",
+      "name": "Doggy Door",
+      "kind": "Item",
+      "subcategory": "Personal Space Upgrade",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/doggy-door.json"
+    },
+    {
+      "id": "dolores-doesn-t-splat-potion",
+      "name": "Dolores Doesn't Splat Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/ba/00855.jpg/revision/latest?cb=20240225130147",
+      "url": "/data/v1/items/dolores-doesn-t-splat-potion.json"
+    },
+    {
+      "id": "dr-ratchet-s-guide-to-building-automatons-for-fun-and-profit",
+      "name": "Dr. Ratchet's Guide to Building Automatons for Fun and Profit",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Automotons"
+      ],
+      "image": null,
+      "url": "/data/v1/items/dr-ratchet-s-guide-to-building-automatons-for-fun-and-profit.json"
+    },
+    {
+      "id": "drakeas-enchanted-kerchief-of-disorder",
+      "name": "Drakea's Enchanted Kerchief of Disorder",
+      "kind": "Apparel",
+      "subcategory": "Clothing",
+      "tags": [
+        "Detect Trap Skill",
+        "Tripper Spell",
+        "Remote Detonator Benefit"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/1e/Drakea%27s_Kerchief_of_Disorder.jpg/revision/latest?cb=20250412032914",
+      "url": "/data/v1/items/drakeas-enchanted-kerchief-of-disorder.json"
+    },
+    {
+      "id": "dungeon-codex",
+      "name": "Dungeon Codex",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Item",
+        "Book",
+        "Dungeon Mechanics",
+        "Dungeon Backstage"
+      ],
+      "image": null,
+      "url": "/data/v1/items/dungeon-codex.json"
+    },
+    {
+      "id": "dungeon-gold-rush",
+      "name": "Dungeon Gold Rush",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/5d/Dungeon_Gold_Rush.png/revision/latest?cb=20250601013956",
+      "url": "/data/v1/items/dungeon-gold-rush.json"
+    },
+    {
+      "id": "dwarven-battery-fabricator",
+      "name": "Dwarven Battery Fabricator",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "Dwarven"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/02/Dwarven_Battery_Fabricator.jpg/revision/latest?cb=20250328031943",
+      "url": "/data/v1/items/dwarven-battery-fabricator.json"
+    },
+    {
+      "id": "dwarven-industrial-light-duty-automaton-contraption",
+      "name": "Dwarven Industrial Light-Duty Automaton Contraption",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Dwarven"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f3/Dwarven_Images.jpg/revision/latest?cb=20250321014726",
+      "url": "/data/v1/items/dwarven-industrial-light-duty-automaton-contraption.json"
+    },
+    {
+      "id": "earth-box",
+      "name": "Earth Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/earth-box.json"
+    },
+    {
+      "id": "earth-hobby-potion",
+      "name": "Earth Hobby Potion",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Potion"
+      ],
+      "image": "https://dungeon-crawler-carl.fandom.com/wiki/Special:Redirect/file/00097.jpg",
+      "url": "/data/v1/items/earth-hobby-potion.json"
+    },
+    {
+      "id": "earth-upgrade-patch",
+      "name": "Earth Upgrade Patch",
+      "kind": "Item",
+      "subcategory": "Patches",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/36/Screen_Printed_Earth.png/revision/latest?cb=20250803225335",
+      "url": "/data/v1/items/earth-upgrade-patch.json"
+    },
+    {
+      "id": "emberus-tattoos",
+      "name": "Emberus Tattoos",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/15/Emberus_glowing.png/revision/latest?cb=20250511025441",
+      "url": "/data/v1/items/emberus-tattoos.json"
+    },
+    {
+      "id": "enchanted-anarchist-s-battle-rattle",
+      "name": "Enchanted Anarchist's Battle Rattle",
+      "kind": "Apparel",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/be/Carl_by_Kippin21.jpg/revision/latest?cb=20250801015013",
+      "url": "/data/v1/items/enchanted-anarchist-s-battle-rattle.json"
+    },
+    {
+      "id": "enchanted-anklet-of-the-fallen-oak",
+      "name": "Enchanted Anklet of the Fallen Oak",
+      "kind": "Accessory",
+      "subcategory": "Bracelet",
+      "tags": [
+        "Fallen Oak"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/16/Enchanted_Anklet_of_the_Fallen_Oak.png/revision/latest?cb=20250625042548",
+      "url": "/data/v1/items/enchanted-anklet-of-the-fallen-oak.json"
+    },
+    {
+      "id": "enchanted-auto-buckler-of-the-peach-pit",
+      "name": "Enchanted Auto Buckler of the Peach Pit",
+      "kind": "Shield",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/93/00516.jpg/revision/latest?cb=20231205231331",
+      "url": "/data/v1/items/enchanted-auto-buckler-of-the-peach-pit.json"
+    },
+    {
+      "id": "enchanted-bigboi-boxers",
+      "name": "Enchanted BigBoi Boxers",
+      "kind": "Item",
+      "subcategory": "Equippable",
+      "tags": [
+        "Enchanted",
+        "Clothing",
+        "Equipped Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/76/Boxers_and_kneepads.jpg/revision/latest?cb=20240401171705",
+      "url": "/data/v1/items/enchanted-bigboi-boxers.json"
+    },
+    {
+      "id": "enchanted-collar-charm-of-the-effete-bourgeoisie",
+      "name": "Enchanted Collar Charm of the Effete Bourgeoisie",
+      "kind": "Accessory",
+      "subcategory": "Collar",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f7/00722.jpg/revision/latest?cb=20231219223533",
+      "url": "/data/v1/items/enchanted-collar-charm-of-the-effete-bourgeoisie.json"
+    },
+    {
+      "id": "enchanted-crown-of-the-sepsis-whore",
+      "name": "Enchanted Crown of the Sepsis Whore",
+      "kind": "Item",
+      "subcategory": "Tiara",
+      "tags": [
+        "Fleeting",
+        "Unique"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/83/ECSW.png/revision/latest?cb=20230908180045",
+      "url": "/data/v1/items/enchanted-crown-of-the-sepsis-whore.json"
+    },
+    {
+      "id": "enchanted-fae-scale-quadruped-crupper-of-the-fleet",
+      "name": "Enchanted Fae Scale Quadruped Crupper of the Fleet",
+      "kind": "Item",
+      "subcategory": "Clothing",
+      "tags": [
+        "Fairy"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/ae/Fae_Crupper_by_Kat.monedero.jpg/revision/latest?cb=20250903003615",
+      "url": "/data/v1/items/enchanted-fae-scale-quadruped-crupper-of-the-fleet.json"
+    },
+    {
+      "id": "enchanted-fang-caps-of-the-expectorating-tizheruk",
+      "name": "Enchanted Fang Caps of the Expectorating Tizheruk",
+      "kind": "Item",
+      "subcategory": "Fleeting Item",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/92/Fang_Caps.png/revision/latest?cb=20251006020541",
+      "url": "/data/v1/items/enchanted-fang-caps-of-the-expectorating-tizheruk.json"
+    },
+    {
+      "id": "enchanted-fur-brush-of-the-ecclesiastic",
+      "name": "Enchanted Fur Brush of the Ecclesiastic",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Utility Items",
+        "Pet Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/enchanted-fur-brush-of-the-ecclesiastic.json"
+    },
+    {
+      "id": "enchanted-gnome-farseer",
+      "name": "Enchanted Gnome Farseer",
+      "kind": "Item",
+      "subcategory": "Utility Items",
+      "tags": [
+        "telescope",
+        "gravity-based bombs",
+        "accuracy"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/12/00511.jpg/revision/latest?cb=20231205213745",
+      "url": "/data/v1/items/enchanted-gnome-farseer.json"
+    },
+    {
+      "id": "enchanted-hairbrush-of-the-beefmaster",
+      "name": "Enchanted Hairbrush of the Beefmaster",
+      "kind": "Item",
+      "subcategory": "Hair Brush",
+      "tags": [
+        "Divine"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/ca/Carl_mastahpotato.gif/revision/latest?cb=20250827045006",
+      "url": "/data/v1/items/enchanted-hairbrush-of-the-beefmaster.json"
+    },
+    {
+      "id": "enchanted-hammer-of-fast-forward",
+      "name": "Enchanted Hammer of Fast Forward",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/74/00902.jpg/revision/latest?cb=20240306144430",
+      "url": "/data/v1/items/enchanted-hammer-of-fast-forward.json"
+    },
+    {
+      "id": "enchanted-handcuffs",
+      "name": "Enchanted Handcuffs",
+      "kind": "Item",
+      "subcategory": "Accessories",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/23/Enchanted_Handcuffs.jpg/revision/latest?cb=20250412043723",
+      "url": "/data/v1/items/enchanted-handcuffs.json"
+    },
+    {
+      "id": "enchanted-lock-box-of-the-night-wyrm",
+      "name": "Enchanted Lock Box of the Night Wyrm",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Celestial"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/bf/Enchanted_Lock_Box.png/revision/latest?cb=20250417024832",
+      "url": "/data/v1/items/enchanted-lock-box-of-the-night-wyrm.json"
+    },
+    {
+      "id": "enchanted-mongoliensis-saddle",
+      "name": "Enchanted Mongoliensis Saddle",
+      "kind": "Item",
+      "subcategory": "Pet Item",
+      "tags": [
+        "Pet",
+        "Mongo"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/ed/Mongo_and_Donut_by_Willowroxas.jpg/revision/latest?cb=20250719022051",
+      "url": "/data/v1/items/enchanted-mongoliensis-saddle.json"
+    },
+    {
+      "id": "enchanted-necklace-of-haute-bourgeoisie",
+      "name": "Enchanted Necklace of Haute Bourgeoisie",
+      "kind": "Accessory",
+      "subcategory": "Necklace",
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/2d/00183.jpg/revision/latest?cb=20231120204007",
+      "url": "/data/v1/items/enchanted-necklace-of-haute-bourgeoisie.json"
+    },
+    {
+      "id": "enchanted-night-wyrm-s-ring-of-divine-suffering",
+      "name": "Enchanted Night Wyrm's Ring of Divine Suffering",
+      "kind": "Accessory",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/3a/00084.jpg/revision/latest?cb=20231110221312",
+      "url": "/data/v1/items/enchanted-night-wyrm-s-ring-of-divine-suffering.json"
+    },
+    {
+      "id": "enchanted-nightgaunt-cloak-of-stoutness",
+      "name": "Enchanted Nightgaunt Cloak of Stoutness",
+      "kind": "Item",
+      "subcategory": "Clothing",
+      "tags": [
+        "Cloak",
+        "Nightgaunt",
+        "Apparel"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b0/Enchanted_Nightgaunt_Cloak_of_Stoutness.png/revision/latest?cb=20250809045946",
+      "url": "/data/v1/items/enchanted-nightgaunt-cloak-of-stoutness.json"
+    },
+    {
+      "id": "enchanted-nipple-ring-of-the-defiler",
+      "name": "Enchanted Nipple Ring of the Defiler",
+      "kind": "Item",
+      "subcategory": "Jewelry",
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/de/Nipple_Ring_of_the_Defiler.jpg/revision/latest?cb=20240414135955",
+      "url": "/data/v1/items/enchanted-nipple-ring-of-the-defiler.json"
+    },
+    {
+      "id": "enchanted-nipple-ring-of-the-superior-fire-demons-hand-maiden",
+      "name": "Enchanted Nipple Ring of the Superior Fire Demon\u2019s Hand Maiden",
+      "kind": "Accessory",
+      "subcategory": "Nipple Ring",
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/e8/00537.jpg/revision/latest?cb=20231206134835",
+      "url": "/data/v1/items/enchanted-nipple-ring-of-the-superior-fire-demons-hand-maiden.json"
+    },
+    {
+      "id": "enchanted-obsidian-bracelet-of-the-raggle-rouser",
+      "name": "Enchanted Obsidian Bracelet of the Raggle Rouser",
+      "kind": "Accessory",
+      "subcategory": null,
+      "tags": [
+        "Jewelry",
+        "Equipped Items",
+        "Clothing",
+        "Accessories",
+        "Floor 6"
+      ],
+      "image": null,
+      "url": "/data/v1/items/enchanted-obsidian-bracelet-of-the-raggle-rouser.json"
+    },
+    {
+      "id": "enchanted-pauper-s-ring-of-the-steadfast-emberus",
+      "name": "Enchanted Pauper's Ring of the Steadfast Emberus",
+      "kind": "Item",
+      "subcategory": "Ring",
+      "tags": [
+        "Ring",
+        "Equipped Item",
+        "Jewelry"
+      ],
+      "image": "https://dungeon-crawler-carl.fandom.com/wiki/Special:Upload/00160.jpg",
+      "url": "/data/v1/items/enchanted-pauper-s-ring-of-the-steadfast-emberus.json"
+    },
+    {
+      "id": "enchanted-pedicure-kit-of-the-sylph",
+      "name": "Enchanted Pedicure Kit of the Sylph",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/dd/Pedicure_Kit.png/revision/latest?cb=20250530034240",
+      "url": "/data/v1/items/enchanted-pedicure-kit-of-the-sylph.json"
+    },
+    {
+      "id": "enchanted-prison-tattoo-kit",
+      "name": "Enchanted Prison Tattoo Kit",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/enchanted-prison-tattoo-kit.json"
+    },
+    {
+      "id": "enchanted-repeating-crossbow-of-the-scavenger-mother-of-mothers",
+      "name": "Enchanted Repeating Crossbow of the Scavenger Mother of Mothers",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [
+        "Enchanted",
+        "Unique"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/79/Crossbow.png/revision/latest?cb=20250307023533",
+      "url": "/data/v1/items/enchanted-repeating-crossbow-of-the-scavenger-mother-of-mothers.json"
+    },
+    {
+      "id": "enchanted-right-back-atcha-personal-shield",
+      "name": "Enchanted Right Back Atcha Personal Shield",
+      "kind": "Shield",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/enchanted-right-back-atcha-personal-shield.json"
+    },
+    {
+      "id": "enchanted-roll-of-never-ending-duct-tape",
+      "name": "Enchanted Roll of Never-ending Duct Tape",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b8/Duct_Tape_Waterkangaroo73.webp/revision/latest?cb=20250723035510",
+      "url": "/data/v1/items/enchanted-roll-of-never-ending-duct-tape.json"
+    },
+    {
+      "id": "enchanted-shade-gnoll-riot-forces-crowd-control-shield",
+      "name": "Enchanted Shade Gnoll Riot Forces Crowd Control Shield",
+      "kind": "Shield",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b6/Shade_Gnoll_Riot_Shield.jpg/revision/latest?cb=20250331035816",
+      "url": "/data/v1/items/enchanted-shade-gnoll-riot-forces-crowd-control-shield.json"
+    },
+    {
+      "id": "enchanted-shade-gnoll-riot-forces-telescoping-crowd-control-baton",
+      "name": "Enchanted Shade Gnoll Riot Forces Telescoping Crowd Control Baton",
+      "kind": "Weapon",
+      "subcategory": "Baton",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/34/Expandable-steel-baton-841598_2048x2048.webp/revision/latest?cb=20250411204829",
+      "url": "/data/v1/items/enchanted-shade-gnoll-riot-forces-telescoping-crowd-control-baton.json"
+    },
+    {
+      "id": "enchanted-shuriken-of-bloodlust",
+      "name": "Enchanted Shuriken of Bloodlust",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c2/Shiriken_of_Bloodlust.png/revision/latest?cb=20250525235146",
+      "url": "/data/v1/items/enchanted-shuriken-of-bloodlust.json"
+    },
+    {
+      "id": "enchanted-silver-bracelet-of-the-ab-solar",
+      "name": "Enchanted Silver Bracelet of the Ab-solar",
+      "kind": "Accessory",
+      "subcategory": "Bracelet",
+      "tags": [
+        "jewelry",
+        "equipped items",
+        "clothing",
+        "accessories"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/68/GarlicBracelet.jpg/revision/latest?cb=20241126003840",
+      "url": "/data/v1/items/enchanted-silver-bracelet-of-the-ab-solar.json"
+    },
+    {
+      "id": "enchanted-spiked-knee-pads-of-the-munificent-goddess-kina",
+      "name": "Enchanted Spiked Knee Pads of the Munificent Goddess Kina",
+      "kind": "Accessory",
+      "subcategory": "Knee Pad",
+      "tags": [
+        "Celestial",
+        "Divine"
+      ],
+      "image": null,
+      "url": "/data/v1/items/enchanted-spiked-knee-pads-of-the-munificent-goddess-kina.json"
+    },
+    {
+      "id": "enchanted-spiked-kneepads-of-the-shade-gnoll-riot-forces",
+      "name": "Enchanted Spiked Kneepads of the Shade Gnoll Riot Forces",
+      "kind": "Item",
+      "subcategory": "Equipped Items",
+      "tags": [
+        "Clothing"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/76/Boxers_and_kneepads.jpg/revision/latest?cb=20240401171705",
+      "url": "/data/v1/items/enchanted-spiked-kneepads-of-the-shade-gnoll-riot-forces.json"
+    },
+    {
+      "id": "enchanted-stick-of-cascadia-screams",
+      "name": "Enchanted Stick of Cascadia Screams",
+      "kind": "Item",
+      "subcategory": "Utility Items",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/0a/00705.jpg/revision/latest?cb=20231216222709",
+      "url": "/data/v1/items/enchanted-stick-of-cascadia-screams.json"
+    },
+    {
+      "id": "enchanted-tiara-of-mana-genita",
+      "name": "Enchanted Tiara of Mana Genita",
+      "kind": "Accessory",
+      "subcategory": null,
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/51/Donut_by_Kojin_Harth.png/revision/latest?cb=20250723040935",
+      "url": "/data/v1/items/enchanted-tiara-of-mana-genita.json"
+    },
+    {
+      "id": "enchanted-tiara-of-the-inebriated-dragonfly",
+      "name": "Enchanted Tiara of the Inebriated Dragonfly",
+      "kind": "Accessory",
+      "subcategory": "Tiara",
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/52/Enchanted_Tiara_of_the_Inebriated_Dragonfly.jpg/revision/latest?cb=20240415132950",
+      "url": "/data/v1/items/enchanted-tiara-of-the-inebriated-dragonfly.json"
+    },
+    {
+      "id": "enchanted-toe-ring-of-the-leprous-bandit",
+      "name": "Enchanted Toe Ring of the Leprous Bandit",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Unique"
+      ],
+      "image": null,
+      "url": "/data/v1/items/enchanted-toe-ring-of-the-leprous-bandit.json"
+    },
+    {
+      "id": "enchanted-toe-ring-of-the-splatter-skunk",
+      "name": "Enchanted Toe Ring of the Splatter Skunk",
+      "kind": "Accessory",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/33/Toe_Ring_of_the_Splatter_Skunk.jpg/revision/latest?cb=20250317042750",
+      "url": "/data/v1/items/enchanted-toe-ring-of-the-splatter-skunk.json"
+    },
+    {
+      "id": "enchanted-toe-ring-of-the-well-balanced",
+      "name": "Enchanted Toe Ring of the Well-Balanced",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/enchanted-toe-ring-of-the-well-balanced.json"
+    },
+    {
+      "id": "enchanted-trollskin-shirt-of-pummeling",
+      "name": "Enchanted Trollskin Shirt of Pummeling",
+      "kind": "Apparel",
+      "subcategory": null,
+      "tags": [
+        "Regeneration"
+      ],
+      "image": null,
+      "url": "/data/v1/items/enchanted-trollskin-shirt-of-pummeling.json"
+    },
+    {
+      "id": "enchanted-venomous-elven-rock-chucker",
+      "name": "Enchanted Venomous Elven Rock Chucker",
+      "kind": "Other",
+      "subcategory": "Siege Equipment",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/enchanted-venomous-elven-rock-chucker.json"
+    },
+    {
+      "id": "enchanted-war-gauntlet-of-the-exalted-grull",
+      "name": "Enchanted War Gauntlet of the Exalted Grull",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/2a/War_Gauntlet_by_Erik_Wilson.jpg/revision/latest?cb=20250406043150",
+      "url": "/data/v1/items/enchanted-war-gauntlet-of-the-exalted-grull.json"
+    },
+    {
+      "id": "enchanted-wrestling-belt-of-the-great-gorgo",
+      "name": "Enchanted Wrestling Belt of the Great Gorgo",
+      "kind": "Item",
+      "subcategory": "Belt",
+      "tags": [
+        "Enchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/91/Wrestling_Belt_by_Nullicat.jpg/revision/latest?cb=20251012183149",
+      "url": "/data/v1/items/enchanted-wrestling-belt-of-the-great-gorgo.json"
+    },
+    {
+      "id": "1",
+      "name": "Enemy of the Church",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/ff/Enemy_of_the_church.jpeg/revision/latest?cb=20250805043552",
+      "url": "/data/v1/items/1.json"
+    },
+    {
+      "id": "engaged-lock-box-of-the-night-wyrm",
+      "name": "Engaged Lock Box of the Night Wyrm",
+      "kind": "Item",
+      "subcategory": "Quest Item",
+      "tags": [
+        "Attuned"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/81/00872.jpg/revision/latest?cb=20240227214555",
+      "url": "/data/v1/items/engaged-lock-box-of-the-night-wyrm.json"
+    },
+    {
+      "id": "engine-of-tomorrow",
+      "name": "Engine of Tomorrow",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Robotic Eyeball",
+        "Celestial",
+        "Who Let the Gods Out This Time Box"
+      ],
+      "image": null,
+      "url": "/data/v1/items/engine-of-tomorrow.json"
+    },
+    {
+      "id": "engineers-key",
+      "name": "Engineer's Key",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/engineers-key.json"
+    },
+    {
+      "id": "engineer-table",
+      "name": "Engineer's Table",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "Crafting Tables",
+        "Items",
+        "Crafting"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/70/Engineer_Table.png/revision/latest?cb=20250306044908",
+      "url": "/data/v1/items/engineer-table.json"
+    },
+    {
+      "id": "engineering-box",
+      "name": "Engineering Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/engineering-box.json"
+    },
+    {
+      "id": "enhanced-crafting-studio",
+      "name": "Enhanced Crafting Studio",
+      "kind": "Other",
+      "subcategory": "Upgrade",
+      "tags": [
+        "Personal Space",
+        "Crafting"
+      ],
+      "image": null,
+      "url": "/data/v1/items/enhanced-crafting-studio.json"
+    },
+    {
+      "id": "enhanced-pet-biscuit",
+      "name": "Enhanced Pet Biscuit",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Food",
+        "Consumable Items",
+        "Pet Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f0/Enhanced_Pet_Biscuit_V2.png/revision/latest?cb=20250511230124",
+      "url": "/data/v1/items/enhanced-pet-biscuit.json"
+    },
+    {
+      "id": "error-replacement-net",
+      "name": "Error Replacement Net",
+      "kind": "Other",
+      "subcategory": "Primal Technology",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/error-replacement-net.json"
+    },
+    {
+      "id": "escape-velocity",
+      "name": "Escape Velocity",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Syndicate History",
+        "Primal"
+      ],
+      "image": null,
+      "url": "/data/v1/items/escape-velocity.json"
+    },
+    {
+      "id": "experience-cookies",
+      "name": "Experience Cookies",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Food",
+        "Items",
+        "Consumable Items",
+        "Floor 1"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/39/Experience_Cookie.jpg/revision/latest?cb=20240410184141",
+      "url": "/data/v1/items/experience-cookies.json"
+    },
+    {
+      "id": "explosives-box",
+      "name": "Explosives Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/explosives-box.json"
+    },
+    {
+      "id": "extinction-sigil-tattoo-wall-monitor-race",
+      "name": "Extinction Sigil Tattoo",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [
+        "tattoo",
+        "Wall Monitor Race"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/68/Carl_and_Donut_by_Content_Office.webp/revision/latest?cb=20250405035203",
+      "url": "/data/v1/items/extinction-sigil-tattoo-wall-monitor-race.json"
+    },
+    {
+      "id": "eye-in-the-sky-scroll",
+      "name": "Eye in the sky scroll",
+      "kind": "Item",
+      "subcategory": "Scroll",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/3d/00255.jpg/revision/latest?cb=20231124225127",
+      "url": "/data/v1/items/eye-in-the-sky-scroll.json"
+    },
+    {
+      "id": "fae-steel",
+      "name": "Fae Steel",
+      "kind": "Item",
+      "subcategory": "Material",
+      "tags": [
+        "Crafting Materials"
+      ],
+      "image": "https://dungeon-crawler-carl.fandom.com/wiki/Special:FilePath/Fae%20Steel.jpg",
+      "url": "/data/v1/items/fae-steel.json"
+    },
+    {
+      "id": "failsafe",
+      "name": "Failsafe",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/failsafe.json"
+    },
+    {
+      "id": "fan-box",
+      "name": "Fan Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/fan-box.json"
+    },
+    {
+      "id": "filthy-little-crawlers-book-of-voodoo",
+      "name": "Filthy Little Crawlers Book of Voodoo",
+      "kind": "Item",
+      "subcategory": "Utility Items",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/filthy-little-crawlers-book-of-voodoo.json"
+    },
+    {
+      "id": "flawless-jewlers-gem",
+      "name": "Flawless Jewlers Gem",
+      "kind": "Item",
+      "subcategory": "Upgrade Item",
+      "tags": [
+        "Utility"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/77/Flawless_Jewlers_Gem.jpg/revision/latest?cb=20250403043445",
+      "url": "/data/v1/items/flawless-jewlers-gem.json"
+    },
+    {
+      "id": "food-box",
+      "name": "Food Box",
+      "kind": "Item",
+      "subcategory": "Upgrade",
+      "tags": [
+        "Personal Space",
+        "Kitchen",
+        "Upgrade"
+      ],
+      "image": null,
+      "url": "/data/v1/items/food-box.json"
+    },
+    {
+      "id": "four-leaf-clover-patch",
+      "name": "Four-Leaf Clover Patch",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Patch",
+        "Upgrade"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/fc/Four-Leaf_Clover_Patch.png/revision/latest?cb=20250307020501",
+      "url": "/data/v1/items/four-leaf-clover-patch.json"
+    },
+    {
+      "id": "fragmenting-potion-ball",
+      "name": "Fragmenting Potion Ball",
+      "kind": "Item",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/8e/Fragmenting_Potion_Ball.jpg/revision/latest?cb=20250316045502",
+      "url": "/data/v1/items/fragmenting-potion-ball.json"
+    },
+    {
+      "id": "frogger",
+      "name": "Frogger",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Video Game",
+        "Arcade"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/4b/Frogger_arcade_flyer.jpg/revision/latest?cb=20240414211255",
+      "url": "/data/v1/items/frogger.json"
+    },
+    {
+      "id": "gangway-chock",
+      "name": "Gangway Chock",
+      "kind": "Item",
+      "subcategory": "Defense",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/62/Chock_V2.jpg/revision/latest?cb=20250315040128",
+      "url": "/data/v1/items/gangway-chock.json"
+    },
+    {
+      "id": "gate-of-the-feral-gods",
+      "name": "Gate of the Feral Gods",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Floor 5",
+        "Artifacts",
+        "SOS"
+      ],
+      "image": null,
+      "url": "/data/v1/items/gate-of-the-feral-gods.json"
+    },
+    {
+      "id": "gate-pass",
+      "name": "Gate Pass",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/gate-pass.json"
+    },
+    {
+      "id": "glory-bound",
+      "name": "Glory Bound",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Drug"
+      ],
+      "image": "https://dungeon-crawler-carl.fandom.com/wiki/Special:FilePath/00464.jpg",
+      "url": "/data/v1/items/glory-bound.json"
+    },
+    {
+      "id": "gnomish-drop-bear",
+      "name": "Gnomish Drop Bear",
+      "kind": "Vehicle",
+      "subcategory": "Contraption",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/gnomish-drop-bear.json"
+    },
+    {
+      "id": "gnomish-knock-knock",
+      "name": "Gnomish Knock-Knock",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/gnomish-knock-knock.json"
+    },
+    {
+      "id": "gnomish-legate-balloon",
+      "name": "Gnomish Legate Balloon",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/gnomish-legate-balloon.json"
+    },
+    {
+      "id": "goblin-box",
+      "name": "Goblin Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9b/Silver_Goblin_Loot_Box.jpg/revision/latest?cb=20250511223037",
+      "url": "/data/v1/items/goblin-box.json"
+    },
+    {
+      "id": "goblin-copper-chopper",
+      "name": "Goblin Copper Chopper",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/ec/Copper_Chooper_by_Content_office.jpg/revision/latest?cb=20250830132900",
+      "url": "/data/v1/items/goblin-copper-chopper.json"
+    },
+    {
+      "id": "goblin-dynamite",
+      "name": "Goblin Dynamite",
+      "kind": "Item",
+      "subcategory": "Explosive",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a8/Goblin_Dynamite.png/revision/latest?cb=20250512035730",
+      "url": "/data/v1/items/goblin-dynamite.json"
+    },
+    {
+      "id": "goblin-pass-tattoo",
+      "name": "Goblin Pass Tattoo",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [
+        "Tattoo",
+        "Item"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/76/Goblin_Pass.jpg/revision/latest?cb=20240913092921",
+      "url": "/data/v1/items/goblin-pass-tattoo.json"
+    },
+    {
+      "id": "goblin-smoke-bomb",
+      "name": "Goblin Smoke Bomb",
+      "kind": "Consumable",
+      "subcategory": "Low Explosives",
+      "tags": [
+        "explosive",
+        "smoke",
+        "bomb"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/77/Goblin_Smoke_Bomb.png/revision/latest?cb=20250626013846",
+      "url": "/data/v1/items/goblin-smoke-bomb.json"
+    },
+    {
+      "id": "goo-inator-3000",
+      "name": "Goo-Inator 3000",
+      "kind": "Tool",
+      "subcategory": null,
+      "tags": [
+        "crafting",
+        "utility"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c2/Gooinator3000.jpg/revision/latest?cb=20240915135630",
+      "url": "/data/v1/items/goo-inator-3000.json"
+    },
+    {
+      "id": "good-mana-potion",
+      "name": "Good Mana Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/good-mana-potion.json"
+    },
+    {
+      "id": "gorgon-marital-aid",
+      "name": "Gorgon Marital Aid",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Crafting",
+        "Utility"
+      ],
+      "image": null,
+      "url": "/data/v1/items/gorgon-marital-aid.json"
+    },
+    {
+      "id": "grrl-power-box",
+      "name": "Grrl Power Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes",
+        "Floor 4"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/e4/Grrl_Power_Box.jpg/revision/latest?cb=20250328011337",
+      "url": "/data/v1/items/grrl-power-box.json"
+    },
+    {
+      "id": "gunpowder",
+      "name": "Gunpowder",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "propellent",
+        "explosive",
+        "crafting material"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/d5/Funpowder.jpg/revision/latest?cb=20240523103430",
+      "url": "/data/v1/items/gunpowder.json"
+    },
+    {
+      "id": "have-you-goddamned-figured-out-how-to-use-this-in-conjunction-with-the-fucking-voodoo-book-yet-jesus-christ-i-can-only-h",
+      "name": "Have You Goddamned Figured Out How To Use This In Conjunction With the Fucking Voodoo Book Yet? Jesus Christ I Can Only Help You So Much box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/8c/Voodoo_Book_Box.jpg/revision/latest?cb=20250309044430",
+      "url": "/data/v1/items/have-you-goddamned-figured-out-how-to-use-this-in-conjunction-with-the-fucking-voodoo-book-yet-jesus-christ-i-can-only-h.json"
+    },
+    {
+      "id": "heal-critter",
+      "name": "Heal Critter",
+      "kind": "Ability",
+      "subcategory": null,
+      "tags": [
+        "spell",
+        "restoration"
+      ],
+      "image": null,
+      "url": "/data/v1/items/heal-critter.json"
+    },
+    {
+      "id": "heal-pet-potion",
+      "name": "Heal Pet Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [
+        "Consumable",
+        "Single-Use"
+      ],
+      "image": null,
+      "url": "/data/v1/items/heal-pet-potion.json"
+    },
+    {
+      "id": "heal-scroll",
+      "name": "Heal Scroll",
+      "kind": "Item",
+      "subcategory": "Scroll",
+      "tags": [
+        "heal",
+        "scroll",
+        "consumable"
+      ],
+      "image": null,
+      "url": "/data/v1/items/heal-scroll.json"
+    },
+    {
+      "id": "heavy-metal-box",
+      "name": "Heavy Metal Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/44/Heavy_Metal_Box.jpg/revision/latest?cb=20250309045120",
+      "url": "/data/v1/items/heavy-metal-box.json"
+    },
+    {
+      "id": "hell-in-a-handbasket-box",
+      "name": "Hell In A Handbasket Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/61/Hell_in_a_handbasket_box.jpg/revision/latest?cb=20250309045547",
+      "url": "/data/v1/items/hell-in-a-handbasket-box.json"
+    },
+    {
+      "id": "hell-kissed-celestial-skill-potion-of-the-prince-of-woe",
+      "name": "Hell-Kissed Celestial Skill Potion of the Prince of Woe",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Potion",
+        "Celestial"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/90/Potion_of_woe.png/revision/latest?cb=20250307031547",
+      "url": "/data/v1/items/hell-kissed-celestial-skill-potion-of-the-prince-of-woe.json"
+    },
+    {
+      "id": "hell-kissed-potion-of-conscription",
+      "name": "Hell-Kissed Potion of Conscription",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/hell-kissed-potion-of-conscription.json"
+    },
+    {
+      "id": "here-s-some-good-shit-because-you-re-gonna-need-it-box",
+      "name": "Here's-Some-Good-Shit-Because-You're-Gonna-Need-It Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/here-s-some-good-shit-because-you-re-gonna-need-it-box.json"
+    },
+    {
+      "id": "hobgoblin-detonator",
+      "name": "Hobgoblin Detonator",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Explosives",
+        "Single-Use",
+        "Items",
+        "Consumable Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/hobgoblin-detonator.json"
+    },
+    {
+      "id": "hobgoblin-disco-ball",
+      "name": "Hobgoblin Disco Ball",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/hobgoblin-disco-ball.json"
+    },
+    {
+      "id": "hobgoblin-dynamite",
+      "name": "Hobgoblin Dynamite",
+      "kind": "Item",
+      "subcategory": "Explosive",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b3/Hobgoblin_Dynamite.png/revision/latest?cb=20251006002914",
+      "url": "/data/v1/items/hobgoblin-dynamite.json"
+    },
+    {
+      "id": "hobgoblin-hob-lobber",
+      "name": "Hobgoblin Hob-Lobber",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/hobgoblin-hob-lobber.json"
+    },
+    {
+      "id": "hobgoblin-pus",
+      "name": "Hobgoblin Pus",
+      "kind": "Item",
+      "subcategory": "Consumable Items",
+      "tags": [
+        "Explosives",
+        "Crafting Materials"
+      ],
+      "image": null,
+      "url": "/data/v1/items/hobgoblin-pus.json"
+    },
+    {
+      "id": "hobgoblin-smoke-curtain",
+      "name": "Hobgoblin Smoke Curtain",
+      "kind": "Consumable",
+      "subcategory": "Explosives",
+      "tags": [
+        "item",
+        "explosive"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c2/Hob_Smoke.jpg/revision/latest?cb=20240829201146",
+      "url": "/data/v1/items/hobgoblin-smoke-curtain.json"
+    },
+    {
+      "id": "holy-gooper-potion",
+      "name": "Holy Gooper Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/holy-gooper-potion.json"
+    },
+    {
+      "id": "homecoming-queen",
+      "name": "Homecoming Queen",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Vehicle",
+        "Freighter"
+      ],
+      "image": null,
+      "url": "/data/v1/items/homecoming-queen.json"
+    },
+    {
+      "id": "hunter-champion-box",
+      "name": "Hunter Champion Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/hunter-champion-box.json"
+    },
+    {
+      "id": "hunter-killer-box",
+      "name": "Hunter-Killer Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/hunter-killer-box.json"
+    },
+    {
+      "id": "hunting-trophy",
+      "name": "Hunting Trophy",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/hunting-trophy.json"
+    },
+    {
+      "id": "i-have-the-conch-box",
+      "name": "I Have the Conch Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes",
+        "Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/de/I_have_the_conch_box.jpg/revision/latest?cb=20250309051506",
+      "url": "/data/v1/items/i-have-the-conch-box.json"
+    },
+    {
+      "id": "i-take-it-all-back-potion",
+      "name": "I Take It All Back Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/i-take-it-all-back-potion.json"
+    },
+    {
+      "id": "indigenous-planetary-species-protection-act",
+      "name": "Indigenous Planetary Species Protection Act",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Syndicate Law"
+      ],
+      "image": null,
+      "url": "/data/v1/items/indigenous-planetary-species-protection-act.json"
+    },
+    {
+      "id": "instacot-60",
+      "name": "Instacot 60",
+      "kind": "Item",
+      "subcategory": "Personal Space / Bed Upgrade",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/instacot-60.json"
+    },
+    {
+      "id": "interdiction-auxillary-railway-repair-cart",
+      "name": "Interdiction Auxillary Railway Repair Cart",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Contraption"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f6/Auxillary_Railway_Cart.jpg/revision/latest?cb=20250328024018",
+      "url": "/data/v1/items/interdiction-auxillary-railway-repair-cart.json"
+    },
+    {
+      "id": "interdiction-rapid-response-railway-repair-cart",
+      "name": "Interdiction Rapid-Response Railway Repair Cart",
+      "kind": "Vehicle",
+      "subcategory": "Contraption",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/54/Rapid-Response_Cart.png/revision/latest?cb=20250328043227",
+      "url": "/data/v1/items/interdiction-rapid-response-railway-repair-cart.json"
+    },
+    {
+      "id": "inventory",
+      "name": "Inventory",
+      "kind": "Mechanic",
+      "subcategory": "Dungeon Mechanic",
+      "tags": [
+        "Dungeon Mechanic"
+      ],
+      "image": null,
+      "url": "/data/v1/items/inventory.json"
+    },
+    {
+      "id": "iron-skin-potion",
+      "name": "Iron Skin Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/iron-skin-potion.json"
+    },
+    {
+      "id": "it-s-not-my-fault-you-fish-headed-assholes-don-t-properly-program-your-quests-box",
+      "name": "It's Not My Fault You Fish-Headed Assholes Don't Properly Program Your Quests Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Discretionary"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/87/Program_your_quests_better_box.png/revision/latest?cb=20250307031242",
+      "url": "/data/v1/items/it-s-not-my-fault-you-fish-headed-assholes-don-t-properly-program-your-quests-box.json"
+    },
+    {
+      "id": "jelly-bomb",
+      "name": "Jelly Bomb",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Explosive",
+        "Crafted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/df/Jelly_Bomb.jpg/revision/latest?cb=20250318000222",
+      "url": "/data/v1/items/jelly-bomb.json"
+    },
+    {
+      "id": "junkies-box",
+      "name": "Junkie's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/ed/01033.png/revision/latest?cb=20231103125026",
+      "url": "/data/v1/items/junkies-box.json"
+    },
+    {
+      "id": "just-wait-until-your-daddy-gets-home",
+      "name": "Just Wait Until Your Daddy Gets Home",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Explosives"
+      ],
+      "image": null,
+      "url": "/data/v1/items/just-wait-until-your-daddy-gets-home.json"
+    },
+    {
+      "id": "king-croissant",
+      "name": "King Croissant",
+      "kind": "Card",
+      "subcategory": null,
+      "tags": [
+        "NPCs",
+        "T'Ghee Cards",
+        "Floor 8"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/37/King_Croissant_by_Mggcreates.jpg/revision/latest?cb=20250520051408",
+      "url": "/data/v1/items/king-croissant.json"
+    },
+    {
+      "id": "kua-tin-rebreather",
+      "name": "Kua-Tin Rebreather",
+      "kind": "Item",
+      "subcategory": "Syndicate Technology",
+      "tags": [
+        "Technology"
+      ],
+      "image": null,
+      "url": "/data/v1/items/kua-tin-rebreather.json"
+    },
+    {
+      "id": "left-fang-of-the-green-sultan",
+      "name": "Left Fang of the Green Sultan",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/96/Left_Fang_of_the_Green_Sultan.jpg/revision/latest?cb=20250330170054",
+      "url": "/data/v1/items/left-fang-of-the-green-sultan.json"
+    },
+    {
+      "id": "letter-from-the-council",
+      "name": "Letter from the Council",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Gate of the Feral Gods"
+      ],
+      "image": null,
+      "url": "/data/v1/items/letter-from-the-council.json"
+    },
+    {
+      "id": "letter-from-the-glass-wizard",
+      "name": "Letter from the Glass Wizard",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Gate of the Feral Gods"
+      ],
+      "image": null,
+      "url": "/data/v1/items/letter-from-the-glass-wizard.json"
+    },
+    {
+      "id": "level-up-potion",
+      "name": "Level-Up Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [
+        "Potion",
+        "Consumable Items",
+        "Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/level-up-potion.json"
+    },
+    {
+      "id": "leveled-up-frank",
+      "name": "Leveled-Up Frank",
+      "kind": "Character",
+      "subcategory": null,
+      "tags": [
+        "T'Ghee Card",
+        "Blood Assassin Class",
+        "Night Elf"
+      ],
+      "image": "https://dungeon-crawler-carl.fandom.com/wiki/Special:FilePath/00058.jpg",
+      "url": "/data/v1/items/leveled-up-frank.json"
+    },
+    {
+      "id": "liquid-therapy",
+      "name": "Liquid Therapy",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/liquid-therapy.json"
+    },
+    {
+      "id": "live-ammo-ball",
+      "name": "Live Ammo Ball",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/live-ammo-ball.json"
+    },
+    {
+      "id": "loot-boxes",
+      "name": "Loot Boxes",
+      "kind": "Mechanic",
+      "subcategory": null,
+      "tags": [
+        "loot",
+        "boxes",
+        "dungeon",
+        "mechanic"
+      ],
+      "image": null,
+      "url": "/data/v1/items/loot-boxes.json"
+    },
+    {
+      "id": "loot-punch-card",
+      "name": "Loot Punch Card",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/loot-punch-card.json"
+    },
+    {
+      "id": "looter-box",
+      "name": "Looter Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/looter-box.json"
+    },
+    {
+      "id": "lucky-bastard-box",
+      "name": "Lucky Bastard Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/lucky-bastard-box.json"
+    },
+    {
+      "id": "lucky-bitch-box",
+      "name": "Lucky Bitch Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/lucky-bitch-box.json"
+    },
+    {
+      "id": "macro-ai",
+      "name": "Macro AI",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "AI",
+        "technology"
+      ],
+      "image": null,
+      "url": "/data/v1/items/macro-ai.json"
+    },
+    {
+      "id": "magic-item-box",
+      "name": "Magic Item Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "loot",
+        "magic"
+      ],
+      "image": null,
+      "url": "/data/v1/items/magic-item-box.json"
+    },
+    {
+      "id": "magical-pet-carrier",
+      "name": "Magical Pet Carrier",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/78/Pet_Carrier.png/revision/latest?cb=20250609035154",
+      "url": "/data/v1/items/magical-pet-carrier.json"
+    },
+    {
+      "id": "major-charlie-potion",
+      "name": "Major Charlie Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/major-charlie-potion.json"
+    },
+    {
+      "id": "makeup-sex-is-the-best-sex-box",
+      "name": "Makeup Sex is the Best Sex Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/makeup-sex-is-the-best-sex-box.json"
+    },
+    {
+      "id": "makeup-table",
+      "name": "Makeup Table",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/54/Makeup_Table.png/revision/latest?cb=20250306051936",
+      "url": "/data/v1/items/makeup-table.json"
+    },
+    {
+      "id": "mana-potion",
+      "name": "Mana Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/mana-potion.json"
+    },
+    {
+      "id": "mana-toast",
+      "name": "Mana Toast",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/bb/00911.jpg/revision/latest?cb=20240309230245",
+      "url": "/data/v1/items/mana-toast.json"
+    },
+    {
+      "id": "map-of-the-stars",
+      "name": "Map of the Stars",
+      "kind": "Item",
+      "subcategory": "Utility Items",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/map-of-the-stars.json"
+    },
+    {
+      "id": "massage-coupon",
+      "name": "Massage Coupon",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/massage-coupon.json"
+    },
+    {
+      "id": "mechanics-box",
+      "name": "Mechanic's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/mechanics-box.json"
+    },
+    {
+      "id": "memorial-crystal",
+      "name": "Memorial Crystal",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/memorial-crystal.json"
+    },
+    {
+      "id": "metal-working-table",
+      "name": "Metal Working Table",
+      "kind": "CraftingStation",
+      "subcategory": null,
+      "tags": [
+        "Crafting",
+        "Crafting Tables",
+        "Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/63/Metal_Working_Table.png/revision/latest?cb=20250306052155",
+      "url": "/data/v1/items/metal-working-table.json"
+    },
+    {
+      "id": "midnight-epicure-upgrade-patch",
+      "name": "Midnight Epicure Upgrade Patch",
+      "kind": "Item",
+      "subcategory": "Patches",
+      "tags": [
+        "Upgrade Patch",
+        "Medium",
+        "Protection",
+        "Magical damage"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a2/Midnight_Epicure_Patch_by_roosterjazz.png/revision/latest?cb=20250804012947",
+      "url": "/data/v1/items/midnight-epicure-upgrade-patch.json"
+    },
+    {
+      "id": "mined-material-reclamation-act",
+      "name": "Mined Material Reclamation Act",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Syndicate Law"
+      ],
+      "image": null,
+      "url": "/data/v1/items/mined-material-reclamation-act.json"
+    },
+    {
+      "id": "map",
+      "name": "Minimap",
+      "kind": "Interface",
+      "subcategory": null,
+      "tags": [
+        "Minimap",
+        "Map"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/02/Minimap_Sketch.jpg/revision/latest?cb=20240602125810",
+      "url": "/data/v1/items/map.json"
+    },
+    {
+      "id": "mongo-s-teeth-caps",
+      "name": "Mongo's Teeth Caps",
+      "kind": "Item",
+      "subcategory": "Pet Items",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/mongo-s-teeth-caps.json"
+    },
+    {
+      "id": "mordecai-s-special-brew",
+      "name": "Mordecai's Special Brew",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/mordecai-s-special-brew.json"
+    },
+    {
+      "id": "mother-of-all-bombs",
+      "name": "Mother of All Bombs",
+      "kind": "Item",
+      "subcategory": "Explosives",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/mother-of-all-bombs.json"
+    },
+    {
+      "id": "goblin-murder-dozer",
+      "name": "Murder Dozer",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Goblins"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c9/Murder_Dozer_by_OutFold.jpg/revision/latest?cb=20250410020200",
+      "url": "/data/v1/items/goblin-murder-dozer.json"
+    },
+    {
+      "id": "mysterious-letter",
+      "name": "Mysterious Letter",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/mysterious-letter.json"
+    },
+    {
+      "id": "neighborhood-map",
+      "name": "Neighborhood Map",
+      "kind": "Item",
+      "subcategory": "Utility Items",
+      "tags": [
+        "Persistent Loot"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c6/00833.jpg/revision/latest?cb=20240222232355",
+      "url": "/data/v1/items/neighborhood-map.json"
+    },
+    {
+      "id": "neural-enhancers",
+      "name": "Neural Enhancers",
+      "kind": "Item",
+      "subcategory": "Pharmaceuticals",
+      "tags": [
+        "Technology",
+        "Crawler Interface",
+        "Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/neural-enhancers.json"
+    },
+    {
+      "id": "night-wyrm-nasty-little-web-of-suffering-tattoo",
+      "name": "Night Wyrm's Nasty Little Web of Suffering",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/0a/Elbow_Web_Tattoo_From_Cover_Of_Book_5.png/revision/latest?cb=20250228031127",
+      "url": "/data/v1/items/night-wyrm-nasty-little-web-of-suffering-tattoo.json"
+    },
+    {
+      "id": "nightmare-express",
+      "name": "Nightmare Express",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a6/Nightmare_express.png/revision/latest?cb=20250425125724",
+      "url": "/data/v1/items/nightmare-express.json"
+    },
+    {
+      "id": "opposite-day-ring",
+      "name": "Opposite Day Ring",
+      "kind": "Consumable",
+      "subcategory": "Jewelry",
+      "tags": [
+        "Equipped",
+        "Jewelry"
+      ],
+      "image": null,
+      "url": "/data/v1/items/opposite-day-ring.json"
+    },
+    {
+      "id": "orchid-of-eileithyia-s-grace",
+      "name": "Orchid of Eileithyia's Grace",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b8/00874.jpg/revision/latest?cb=20240227223315",
+      "url": "/data/v1/items/orchid-of-eileithyia-s-grace.json"
+    },
+    {
+      "id": "pacifist-s-box",
+      "name": "Pacifist's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes"
+      ],
+      "image": null,
+      "url": "/data/v1/items/pacifist-s-box.json"
+    },
+    {
+      "id": "party-planner",
+      "name": "Party Planner",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [
+        "Vehicle",
+        "Celestial",
+        "Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9e/Screen_Shot_2025-03-06_at_8.47.33_PM.png/revision/latest?cb=20250307024836",
+      "url": "/data/v1/items/party-planner.json"
+    },
+    {
+      "id": "pawna-s-cries",
+      "name": "Pawna's Cries",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [
+        "Potion"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9b/00197.jpg/revision/latest?cb=20231121202512",
+      "url": "/data/v1/items/pawna-s-cries.json"
+    },
+    {
+      "id": "pawna-s-tears",
+      "name": "Pawna's Tears",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/db/Pawnas_Tears.jpg/revision/latest?cb=20240319152134",
+      "url": "/data/v1/items/pawna-s-tears.json"
+    },
+    {
+      "id": "peace-upgrade-patch",
+      "name": "Peace Upgrade Patch",
+      "kind": "Item",
+      "subcategory": "Patches",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/03/Peace_patch.webp/revision/latest?cb=20240917171627",
+      "url": "/data/v1/items/peace-upgrade-patch.json"
+    },
+    {
+      "id": "permacube",
+      "name": "Permacube",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Crafting Materials",
+        "Technology"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/33/Permacube.jpg/revision/latest?cb=20240523121719",
+      "url": "/data/v1/items/permacube.json"
+    },
+    {
+      "id": "pet-biscuit",
+      "name": "Pet Biscuit",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/20/Pet_Biscuit.jpg/revision/latest?cb=20250511225023",
+      "url": "/data/v1/items/pet-biscuit.json"
+    },
+    {
+      "id": "pet-box",
+      "name": "Pet Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/ab/Bronze_Pet_Box.png/revision/latest?cb=20250511222647",
+      "url": "/data/v1/items/pet-box.json"
+    },
+    {
+      "id": "pharmaceutical-starter-kit",
+      "name": "Pharmaceutical Starter Kit",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Crafting Materials",
+        "Pharmaceuticals"
+      ],
+      "image": null,
+      "url": "/data/v1/items/pharmaceutical-starter-kit.json"
+    },
+    {
+      "id": "platinum-sharpening-stone",
+      "name": "Platinum Sharpening Stone",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Short shelf life"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9e/Platinum_Sharpening_Stone.jpg/revision/latest?cb=20240414145613",
+      "url": "/data/v1/items/platinum-sharpening-stone.json"
+    },
+    {
+      "id": "poison-antidote",
+      "name": "Poison Antidote",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Potion",
+        "Pharmaceutical",
+        "Consumable"
+      ],
+      "image": null,
+      "url": "/data/v1/items/poison-antidote.json"
+    },
+    {
+      "id": "portal",
+      "name": "Portal",
+      "kind": "Mechanic",
+      "subcategory": null,
+      "tags": [
+        "Dungeon",
+        "Teleportation"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/ac/Portals.jpg/revision/latest?cb=20250411210147",
+      "url": "/data/v1/items/portal.json"
+    },
+    {
+      "id": "potion",
+      "name": "Potion",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Consumable",
+        "Single-Use"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f9/Mordecai_skyfowl.png/revision/latest?cb=20250616091354",
+      "url": "/data/v1/items/potion.json"
+    },
+    {
+      "id": "potion-of-bloodlust",
+      "name": "Potion of Bloodlust",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Potion",
+        "Consumable",
+        "Floor 5"
+      ],
+      "image": "https://dungeon-crawler-carl.fandom.com/wiki/Special:Redirect/file/00198.jpg",
+      "url": "/data/v1/items/potion-of-bloodlust.json"
+    },
+    {
+      "id": "potion-of-dinosaur-repellent",
+      "name": "Potion of Dinosaur Repellent",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [
+        "Potion",
+        "Consumable"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/af/00094.jpg/revision/latest?cb=20231111230947",
+      "url": "/data/v1/items/potion-of-dinosaur-repellent.json"
+    },
+    {
+      "id": "potion-of-half-splat",
+      "name": "Potion of Half Splat",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Potion",
+        "Consumable Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/potion-of-half-splat.json"
+    },
+    {
+      "id": "potion-of-invisibility",
+      "name": "Potion of Invisibility",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/10/00452.jpg/revision/latest?cb=20231203205847",
+      "url": "/data/v1/items/potion-of-invisibility.json"
+    },
+    {
+      "id": "potion-of-phase-through-wall",
+      "name": "Potion of Phase Through Wall",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/99/00127.jpg/revision/latest?cb=20231114195424",
+      "url": "/data/v1/items/potion-of-phase-through-wall.json"
+    },
+    {
+      "id": "potion-of-somnolent-embrace",
+      "name": "Potion of Somnolent Embrace",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/potion-of-somnolent-embrace.json"
+    },
+    {
+      "id": "precious-elemental-reserves-code",
+      "name": "Precious Elemental Reserves Code",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Syndicate Law"
+      ],
+      "image": null,
+      "url": "/data/v1/items/precious-elemental-reserves-code.json"
+    },
+    {
+      "id": "precision-card",
+      "name": "Precision Card",
+      "kind": "Card",
+      "subcategory": null,
+      "tags": [
+        "T'Ghee Card"
+      ],
+      "image": null,
+      "url": "/data/v1/items/precision-card.json"
+    },
+    {
+      "id": "predator-box",
+      "name": "Predator Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/predator-box.json"
+    },
+    {
+      "id": "prepotente-box",
+      "name": "Prepotente Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7f/00189.jpg/revision/latest?cb=20231121105817",
+      "url": "/data/v1/items/prepotente-box.json"
+    },
+    {
+      "id": "primal-engine",
+      "name": "Primal Engine",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/3d/00628.jpg/revision/latest?cb=20231214215942",
+      "url": "/data/v1/items/primal-engine.json"
+    },
+    {
+      "id": "prism-industries-capacitating-and-focusing-goggles",
+      "name": "Prism Industries Capacitating and Focusing Goggles",
+      "kind": "Accessory",
+      "subcategory": null,
+      "tags": [
+        "Sunglasses"
+      ],
+      "image": "https://dungeon-crawler-carl.fandom.com/wiki/images/Glasses_by_Harleyzeke.art.jpg",
+      "url": "/data/v1/items/prism-industries-capacitating-and-focusing-goggles.json"
+    },
+    {
+      "id": "proximity-trigger",
+      "name": "Proximity Trigger",
+      "kind": "Tool",
+      "subcategory": "Trap-Making",
+      "tags": [
+        "Crafting",
+        "Trap"
+      ],
+      "image": null,
+      "url": "/data/v1/items/proximity-trigger.json"
+    },
+    {
+      "id": "pvp-coupon",
+      "name": "PVP Coupon",
+      "kind": "Item",
+      "subcategory": "Consumable Items",
+      "tags": [
+        "Utility Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/66/PVP_Coupon.jpg/revision/latest?cb=20250322052736",
+      "url": "/data/v1/items/pvp-coupon.json"
+    },
+    {
+      "id": "quadruped-box",
+      "name": "Quadruped Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/6d/Quadruped_Box.jpg/revision/latest?cb=20250512014225",
+      "url": "/data/v1/items/quadruped-box.json"
+    },
+    {
+      "id": "quest-box",
+      "name": "Quest Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/quest-box.json"
+    },
+    {
+      "id": "ranged-weapon-box",
+      "name": "Ranged Weapon Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/ranged-weapon-box.json"
+    },
+    {
+      "id": "reaper-spider-minion-patch",
+      "name": "Reaper Spider Minion Patch",
+      "kind": "Item",
+      "subcategory": "Patch",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/14/Reaper_spider_minion_patch.png/revision/latest?cb=20241130173841",
+      "url": "/data/v1/items/reaper-spider-minion-patch.json"
+    },
+    {
+      "id": "red-beret",
+      "name": "Red Beret",
+      "kind": "Apparel",
+      "subcategory": "Hat",
+      "tags": [
+        "Floor 8",
+        "Donut"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/99/Viva_La_Revolucion_by_Mashermellow.png/revision/latest?cb=20250406033931",
+      "url": "/data/v1/items/red-beret.json"
+    },
+    {
+      "id": "rev-up-immunity-smoothie",
+      "name": "Rev-Up Immunity Smoothie",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Crafted",
+        "Pharmaceuticals",
+        "Food"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/20/Krakaren_Clone_Fight_by_OutFold.jpg/revision/latest?cb=20250409044131",
+      "url": "/data/v1/items/rev-up-immunity-smoothie.json"
+    },
+    {
+      "id": "rev-up-magic-hair-restoration-tonic",
+      "name": "Rev-Up Magic Hair Restoration Tonic",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/rev-up-magic-hair-restoration-tonic.json"
+    },
+    {
+      "id": "rev-up-toilet-grade-moonshine",
+      "name": "Rev-Up Toilet-Grade Moonshine",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Potion",
+        "Accelerant"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/5a/Rev_Up_Moonshine.jpg/revision/latest?cb=20240414204956",
+      "url": "/data/v1/items/rev-up-toilet-grade-moonshine.json"
+    },
+    {
+      "id": "ring-of-water-breathing",
+      "name": "Ring of Water Breathing",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/69/00133.jpg/revision/latest?cb=20231115231727",
+      "url": "/data/v1/items/ring-of-water-breathing.json"
+    },
+    {
+      "id": "rockard-s-ring-of-sniping",
+      "name": "Rockard's Ring of Sniping",
+      "kind": "Item",
+      "subcategory": "Ring",
+      "tags": [
+        "Equipped Items",
+        "Jewelry",
+        "Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/88/00229.jpg/revision/latest?cb=20231123181028",
+      "url": "/data/v1/items/rockard-s-ring-of-sniping.json"
+    },
+    {
+      "id": "sapper-s-box",
+      "name": "Sapper's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/sapper-s-box.json"
+    },
+    {
+      "id": "sappers-table",
+      "name": "Sapper's Table",
+      "kind": "CraftingStation",
+      "subcategory": "Crafting Workbench",
+      "tags": [
+        "Crafting",
+        "Workbench",
+        "Personal Space Item"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/28/Sappers_Table.jpg/revision/latest?cb=20240523191617",
+      "url": "/data/v1/items/sappers-table.json"
+    },
+    {
+      "id": "sappy-gold-ring",
+      "name": "Sappy Gold Ring",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Floor 5"
+      ],
+      "image": null,
+      "url": "/data/v1/items/sappy-gold-ring.json"
+    },
+    {
+      "id": "satchel-bomb",
+      "name": "Satchel Bomb",
+      "kind": "Item",
+      "subcategory": "Explosive",
+      "tags": [
+        "Consumable",
+        "Explosive"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/ed/00707.jpg/revision/latest?cb=20231216231511",
+      "url": "/data/v1/items/satchel-bomb.json"
+    },
+    {
+      "id": "savage-box",
+      "name": "Savage Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/savage-box.json"
+    },
+    {
+      "id": "scab-box",
+      "name": "Scab Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/scab-box.json"
+    },
+    {
+      "id": "scavengers-daughter-upgrade-patch",
+      "name": "Scavenger's Daughter Upgrade Patch",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Divine",
+        "Unique",
+        "Fleeting"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/18/Scavenger%27s_Daughter.jpg/revision/latest?cb=20240923050020",
+      "url": "/data/v1/items/scavengers-daughter-upgrade-patch.json"
+    },
+    {
+      "id": "scroll-of-build-trench",
+      "name": "Scroll of Build Trench",
+      "kind": "Consumable",
+      "subcategory": "Scroll",
+      "tags": [
+        "Scrolls",
+        "Items",
+        "Consumable Items",
+        "Floor 8"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/e1/00249.jpg/revision/latest?cb=20231124180218",
+      "url": "/data/v1/items/scroll-of-build-trench.json"
+    },
+    {
+      "id": "scroll-of-meat-hooks",
+      "name": "Scroll of Meat Hooks",
+      "kind": "Consumable",
+      "subcategory": "Scrolls",
+      "tags": [
+        "Scrolls",
+        "Items",
+        "Consumable Items",
+        "Pet Items"
+      ],
+      "image": null,
+      "url": "/data/v1/items/scroll-of-meat-hooks.json"
+    },
+    {
+      "id": "scroll-of-upgrade",
+      "name": "Scroll of Upgrade",
+      "kind": "Consumable",
+      "subcategory": "Scrolls",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/87/00244.jpg/revision/latest?cb=20231124155457",
+      "url": "/data/v1/items/scroll-of-upgrade.json"
+    },
+    {
+      "id": "scroll-of-water-breathing",
+      "name": "Scroll of Water Breathing",
+      "kind": "Consumable",
+      "subcategory": "Scrolls",
+      "tags": [
+        "scroll",
+        "consumable",
+        "water breathing",
+        "item"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/be/00252.jpg/revision/latest?cb=20231124211405",
+      "url": "/data/v1/items/scroll-of-water-breathing.json"
+    },
+    {
+      "id": "scrolls",
+      "name": "Scrolls",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/scrolls.json"
+    },
+    {
+      "id": "seize-the-day-toothpaste",
+      "name": "Seize the Day Toothpaste",
+      "kind": "Item",
+      "subcategory": "Utility",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f8/Seize_the_day.jpg/revision/latest/scale-to-width-down/200?cb=20210330173008",
+      "url": "/data/v1/items/seize-the-day-toothpaste.json"
+    },
+    {
+      "id": "shattering-train-bomb",
+      "name": "Shattering Train Bomb",
+      "kind": "Item",
+      "subcategory": "Explosive",
+      "tags": [
+        "Train",
+        "Explosive"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/6f/Shattering_Train_Bomb.jpg/revision/latest?cb=20250320012556",
+      "url": "/data/v1/items/shattering-train-bomb.json"
+    },
+    {
+      "id": "sheet-music",
+      "name": "Sheet Music",
+      "kind": "Other",
+      "subcategory": "Bard Tool",
+      "tags": [
+        "Utility Items",
+        "Books",
+        "Scrolls"
+      ],
+      "image": null,
+      "url": "/data/v1/items/sheet-music.json"
+    },
+    {
+      "id": "sheol-bricks",
+      "name": "Sheol Bricks",
+      "kind": "Item",
+      "subcategory": "Consumable Items",
+      "tags": [
+        "crafting materials",
+        "utility items",
+        "floor 4",
+        "floor 15"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/6b/Sheol_Bricks.jpg/revision/latest?cb=20240521210607",
+      "url": "/data/v1/items/sheol-bricks.json"
+    },
+    {
+      "id": "sheol-glass-reaper-case",
+      "name": "Sheol Glass Reaper Case",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/sheol-glass-reaper-case.json"
+    },
+    {
+      "id": "shoe-box",
+      "name": "Shoe Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/08/00621.jpg/revision/latest?cb=20231211190736",
+      "url": "/data/v1/items/shoe-box.json"
+    },
+    {
+      "id": "shrink-wand",
+      "name": "Shrink Wand",
+      "kind": "Item",
+      "subcategory": "Wand",
+      "tags": [
+        "Consumable"
+      ],
+      "image": null,
+      "url": "/data/v1/items/shrink-wand.json"
+    },
+    {
+      "id": "siege-master-box",
+      "name": "Siege Master Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/siege-master-box.json"
+    },
+    {
+      "id": "silver-ring",
+      "name": "Silver Ring",
+      "kind": "Item",
+      "subcategory": "Jewelry",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/ce/Silver_Constitution_Ring.jpg/revision/latest?cb=20250512032538",
+      "url": "/data/v1/items/silver-ring.json"
+    },
+    {
+      "id": "size-up-potion",
+      "name": "Size-Up Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/size-up-potion.json"
+    },
+    {
+      "id": "skewer-belle",
+      "name": "Skewer Belle",
+      "kind": "Item",
+      "subcategory": "Crafting Material",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/skewer-belle.json"
+    },
+    {
+      "id": "skill-potion",
+      "name": "Skill Potion",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Potion"
+      ],
+      "image": null,
+      "url": "/data/v1/items/skill-potion.json"
+    },
+    {
+      "id": "skydiver-s-box",
+      "name": "Skydiver's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/skydiver-s-box.json"
+    },
+    {
+      "id": "skyfowl-upgrade-patch",
+      "name": "Skyfowl Upgrade Patch",
+      "kind": "Item",
+      "subcategory": "Upgrade Patch (Small)",
+      "tags": [
+        "Upgrade",
+        "Patch",
+        "Item"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/64/Skyfowl_patch.png/revision/latest?cb=20241130192551",
+      "url": "/data/v1/items/skyfowl-upgrade-patch.json"
+    },
+    {
+      "id": "slingshot",
+      "name": "Slingshot",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [
+        "Unenchanted"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/3f/Slingshot.png/revision/latest?cb=20250604030229",
+      "url": "/data/v1/items/slingshot.json"
+    },
+    {
+      "id": "snare-trap",
+      "name": "Snare Trap",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/snare-trap.json"
+    },
+    {
+      "id": "snipers-box",
+      "name": "Sniper's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/snipers-box.json"
+    },
+    {
+      "id": "social-media-board",
+      "name": "Social Media Board",
+      "kind": "Item",
+      "subcategory": "Personal Space Upgrade",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/80/Heavy_is_the_head_that_wears_the_crown_by_Meldinar.jpeg/revision/latest?cb=20240401114753",
+      "url": "/data/v1/items/social-media-board.json"
+    },
+    {
+      "id": "soul-crystal-or-soul-gem",
+      "name": "Soul Crystal or Soul Gem",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Elf",
+        "Magic & Spells"
+      ],
+      "image": null,
+      "url": "/data/v1/items/soul-crystal-or-soul-gem.json"
+    },
+    {
+      "id": "special-play",
+      "name": "Special Play",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/42/Carl_and_Katia_by_Reign_Kid_V2.jpg/revision/latest?cb=20250612021239",
+      "url": "/data/v1/items/special-play.json"
+    },
+    {
+      "id": "spicy-box",
+      "name": "Spicy Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/dd/00710.jpg/revision/latest?cb=20231217132219",
+      "url": "/data/v1/items/spicy-box.json"
+    },
+    {
+      "id": "spider-stalker",
+      "name": "Spider Stalker",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/spider-stalker.json"
+    },
+    {
+      "id": "spike-module",
+      "name": "Spike Module",
+      "kind": "Other",
+      "subcategory": "Trap",
+      "tags": [
+        "trap",
+        "spike",
+        "module"
+      ],
+      "image": null,
+      "url": "/data/v1/items/spike-module.json"
+    },
+    {
+      "id": "spunky-jeffery-the-enchanted-nickel-sock-of-the-elderly-miser",
+      "name": "Spunky Jeffery the Enchanted Nickel Sock of the Elderly Miser",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/spunky-jeffery-the-enchanted-nickel-sock-of-the-elderly-miser.json"
+    },
+    {
+      "id": "stairwells",
+      "name": "Stairwells",
+      "kind": "Mechanic",
+      "subcategory": null,
+      "tags": [
+        "Dungeon",
+        "Mechanic"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/b1/Stairwells_by_Outfold.jpg/revision/latest?cb=20250404045412",
+      "url": "/data/v1/items/stairwells.json"
+    },
+    {
+      "id": "healing-potion",
+      "name": "Standard Healing Potion",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [
+        "healing",
+        "potion",
+        "consumable"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a0/Standard_healing_potion.jpg/revision/latest?cb=20240329225330",
+      "url": "/data/v1/items/healing-potion.json"
+    },
+    {
+      "id": "stock-certificate",
+      "name": "Stock Certificate",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/stock-certificate.json"
+    },
+    {
+      "id": "stranger-danger-box",
+      "name": "Stranger Danger Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes"
+      ],
+      "image": null,
+      "url": "/data/v1/items/stranger-danger-box.json"
+    },
+    {
+      "id": "stuffed-figure",
+      "name": "Stuffed Figure",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/stuffed-figure.json"
+    },
+    {
+      "id": "stuffed-grulke-infantry-figure",
+      "name": "Stuffed Grulke Infantry Figure",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/91/Stuffed_Grulke_V3.jpg/revision/latest?cb=20250331032046",
+      "url": "/data/v1/items/stuffed-grulke-infantry-figure.json"
+    },
+    {
+      "id": "stuffed-kimaris-figure",
+      "name": "Stuffed Kimaris Figure",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/stuffed-kimaris-figure.json"
+    },
+    {
+      "id": "stuffed-slate-butterfly-figure",
+      "name": "Stuffed Slate Butterfly Figure",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/stuffed-slate-butterfly-figure.json"
+    },
+    {
+      "id": "summary-judgement-box",
+      "name": "Summary Judgement Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes"
+      ],
+      "image": null,
+      "url": "/data/v1/items/summary-judgement-box.json"
+    },
+    {
+      "id": "sun-shrine",
+      "name": "Sun Shrine",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/e6/Sun_Shrine.png/revision/latest?cb=20250307014751",
+      "url": "/data/v1/items/sun-shrine.json"
+    },
+    {
+      "id": "superb-constitution-buff-potion",
+      "name": "Superb Constitution Buff Potion",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/47/Superb_Constitution_Buff_Potion.jpg/revision/latest?cb=20250316043915",
+      "url": "/data/v1/items/superb-constitution-buff-potion.json"
+    },
+    {
+      "id": "surefire",
+      "name": "Surefire",
+      "kind": "Item",
+      "subcategory": "Crafting Materials",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/surefire.json"
+    },
+    {
+      "id": "survivors-box",
+      "name": "Survivor's Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/survivors-box.json"
+    },
+    {
+      "id": "t-ghee-card",
+      "name": "T'Ghee Card",
+      "kind": "Mechanic",
+      "subcategory": "Dungeon Mechanic",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f3/Totems_by_honeymanatee.jpg/revision/latest?cb=20251008235336",
+      "url": "/data/v1/items/t-ghee-card.json"
+    },
+    {
+      "id": "talisman-of-the-slate-butterfly",
+      "name": "Talisman of the Slate Butterfly",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Magic Item",
+        "Loot Box"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/31/Talisman_of_the_Slate_Butterfly.jpg/revision/latest?cb=20250704180501",
+      "url": "/data/v1/items/talisman-of-the-slate-butterfly.json"
+    },
+    {
+      "id": "talk-of-the-town-box",
+      "name": "Talk of the Town Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/talk-of-the-town-box.json"
+    },
+    {
+      "id": "that-wasn-t-too-smart-was-it-box",
+      "name": "That Wasn't Too Smart, Was It? Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/that-wasn-t-too-smart-was-it-box.json"
+    },
+    {
+      "id": "that-s-the-spirit-box",
+      "name": "That's the Spirit Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/6a/That%27s_the_Spirit_Box_V2.png/revision/latest?cb=20250323015902",
+      "url": "/data/v1/items/that-s-the-spirit-box.json"
+    },
+    {
+      "id": "that-was-disgusting-box",
+      "name": "That-Was-Disgusting Box!",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/that-was-disgusting-box.json"
+    },
+    {
+      "id": "the-dungeon-anarchist-s-cookbook",
+      "name": "The Dungeon Anarchist's Cookbook",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Unique",
+        "Heirloom"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a0/Cookbook_Accented.png/revision/latest?cb=20240219080509",
+      "url": "/data/v1/items/the-dungeon-anarchist-s-cookbook.json"
+    },
+    {
+      "id": "eye-of-the-bedlam-bride-tattoo",
+      "name": "The Eye of the Bedlam Bride",
+      "kind": "Tattoo",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/1a/Eye_of_the_Bedlam_Bride.png/revision/latest?cb=20250809050841",
+      "url": "/data/v1/items/eye-of-the-bedlam-bride-tattoo.json"
+    },
+    {
+      "id": "prize-carousel",
+      "name": "The Prize Carousel",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Dungeon",
+        "minigame",
+        "Fan Box"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/82/Chaco_by_Sniffanimal.jpg/revision/latest?cb=20250729041154",
+      "url": "/data/v1/items/prize-carousel.json"
+    },
+    {
+      "id": "tiara-of-a-thousand-lights",
+      "name": "The Tiara of a Thousand Lights",
+      "kind": "Accessory",
+      "subcategory": "Tiara",
+      "tags": [
+        "Celestial",
+        "Jewelry",
+        "Accessories"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/af/Tiara_of_a_Thousand_Lights.png/revision/latest?cb=20250809005011",
+      "url": "/data/v1/items/tiara-of-a-thousand-lights.json"
+    },
+    {
+      "id": "toad-cudgel",
+      "name": "Toad Cudgel",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/03/00860.jpg/revision/latest?cb=20240225161331",
+      "url": "/data/v1/items/toad-cudgel.json"
+    },
+    {
+      "id": "toraline-root-vegetable",
+      "name": "Toraline Root Vegetable",
+      "kind": "Item",
+      "subcategory": "Alchemy Ingredient",
+      "tags": [
+        "Alchemy",
+        "Ingredient",
+        "Crafting",
+        "Food"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/ce/Toraline.png/revision/latest?cb=20250307021340",
+      "url": "/data/v1/items/toraline-root-vegetable.json"
+    },
+    {
+      "id": "torch",
+      "name": "Torch",
+      "kind": "Item",
+      "subcategory": "Consumable Items",
+      "tags": [
+        "Utility"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/d0/Torches_by_Kid.webp/revision/latest?cb=20251007034227",
+      "url": "/data/v1/items/torch.json"
+    },
+    {
+      "id": "torn-book-page",
+      "name": "Torn Book Page",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/torn-book-page.json"
+    },
+    {
+      "id": "tracked-all-terrain-suicide-machine-the-royal-chariot",
+      "name": "Tracked All-Terrain Suicide Machine. The Royal Chariot",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/1a/Royal_Chariot.JPEG/revision/latest?cb=20250208040757",
+      "url": "/data/v1/items/tracked-all-terrain-suicide-machine-the-royal-chariot.json"
+    },
+    {
+      "id": "train-conductor-s-souvenir-hat",
+      "name": "Train Conductor's Souvenir Hat",
+      "kind": "Apparel",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/43/I_rode_the_iron_tangle_hat.jpg/revision/latest?cb=20250309200101",
+      "url": "/data/v1/items/train-conductor-s-souvenir-hat.json"
+    },
+    {
+      "id": "training-room",
+      "name": "Training Room",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Personal Space",
+        "Upgrade"
+      ],
+      "image": null,
+      "url": "/data/v1/items/training-room.json"
+    },
+    {
+      "id": "trapmaster-box",
+      "name": "Trapmaster Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/trapmaster-box.json"
+    },
+    {
+      "id": "travis-priest",
+      "name": "Travis Priest",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [
+        "Pharmaceuticals",
+        "Items",
+        "Consumable Items"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/aa/00462.jpg/revision/latest?cb=20231204135201",
+      "url": "/data/v1/items/travis-priest.json"
+    },
+    {
+      "id": "treasure-map",
+      "name": "Treasure Map",
+      "kind": "Item",
+      "subcategory": "Utility Items",
+      "tags": [
+        "Persistent Loot"
+      ],
+      "image": null,
+      "url": "/data/v1/items/treasure-map.json"
+    },
+    {
+      "id": "troll-smoke-mantel",
+      "name": "Troll Smoke Mantel",
+      "kind": "Consumable",
+      "subcategory": "Explosives",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/troll-smoke-mantel.json"
+    },
+    {
+      "id": "tserendolgor-box",
+      "name": "Tserendolgor Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/tserendolgor-box.json"
+    },
+    {
+      "id": "twister",
+      "name": "Twister",
+      "kind": "Vehicle",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/twister.json"
+    },
+    {
+      "id": "tyrant-box",
+      "name": "Tyrant Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/tyrant-box.json"
+    },
+    {
+      "id": "ugly-ass-backpack-with-a-completely-useless-design-that-only-an-idiot-would-wear",
+      "name": "Ugly Ass Backpack With a Completely Useless Design that Only an Idiot Would Wear",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Equipped"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/52/Ugly_Ass_Backpack_V2.jpg/revision/latest?cb=20250319042308",
+      "url": "/data/v1/items/ugly-ass-backpack-with-a-completely-useless-design-that-only-an-idiot-would-wear.json"
+    },
+    {
+      "id": "ultra-stabilized-size-adjustable-race-adjustable-alleviating-sleep-apparatus",
+      "name": "Ultra-Stabilized, Size-Adjustable, Race-Adjustable Alleviating Sleep Apparatus",
+      "kind": "Item",
+      "subcategory": "Personal Space",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/14/Ultra_stable_bed.jpg/revision/latest?cb=20250312040849",
+      "url": "/data/v1/items/ultra-stabilized-size-adjustable-race-adjustable-alleviating-sleep-apparatus.json"
+    },
+    {
+      "id": "uncle-morty-s-insta-lawn-kill-and-undead-repellant-extra-strength-edition",
+      "name": "Uncle Morty\u2019s Insta Lawn-Kill and Undead Repellant, Extra-Strength Edition",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/uncle-morty-s-insta-lawn-kill-and-undead-repellant-extra-strength-edition.json"
+    },
+    {
+      "id": "upgrade-coupon",
+      "name": "Upgrade Coupon",
+      "kind": "Item",
+      "subcategory": "Crafting Tables",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/upgrade-coupon.json"
+    },
+    {
+      "id": "upgrade-patch",
+      "name": "Upgrade Patch",
+      "kind": "Item",
+      "subcategory": "Armor Upgrade",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/upgrade-patch.json"
+    },
+    {
+      "id": "upgraded-shower",
+      "name": "Upgraded Shower",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/upgraded-shower.json"
+    },
+    {
+      "id": "velma-the-flamethrower",
+      "name": "Velma the Flamethrower",
+      "kind": "Weapon",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/velma-the-flamethrower.json"
+    },
+    {
+      "id": "venison-box",
+      "name": "Venison Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes"
+      ],
+      "image": null,
+      "url": "/data/v1/items/venison-box.json"
+    },
+    {
+      "id": "veriluxx-realpet-dungeon-crawl-special-edition-exclusive",
+      "name": "Veriluxx RealPet Dungeon Crawl Special Edition Exclusive",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/d0/Robot_Donut_by_OutFold.jpg/revision/latest?cb=20250411042245",
+      "url": "/data/v1/items/veriluxx-realpet-dungeon-crawl-special-edition-exclusive.json"
+    },
+    {
+      "id": "vocal-coach-training-room",
+      "name": "Vocal Coach",
+      "kind": "Other",
+      "subcategory": "Personal Space",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/vocal-coach-training-room.json"
+    },
+    {
+      "id": "wand-box",
+      "name": "Wand Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/wand-box.json"
+    },
+    {
+      "id": "wand-of-nighty-night",
+      "name": "Wand of Nighty Night",
+      "kind": "Item",
+      "subcategory": "Consumable Items",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/wand-of-nighty-night.json"
+    },
+    {
+      "id": "wand-recharge-scroll",
+      "name": "Wand Recharge Scroll",
+      "kind": "Consumable",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/31/00250.jpg/revision/latest?cb=20231124183222",
+      "url": "/data/v1/items/wand-recharge-scroll.json"
+    },
+    {
+      "id": "warriors-helmet-of-resistance",
+      "name": "Warriors Helmet of Resistance",
+      "kind": "Item",
+      "subcategory": "Clothing",
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/warriors-helmet-of-resistance.json"
+    },
+    {
+      "id": "weapon-box",
+      "name": "Weapon Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [
+        "Loot Boxes",
+        "First Floor"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/00228.jpg/revision/latest?cb=20231123175629",
+      "url": "/data/v1/items/weapon-box.json"
+    },
+    {
+      "id": "weapon-oil-weeping-wound",
+      "name": "Weapon Oil: Weeping Wound",
+      "kind": "Consumable",
+      "subcategory": "Potion",
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/62/00221.jpg/revision/latest?cb=20231123100854",
+      "url": "/data/v1/items/weapon-oil-weeping-wound.json"
+    },
+    {
+      "id": "who-let-the-gods-out-this-time-box",
+      "name": "Who Let the Gods Out This Time? Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": null,
+      "url": "/data/v1/items/who-let-the-gods-out-this-time-box.json"
+    },
+    {
+      "id": "yog-s-special-chain",
+      "name": "Yog's Special Chain",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Utility Items",
+        "Scrolls"
+      ],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/0a/Yog%27s_Special_Chain.jpg/revision/latest?cb=20240324224459",
+      "url": "/data/v1/items/yog-s-special-chain.json"
+    },
+    {
+      "id": "you-know-everybody-can-see-you-right-box",
+      "name": "You Know Everybody Can See You Right? Box",
+      "kind": "LootBox",
+      "subcategory": null,
+      "tags": [],
+      "image": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/62/You_know_everyone_can_see_you.jpg/revision/latest?cb=20250309055255",
+      "url": "/data/v1/items/you-know-everybody-can-see-you-right-box.json"
+    },
+    {
+      "id": "zentix",
+      "name": "Zentix",
+      "kind": "Other",
+      "subcategory": null,
+      "tags": [
+        "Syndicate Polymer",
+        "Technology"
+      ],
+      "image": null,
+      "url": "/data/v1/items/zentix.json"
+    },
+    {
+      "id": "zhang-s-cape-of-odds",
+      "name": "Zhang's Cape of Odds",
+      "kind": "Item",
+      "subcategory": null,
+      "tags": [
+        "Celestial"
+      ],
+      "image": null,
+      "url": "/data/v1/items/zhang-s-cape-of-odds.json"
+    }
+  ]
 }

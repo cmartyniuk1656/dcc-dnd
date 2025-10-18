@@ -1,0 +1,75 @@
+{
+  "activation": [],
+  "ai_description": "Book. The Dungeon Anarchist’s Cookbook by Anonymous. This is a unique item. Chicken and Goblin recipes galore! But it’s more than just that.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The cookbook is a thick book with an anarchy symbol cover. It contains various recipes and tales from its anonymous author, perfect for a fun family experience.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": 50000000,
+    "currency": "Gold",
+    "trade_value": null
+  },
+  "effects": [],
+  "enchantments": [],
+  "form": {
+    "conjured": false,
+    "description": null,
+    "material": null
+  },
+  "id": "the-dungeon-anarchist-s-cookbook",
+  "images": [
+    {
+      "alt": "Dungeon Anarchist's Cookbook",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a0/Cookbook_Accented.png/revision/latest?cb=20240219080509",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Book|source=The Prize Carousel"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T12:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T12:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "The Dungeon Anarchist's Cookbook",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dungeon_Anarchist's_Cookbook_(Item)",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "This item allows the holder to record discoveries and experiences for future cookbook holders.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Unique",
+    "Heirloom"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

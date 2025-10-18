@@ -1,0 +1,121 @@
+{
+  "activation": [],
+  "ai_description": "When working properly, this ring will remove most health-seeping and disease-based debuff effects. Has a variable numbing effect on various other debuff types.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Cancels the effects of most health-sapping and disease-based debuffs without removing the actual debuff. It has variable numbing effects on various other debuff types.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": 1000000,
+    "currency": "gold",
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "cancels health-sapping debuff effects",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "cancels disease debuff effects",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "may numb other debuffs",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "does NOT remove debuffs",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-pauper-s-ring-of-the-steadfast-emberus",
+  "images": [
+    {
+      "alt": "Enchanted Pauper's Ring of the Steadfast Emberus",
+      "attribution": null,
+      "focal_point": null,
+      "foundry": null,
+      "height": null,
+      "src": "https://dungeon-crawler-carl.fandom.com/wiki/Special:Upload/00160.jpg",
+      "srcset": [],
+      "title": "Enchanted Pauper's Ring of the Steadfast Emberus",
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Equipped Item",
+    "Ring"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Pauper's Ring of the Steadfast Emberus",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Paupers_Ring_of_the_Steadfast_Emberus",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "This ring may only be worn by a worshipper of Emberus.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Ring",
+  "tags": [
+    "Ring",
+    "Equipped Item",
+    "Jewelry"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,65 @@
+{
+  "activation": [],
+  "ai_description": "Stuffed Kimaris Figure. (With tags) It’s impossible to accurately portray Kimaris’s usual I-hate-this-and-I-hate-you scowl, but this collectible bean bag makes a valiant effort.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image= |type= Stuffed Figure |keywords= |effects= Summons Kimaris to location |source= |buy= |sell= \"Unique\" Item }}",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Summons Kimaris to location",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "stuffed-kimaris-figure",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Stuffed Figure"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Stuffed Kimaris Figure",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Stuffed_Kimaris_Figure",
+    "source_type": "wiki"
+  },
+  "rarity": "Unique",
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "The description is presented in a television commercial voice: Doctor Ratchet’s Automaton Build-It Kit! This kit contains enough items to create over fifteen automatons! Fun for the whole family! From personal servants to flame-throwing sentinel droids, this kit has a little of everything. The only limit is your imagination. And your insurance policy.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Doctor Ratchet's Automaton Build-It Kit is a large, steampunk-y chest hissing with clockwork gears. It contains dozens of automaton parts.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "dr-ratchet-s-automaton-build-it-kit",
+  "images": [],
+  "kind": "CraftingStation",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Doctor Ratchet's Automaton Build-It Kit",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dr._Ratchet's_Automaton_Build-It_Kit",
+    "source_type": "wiki"
+  },
+  "rarity": "Legendary",
+  "rules_text": "Crafting kit that provides crafting supplies for building automatons.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "crafting supplies"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

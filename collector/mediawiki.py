@@ -11,6 +11,7 @@ from tenacity import (
 )
 
 from collector.config import WIKI_API, USER_AGENT, RATE_LIMIT_SECONDS, RAW_DIR
+from collector.utils import sanitize_title_for_fs
 
 os.makedirs(RAW_DIR, exist_ok=True)
 
@@ -79,7 +80,27 @@ def fetch_wikitext(title: str) -> Dict:
     page = next(iter(pages.values()))
     revision = page["revisions"][0]
     content = revision["slots"]["main"]["*"]
-    path = os.path.join(RAW_DIR, f"{title}.wikitext.txt")
+    safe_name = sanitize_title_for_fs(title)
+    path = os.path.join(RAW_DIR, f"{safe_name}.wikitext.txt")
     with open(path, "w", encoding="utf-8") as handle:
         handle.write(content)
     return {"title": title, "wikitext": content, "pageid": page["pageid"]}
+
+
+def fetch_image_info(file_title: str) -> Dict:
+    if not file_title:
+        return {}
+    normalized = file_title.strip()
+    if normalized.lower().startswith("file:"):
+        normalized = normalized[5:]
+    params = {
+        "action": "query",
+        "titles": f"File:{normalized}",
+       "prop": "imageinfo",
+        "iiprop": "url|mime|size|timestamp|sha1",
+    }
+    data = _get(params)
+    pages = data.get("query", {}).get("pages", {})
+    page = next(iter(pages.values()), {})
+    imageinfo = page.get("imageinfo") or []
+    return imageinfo[0] if imageinfo else {}

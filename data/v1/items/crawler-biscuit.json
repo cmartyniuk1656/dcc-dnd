@@ -1,0 +1,57 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Crawler Biscuits are food items that may be received in Bronze and Silver Adventurer Boxes.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "crawler-biscuit",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Food"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Crawler Biscuit",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Crawler_Biscuit",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Food items received in Bronze and Silver Adventurer Boxes. Possibly fed to crawlers, similar to Pet Biscuits.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Food",
+    "Consumable",
+    "Item"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

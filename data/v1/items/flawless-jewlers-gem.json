@@ -1,0 +1,79 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A large yellow-orange jewel. Can be used to upgrade a tiara but must be applied by a jeweler.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Upgrade tiara",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "flawless-jewlers-gem",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/77/Flawless_Jewlers_Gem.jpg/revision/latest?cb=20250403043445",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Flawless Jewlers Gem",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Flawless_Jewlers_Gem",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Can be used to upgrade a tiara.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Upgrade Item",
+  "tags": [
+    "Utility"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,85 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A crafting item that allows crawlers to produce and charge Dwarven Batteries.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": 75000,
+    "currency": "gold",
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Produces and Charges Batteries",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "dwarven-battery-fabricator",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/02/Dwarven_Battery_Fabricator.jpg/revision/latest?cb=20250328031943",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "CraftingStation",
+  "kind_detail": [
+    "|keywords= Dwarven"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Dwarven Battery Fabricator",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dwarven_Battery_Fabricator",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Used to produce and charge Dwarven Batteries. Each battery requires four full mana potions to charge, taking 5 minutes.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Dwarven"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

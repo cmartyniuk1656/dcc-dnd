@@ -1,0 +1,49 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Escape Velocity is the name of the ship that discovered the worm hole to the first system where a scientific crew investigating a primal ship graveyard came across the Vog Generation Ship.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "escape-velocity",
+  "images": [],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Syndicate Ship"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Escape Velocity",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Escape_Velocity",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Escape Velocity is a ship that discovered a worm hole which led to the formation of the Syndicate.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Syndicate History",
+    "Primal"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

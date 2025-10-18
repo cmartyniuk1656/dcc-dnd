@@ -1,0 +1,118 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Tiara of Mana Genita - A crystal tiara fit for royalty. Made in honor of all the lost children of the world. Because nothing helps sooth the tears of grieving parents like watching someone else dress up all fancy.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A crystal tiara fit for royalty. Made in honor of all the lost children of the world. Because nothing helps sooth the tears of grieving parents like watching someone else dress up all fancy.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "INT",
+          "value": 3
+        }
+      ],
+      "name": "+3 Intelligence",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Increased ability to detect mobs on the map",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Removes automatic hostility by worshippers of Mana Genita",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-tiara-of-mana-genita",
+  "images": [
+    {
+      "alt": "Art by u/Kojin_Harth, Reddit",
+      "attribution": {
+        "author": "u/Kojin_Harth",
+        "license": null,
+        "source_url": null
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/51/Donut_by_Kojin_Harth.png/revision/latest?cb=20250723040935",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Accessory",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Tiara of Mana Genita",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Tiara_of_Mana_Genita",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Enchanted"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,71 @@
+{
+  "activation": [],
+  "ai_description": "Scroll of Upgrade! Warning: This item has a short shelf life. Maybe it’s not as good as getting something new, but sometimes it’s better to just take something you’re already comfortable with and improve upon it. Kind of like buying your girl new tits. Once you read this scroll, one, random, currently-equipped item will receive an upgrade. That upgrade could be small. It could be huge. But since this item has a short shelf life, you gotta do it now or forever hold your peace.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Upgrades currently equipped item.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "scroll-of-upgrade",
+  "images": [
+    {
+      "alt": "Scroll of Upgrade",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/87/00244.jpg/revision/latest?cb=20231124155457",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Scrolls"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Scroll of Upgrade",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Scroll_of_Upgrade",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Scrolls",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

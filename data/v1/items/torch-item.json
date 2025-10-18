@@ -1,0 +1,100 @@
+{
+  "activation": [
+    {
+      "charges": null,
+      "cooldown_seconds": null,
+      "detail": "Select to activate the torch when removed from inventory",
+      "via": "ui"
+    }
+  ],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": 1800,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": 1
+  },
+  "description": "Torches are single-use utility items that burn for thirty minutes when activated.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Light",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "torch",
+  "images": [
+    {
+      "alt": "Image of a torch",
+      "attribution": {
+        "author": "u/Reign-Kid",
+        "license": null,
+        "source_url": "https://www.reddit.com/"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": 1074,
+      "mime": "image/webp",
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/d0/Torches_by_Kid.webp/revision/latest?cb=20251007034227",
+      "srcset": [],
+      "title": "Image of a torch",
+      "transparent": null,
+      "type": "icon",
+      "width": 1292
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Common",
+    "Utility"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-30T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-30T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Torch",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Torch_(Item)",
+    "source_type": "wiki"
+  },
+  "rarity": "Common",
+  "rules_text": "Single-use item that sets ablaze for thirty minutes.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Consumable Items",
+  "tags": [
+    "Utility"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

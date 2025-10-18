@@ -1,0 +1,50 @@
+{
+  "activation": [],
+  "ai_description": "Mysterious Winding Box. This strange box hums with arcane power. There is space for two watches. What happens if you place the watches within and activate the box? You should try to find out!",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A celestial item that opens a gate from one place to another, this includes other floors but doesn't allow crawlers to travel down without using a staircase.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "gate-of-the-feral-gods",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Gate of the Feral Gods",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Gate_of_the_Feral_Gods",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Gate opens a connection between places but summons a feral god.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Floor 5",
+    "Artifacts",
+    "SOS"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

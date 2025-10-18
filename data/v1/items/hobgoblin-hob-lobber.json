@@ -1,0 +1,61 @@
+{
+  "activation": [],
+  "ai_description": "Hobgoblin Hob-Lobber – Fused. Type: Fragmenting Tossable. Effect: It blows shit up.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Hobgoblin Hob-Lobber is an item",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Explosion",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "toss"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "hobgoblin-hob-lobber",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Fragmenting Tossable"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-25T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-25T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Hobgoblin Hob-Lobber",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Hobgoblin_Hob-Lobber",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "It blows shit up",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

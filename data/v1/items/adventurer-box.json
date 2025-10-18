@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Adventurer Boxes are common Loot Boxes containing standard adventuring gear. Bronze and Silver Adventurer Boxes are liberally distributed on the first two floors, and typically contain potions and bandages.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "adventurer-box",
+  "images": [],
+  "kind": "LootBox",
+  "kind_detail": [
+    "Loot Box"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Adventurer Box",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Adventurer_Box",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Common loot boxes containing standard adventuring gear and various types of loot based on the floor.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

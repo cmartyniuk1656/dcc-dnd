@@ -1,0 +1,92 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Mongoliensis Saddle. Adjusted to fit Cat species. Magically affixes itself to the dreaded Mongoliensis, turning everyone’s favorite murder chicken into a mount. Riders in the saddle are afforded the following bonuses: +15% to all offensive spell damage. Anti-Piercing Resistance. In addition, the saddle gives the following bonus to the attached Mongoliensis: +20% Constitution. +20% melee damage while saddle is occupied.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Allows Donut to ride Mongo",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-mongoliensis-saddle",
+  "images": [
+    {
+      "alt": "Art by @Willowandroxas, Instagram",
+      "attribution": {
+        "author": null,
+        "license": null,
+        "source_url": null
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/ed/Mongo_and_Donut_by_Willowroxas.jpg/revision/latest?cb=20250719022051",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "portrait",
+      "width": null
+    },
+    {
+      "alt": null,
+      "attribution": {
+        "author": null,
+        "license": null,
+        "source_url": null
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/0e/Mongo_Saddle_V2.jpg/revision/latest?cb=20250316052404",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "token",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Pet Item"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Mongoliensis Saddle",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Mongoliensis_Saddle",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Pet Item",
+  "tags": [
+    "Pet",
+    "Mongo"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

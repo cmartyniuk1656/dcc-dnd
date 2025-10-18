@@ -1,0 +1,80 @@
+{
+  "activation": [],
+  "ai_description": "PVP Coupon. Ah, betrayal. Sweet, delicious betrayal. If you have this coupon in your inventory, and you kill the crawler whose name appears on the backside of this coupon, you will receive the following rewards: Gold Savage Box, Gold Weapon Box, Gold Apparel Box, Platinum Adventurer Box (This benefit may only be redeemed a max of 3 times), +1 Player Level (This benefit may only be redeemed a max of 3 times).",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The coupon looks like a black ticket with a gold leaf skull embossed on it.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Rewards",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "killing a Party member"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "pvp-coupon",
+  "images": [
+    {
+      "alt": "PVP Coupon",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/66/PVP_Coupon.jpg/revision/latest?cb=20250322052736",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "PVP Coupon",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/PVP_Coupon",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Rewards crawlers for killing Party members.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Consumable Items",
+  "tags": [
+    "Utility Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

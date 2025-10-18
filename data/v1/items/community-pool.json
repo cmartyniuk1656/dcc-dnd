@@ -1,0 +1,66 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "A powerful scroll that allows the caster to transfer an infection from Target A to Target B, with caster being stunned for one minute after casting.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Infection Transfer",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "Casting"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "community-pool",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Community Pool",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Community_Pool",
+    "source_type": "wiki"
+  },
+  "rarity": "Rare",
+  "rules_text": "Caster transfers infection from one target to another while physically touching them, becomes stunned for one minute post-casting.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Scroll",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

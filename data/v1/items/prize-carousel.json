@@ -1,0 +1,93 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Prize Carousel is a time-restricted minigame where Crawlers can select their own prize after opening a Fan Box.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "prize-carousel",
+  "images": [
+    {
+      "alt": "Art by @sniffanimal, Tumblr",
+      "attribution": {
+        "author": null,
+        "license": null,
+        "source_url": null
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/82/Chaco_by_Sniffanimal.jpg/revision/latest?cb=20250729041154",
+      "srcset": [],
+      "title": "Chaco by Sniffanimal",
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by u/Court_Patient, Reddit",
+      "attribution": {
+        "author": null,
+        "license": null,
+        "source_url": null
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/51/Prize_Carosel_by_Court_patient.jpg/revision/latest?cb=20250406024007",
+      "srcset": [],
+      "title": "Prize Carousel by Court patient",
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Other",
+  "kind_detail": [
+    "Fan Box Prize"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "The Prize Carousel",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Prize_Carousel",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Allows Crawler to Choose their own Prize",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Dungeon",
+    "minigame",
+    "Fan Box"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

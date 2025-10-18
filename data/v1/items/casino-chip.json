@@ -1,0 +1,75 @@
+{
+  "activation": [],
+  "ai_description": "100,000 Gold Coin Casino Chip. This is a comp chip, and it may not be sold or transferred. You may not redeem this chip directly for gold. This chip must be played at the High Roller’s Roulette Table or the Wheel of Fortune game at the Desperado Club Casino.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Can be used at the Desperado Club. Carl receives a 100,000 credit chip in a Lucky Bastard Box from the Lazarus Achievement.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": 100000
+  },
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "casino-chip",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c7/Casino_Chip.jpg/revision/latest?cb=20250419042521",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords= Desperado Club"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Casino Chip",
+  "physical": {
+    "dimensions_cm": null,
+    "durability": null,
+    "size_category": null,
+    "weight_kg": 6.8
+  },
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Casino_Chip",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Can be used at the Desperado Club.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Desperado Club"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

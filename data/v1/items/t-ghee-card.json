@@ -1,0 +1,78 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A T'Ghee totem is a card that allows a crawler to store and command a mob. It's created by getting a mob's health down to five percent then planting a flag in them.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Allows for Card Combat",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "play"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "t-ghee-card",
+  "images": [
+    {
+      "alt": "Art by u/Honeymanateebun, Reddit",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": 300,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f3/Totems_by_honeymanatee.jpg/revision/latest?cb=20251008235336",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": 300
+    }
+  ],
+  "kind": "Mechanic",
+  "kind_detail": [
+    "Dungeon Mechanic"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "T'Ghee Card",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/T'Ghee_Card",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Allows for Card Combat",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Dungeon Mechanic",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

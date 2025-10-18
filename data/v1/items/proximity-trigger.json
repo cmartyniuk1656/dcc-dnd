@@ -1,0 +1,69 @@
+{
+  "activation": [],
+  "ai_description": "Proximity Trigger Trigger Warning! Traumatizing content! Using a Sapper’s Table, the highly-valuable Proximity Trigger may be attached to any non-static trap. Allows for the establishment of activation conditions, including countdowns, mob-type triggers, etc.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Proximity Trigger is an expensive trap-building device that allows for setting conditions for trap activation.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Set trap activation conditions",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "proximity-trigger",
+  "images": [],
+  "kind": "Tool",
+  "kind_detail": [
+    "Crafting",
+    "Trap-Making"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Proximity Trigger",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Proximity_Trigger",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Proximity Trigger allows users to set conditions for when a trap goes off.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Trap-Making",
+  "tags": [
+    "Crafting",
+    "Trap"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

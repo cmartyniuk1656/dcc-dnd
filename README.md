@@ -23,6 +23,9 @@ This creates `.venv`, upgrades `pip`, and installs `collector/requirements.txt`.
 
 ## Commands
 - `make crawl` – run the collector (`collector/main.py`) to fetch MediaWiki pages, extract data with OpenAI, and write JSON to `data/v1/items/`.
+  - Add extra arguments via `make crawl ARGS="..."`, for example `make crawl ARGS="--title 'Blitz Sticks' --force"` to reprocess a single page, or `make crawl ARGS="--offset 40 --limit 10"` to skip 40 titles and process the next 10.
+  - Use `--report` to see which titles would be new or updated without extracting (e.g. `make crawl ARGS="--report --limit 25"`).
+  - Use `make crawl ARGS="--count-only"` (optionally with `--offset/--limit`) to see how many titles would be processed without invoking the extractor.
 - `make validate` – validate every JSON record against `schemas/dcc-record.schema.json`.
 - `make index` – rebuild `data/v1/index.json` from the generated item records.
 - `make all` – run crawl, validate, and index in sequence.

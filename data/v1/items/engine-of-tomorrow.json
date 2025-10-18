@@ -1,0 +1,65 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "His new eye is a swirling black orb that changes to a clockwork engine when it is working. It gives the users the ability to see muscles tensing and slows down their perception of time in short bursts.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Slows down the perception of time",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "engine-of-tomorrow",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Robotic Eyeball"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Engine of Tomorrow",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Engine_of_Tomorrow",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Slows down the perception of time.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Robotic Eyeball",
+    "Celestial",
+    "Who Let the Gods Out This Time Box"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

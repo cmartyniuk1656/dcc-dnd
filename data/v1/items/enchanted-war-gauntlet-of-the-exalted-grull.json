@@ -1,0 +1,154 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted War Gauntlet of the Exalted Grull. (Right-Handed) +3 Strength (In Fist Mode Only) +1 Dexterity +2 Skill Levels to Iron Punch Skill. +1 Skill Level to Powerful Strike Skill. 2% chance to Stun enemy upon a successful hit. This item transforms into a spiked war gauntlet made of orcish steel when the hand is shaped into a fist.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Enchanted War Gauntlet of the Exalted Grull is a charcoal-colored, angular bracer that fits over a crawler's wrist and can be activated by forming a tight fist.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "STR",
+          "value": 4
+        }
+      ],
+      "name": "Strength boost",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [
+          {
+            "left": "success",
+            "op": "equal",
+            "right": true
+          }
+        ],
+        "event": "attack"
+      }
+    },
+    {
+      "area": null,
+      "chance": 0.02,
+      "modifiers": [],
+      "name": "Cumulative Stun chance",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [
+          {
+            "left": "success",
+            "op": "equal",
+            "right": true
+          }
+        ],
+        "event": "attack"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "DEX",
+          "value": 1
+        }
+      ],
+      "name": "+1 DEX",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-war-gauntlet-of-the-exalted-grull",
+  "images": [
+    {
+      "alt": "Official art by Erik Wilson",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/2a/War_Gauntlet_by_Erik_Wilson.jpg/revision/latest?cb=20250406043150",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Weapon",
+  "kind_detail": [
+    "Weapon (Melee)",
+    "Equipped Gear"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T12:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T12:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted War Gauntlet of the Exalted Grull",
+  "physical": {
+    "dimensions_cm": null,
+    "durability": null,
+    "size_category": null,
+    "weight_kg": null
+  },
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_War_Gauntlet_of_the_Exalted_Grull",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "This gauntlet responds to a clenching fist and provides bonuses in strength and dexterity along with skill enhancements.",
+  "series": "Dungeon Crawler Carl",
+  "slot": "wrist",
+  "subcategory": null,
+  "tags": [
+    "Enchanted"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": {
+    "category": "Melee",
+    "damage": [
+      {
+        "dice": "N/A",
+        "on_crit": "N/A",
+        "type": "N/A"
+      }
+    ],
+    "handedness": "Right",
+    "properties": [
+      "Equipped Gear"
+    ],
+    "range_m": null,
+    "reach_m": null
+  }
+}

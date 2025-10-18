@@ -1,0 +1,70 @@
+{
+  "activation": [],
+  "ai_description": "Drinking this adds a single level to the Determine Value skill. Hopefully now you’ll realize all those Magic: The Gathering cards are nothing more than just meaningless pieces of paper, and you should have spent your money on something with actual value, like a treadmill. Or shampoo.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "A Skill Potion is a special potion that, when consumed, adds a single level to a skill specified in the item's description. Typically received in Loot Boxes, Skill Potions may be the only way to unlock certain Crawler Menu options such as sorting inventory by value.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "+1 Level (Specific Skill)",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "consumed"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "skill-potion",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Potion"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Skill Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Skill_Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Adds a single level to a skill when consumed.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Potion"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

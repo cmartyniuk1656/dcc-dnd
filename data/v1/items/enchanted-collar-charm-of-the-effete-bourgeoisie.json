@@ -1,0 +1,122 @@
+{
+  "activation": [],
+  "ai_description": "The middle size of the chains of leadership, this pendant signifies you as a member of the elite. Each jewel encrusted upon this charm represents a settlement owned and controlled by the bearer. If one still maintains a settlement’s jewel upon the collapse of the level, the holder of this necklace will permanently receive a tax stipend every ten days from that settlement based on size and population. In addition, each gem will impart additional benefits based on the town.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A magic collar charm received after becoming mayor of Point Mongo.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "DEX",
+          "value": 8
+        }
+      ],
+      "name": "Dexterity",
+      "outcomes": [],
+      "save": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "INT",
+          "value": 4
+        }
+      ],
+      "name": "Intelligence",
+      "outcomes": [],
+      "save": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "Snitch Skill",
+          "value": 10
+        }
+      ],
+      "name": "Snitch Skill",
+      "outcomes": [],
+      "save": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-collar-charm-of-the-effete-bourgeoisie",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f7/00722.jpg/revision/latest?cb=20231219223533",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Accessory",
+  "kind_detail": [
+    "Collar"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-05T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-05T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Collar Charm of the Effete Bourgeoisie",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Collar_Charm_of_the_Effete_Bourgeoisie",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Collar",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

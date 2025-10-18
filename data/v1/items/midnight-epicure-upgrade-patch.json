@@ -1,0 +1,112 @@
+{
+  "activation": [],
+  "ai_description": "Upgrade Patch. Medium. The Midnight Epicure is used to terrify children. Provides protection against Vampirism, Lycanthropy, and increases magical damage against sapient undead.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A medium-sized patch made of a black, denim-like material with a grey satanic goat head screen-printed on it.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Protection against Vampirism",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Protection against Lycanthropy",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "+25% Magical damage against all sapient undead",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "midnight-epicure-upgrade-patch",
+  "images": [
+    {
+      "alt": "Art by Roosterjazz",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a2/Midnight_Epicure_Patch_by_roosterjazz.png/revision/latest?cb=20250804012947",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Upgrade Patch"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Midnight Epicure Upgrade Patch",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Midnight_Epicure_Upgrade_Patch",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Upgrade Patch provides various protections and boosts magical damage against undead.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Patches",
+  "tags": [
+    "Upgrade Patch",
+    "Medium",
+    "Protection",
+    "Magical damage"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

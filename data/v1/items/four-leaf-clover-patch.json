@@ -1,0 +1,82 @@
+{
+  "activation": [],
+  "ai_description": "Upgrade Patch. Small. This upgrade patch depicts a perfectly-perfect, mouthwatering human foot treading upon a patch of four-leaf clovers, creasing them as it presses down with gentle but oh-so-firm force. Despite their non-sentient nature, the clovers have a brief moment of awareness as they suffer, and it is fucking delicious. Affixing this patch to an eligible garment will imbue the following benefits: Lucky Shot. A fatal blow will be deflected into the body of a party member instead. This benefit may only be used once per floor.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A small patch of a group of four-leaf clovers being smashed under a bare foot.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Lucky Shot",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "four-leaf-clover-patch",
+  "images": [
+    {
+      "alt": "Four-Leaf Clover Patch",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/fc/Four-Leaf_Clover_Patch.png/revision/latest?cb=20250307020501",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Upgrade Patch (Small)"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Four-Leaf Clover Patch",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Four-Leaf_Clover_Patch",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Patch",
+    "Upgrade"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

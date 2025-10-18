@@ -1,0 +1,90 @@
+{
+  "activation": [],
+  "ai_description": "This is a shaping tool. May only be used at a workbench. Assists in shaping materials into something else. You might want to keep the business end away from your face.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Can be used at an Engineer's Table to reshape existing materials.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "reshape materials",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "lower item strength",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "goo-inator-3000",
+  "images": [
+    {
+      "alt": "Goo-Inator 3000",
+      "attribution": null,
+      "focal_point": null,
+      "foundry": null,
+      "height": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c2/Gooinator3000.jpg/revision/latest?cb=20240915135630",
+      "srcset": [],
+      "title": "Goo-Inator 3000",
+      "type": "icon",
+      "width": null,
+      "mime": "image/jpeg"
+    }
+  ],
+  "kind": "Tool",
+  "kind_detail": [
+    "Crafting Tool"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Goo-Inator 3000",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Goo-Inator_3000",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Can reshape existing materials at an Engineer's Table.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "crafting",
+    "utility"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

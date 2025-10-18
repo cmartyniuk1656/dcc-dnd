@@ -1,0 +1,53 @@
+{
+  "activation": [],
+  "ai_description": "This weapon has been upgraded twice, this is a sapient weapon, this is an incremental damage weapon. Holds several US dollars worth of nickels. This weapons damage increases by 1.5% of every mob it kills that is no more than ten levels below your current level, currently does 238% additional damage. Provides +10 dex and +10% dex. Has a 5% chance to inflict the Bonk condition. All mobs killed by this weapon have a 20% to burst into a pile of gold coins upon death, the number of coins is equal to the value of the items in their inventory + level times 10.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image= |imagecaption= |type=Weapon |keywords= |effects= |source= |buy= |sell= }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "spunky-jeffery-the-enchanted-nickel-sock-of-the-elderly-miser",
+  "images": [],
+  "kind": "Weapon",
+  "kind_detail": [
+    "Weapon"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Spunky Jeffery the Enchanted Nickel Sock of the Elderly Miser",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Spunky_Jeffery_the_Enchanted_Nickel_Sock_of_the_Elderly_Miser",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": {
+    "category": "Weapon",
+    "damage": [],
+    "handedness": null,
+    "properties": [],
+    "range_m": null,
+    "reach_m": null
+  }
+}

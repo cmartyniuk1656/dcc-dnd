@@ -1,0 +1,174 @@
+{
+  "activation": [
+    {
+      "charges": null,
+      "cooldown_seconds": null,
+      "detail": null,
+      "via": "throw"
+    }
+  ],
+  "ai_description": "Carl’s Jug O’ Boom is an incendiary tossable that results in a small explosion and burning splash damage over a wide area. It is inert until activated by a torch.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Carl's Jug O'Boom is crafted by emptying a clay Rev-Up Toilet-Grade Moonshine jug to about 3/4 full, adding a few ounces of Goblin Oil, and corking the bottle with a Torch. It causes a small explosion followed by burning splash damage over a wide area.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": {
+        "origin": "impact",
+        "shape": "sphere",
+        "size": 2
+      },
+      "chance": null,
+      "modifiers": [],
+      "name": "Intense Fire",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "toss"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": {
+    "conjured": false,
+    "description": null,
+    "material": null
+  },
+  "id": "carl-jug-o-boom",
+  "images": [
+    {
+      "alt": "Art by u/ottoe57, Reddit",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/Carls_Jug_o_boom_by_Ottoe57.jpg/revision/latest?cb=20250411203434",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    },
+    {
+      "alt": "Official art by Erik Wilson",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/Carls_Jug_o_boom_by_Ottoe57.jpg/revision/latest?cb=20250411203434",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by @HotPinkDarkness, Discord",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/Carls_Jug_o_boom_by_Ottoe57.jpg/revision/latest?cb=20250411203434",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by Rawrg, Discord",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/Carls_Jug_o_boom_by_Ottoe57.jpg/revision/latest?cb=20250411203434",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by @autumnalfrost, Tumblr",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7d/Carls_Jug_o_boom_by_Ottoe57.jpg/revision/latest?cb=20250411203434",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Explosive",
+    "Consumable"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Carl's Jug O'Boom",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Carl's_Jug_O'Boom",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Crafted explosive with incendiary properties.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Explosive",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,129 @@
+{
+  "activation": [],
+  "ai_description": "Drakea’s Enchanted Kerchief of Disorder is a versatile garment that offers bonuses such as +5 to Detect Trap Skill and the ability to cast a level-15 Tripper spell.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A black bandana with a typical white paisley pattern, granting benefits to the wearer.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "+5 Detect Trap Skill",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Tripper Spell, Level 15",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Remote Detonator Benefit",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "drakeas-enchanted-kerchief-of-disorder",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/1e/Drakea%27s_Kerchief_of_Disorder.jpg/revision/latest?cb=20250412032914",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by rockitcupid, Tumblr",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/1/18/Carl_by_RockItCupid.webp/revision/latest?cb=20250508022544",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Apparel",
+  "kind_detail": [
+    "Clothing"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Drakea's Enchanted Kerchief of Disorder",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Drakea's_Enchanted_Kerchief_of_Disorder",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Gives wearer enhanced trap detection abilities and spellcasting capability.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Clothing",
+  "tags": [
+    "Detect Trap Skill",
+    "Tripper Spell",
+    "Remote Detonator Benefit"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

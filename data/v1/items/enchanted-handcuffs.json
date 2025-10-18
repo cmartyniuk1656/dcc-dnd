@@ -1,0 +1,64 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Handcuffs. My safe word is, “Harder, Daddy.” You know what these are. Your mom had a pair in her drawer, and your dad was probably no stranger to these things, either.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Used to lock a person’s arms together at the wrist. This set of novelty handcuffs is magically reinforced. Requires a strength of at least 200 to break. There’s no key. These are locked and unlocked magically by you. You may also institute an optional safe word or phrase that disengages.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-handcuffs",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/23/Enchanted_Handcuffs.jpg/revision/latest?cb=20250412043723",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Handcuffs",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Handcuffs",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Accessories",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

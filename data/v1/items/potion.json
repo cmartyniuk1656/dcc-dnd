@@ -1,0 +1,78 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": 999,
+    "use_time": null,
+    "uses": 1
+  },
+  "description": "Potions are single-use consumable items that cause some magical effect (typically a buff or debuff) when consumed. They can be received in Loot Boxes, looted, brewed, or purchased. Potions stack up to (999) per inventory slot and can be added to a crawler's hotlist.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "potion",
+  "images": [
+    {
+      "alt": "Art by u/Mashermello, Reddit",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f9/Mordecai_skyfowl.png/revision/latest?cb=20250616091354",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Potion"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Potions are single-use consumable items that cause magical effects when consumed.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Consumable",
+    "Single-Use"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

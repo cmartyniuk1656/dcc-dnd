@@ -1,0 +1,125 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Toe Ring of the Well-Balanced. This special, dainty, perfectly delightful toe ring (which, by the way, must be equipped on your left pinky toe. Don’t test me on this) represents balance. Balance in heart, mind, and your physical core. Yeah, I know that sounds like some yoga bullshit, but this has been given to you to save your ass because you’re too dumb to realize how much danger you’re in. When properly equipped, (again, left pinky) this toe ring imbues the following effects: Heart Balance, Level 5. Allows you to store one auto-trigger potion item if health reaches a certain criteria. Mind Balance, Level 5. Allows protection from Enslavement and Conscription. Physical Balance, Level 5. At level five, this skill imbues both the Extra Steady Balance Skill and the Walk on Air Skill (already obtained.)",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title=Enchanted Toe Ring of the Well-Balanced |type=Jewelry: Toe Ring |keywords=Unique |effects= *Heart Balance Skill, Level 5 *Mind Balance Skill, Level 5 *Physical Balance Skill, Level 5 *Extra Steady Balance Skill *Walk on Air Skill |source= Unbirthing Achievement }} Carl receives the Enchanted Toe Ring of the Well-Balanced in a Platinum Spicy Box for the Unbirthing Achievement. He equips it on his left pinky toe.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Heart Balance Skill",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Mind Balance Skill",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Physical Balance Skill",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Extra Steady Balance Skill",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Walk on Air Skill",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Unbirthing Achievement",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-toe-ring-of-the-well-balanced",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Jewelry: Toe Ring"
+  ],
+  "level_requirement": 5,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Toe Ring of the Well-Balanced",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Toe_Ring_of_the_Well-Balanced",
+    "source_type": "wiki"
+  },
+  "rarity": "Unique",
+  "rules_text": "Equipped on the left pinky toe; grants various balance-related skills.",
+  "series": "Dungeon Crawler Carl",
+  "slot": "left pinky toe",
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,68 @@
+{
+  "activation": [],
+  "ai_description": "-->",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A simple, non-magical, blue and white hat with the words 'I rode the Iron Tangle' embroidered on it.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": 5000,
+    "currency": "gold",
+    "trade_value": null
+  },
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "train-conductor-s-souvenir-hat",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/43/I_rode_the_iron_tangle_hat.jpg/revision/latest?cb=20250309200101",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Apparel",
+  "kind_detail": [
+    "Clothing (Chest)"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Train Conductor's Souvenir Hat",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Train_Conductor's_Souvenir_Hat",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "All crawlers receive the Train Conductor's Souvenir Hat upon entry to the Fourth Floor from the I'm on a train Achievement.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

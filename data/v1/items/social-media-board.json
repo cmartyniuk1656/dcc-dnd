@@ -1,0 +1,120 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A tier-1 Social Upgrade that allows crawlers to view a running log of social media comments, heavily moderated by the System AI.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": 50000,
+    "currency": "Gold",
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "moderated tunnel access",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "social media feed",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "social-media-board",
+  "images": [
+    {
+      "alt": "Art by u/Meldinar, Reddit",
+      "attribution": {
+        "author": "u/Meldinar",
+        "license": null,
+        "source_url": "https://www.reddit.com"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/8/80/Heavy_is_the_head_that_wears_the_crown_by_Meldinar.jpeg/revision/latest?cb=20240401114753",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by u/Reign-Kid, Reddit",
+      "attribution": {
+        "author": "u/Reign-Kid",
+        "license": null,
+        "source_url": "https://www.reddit.com"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": 300,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/dc/Donut_Brain_Rot_by_Reign_kID.jpg/revision/latest?cb=20250811021232",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": 300
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Personal Space Upgrade"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Social Media Board",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Social_Media_Board",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "A tier-1 Social Upgrade for viewing social media comments with moderation.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Personal Space Upgrade",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

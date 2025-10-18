@@ -1,0 +1,86 @@
+{
+  "activation": [],
+  "ai_description": "Goblin Copper Chopper with attached sidecar. Human-sized. Contraption. Junkyard bicycle with an unreliable steam engine.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Goblin-made motorcycle running on a steam engine with a sidecar fit for a princess.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "goblin-copper-chopper",
+  "images": [
+    {
+      "alt": "Art by u/Content_Office_2479, Reddit",
+      "attribution": {
+        "author": "u/Content_Office_2479",
+        "license": null,
+        "source_url": "https://reddit.com"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/e/ec/Copper_Chooper_by_Content_office.jpg/revision/latest?cb=20250830132900",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/9d/Goblin_Copper_Chopper_by_OutFold_copy.jpg/revision/latest?cb=20250424042558",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Vehicle",
+    "Contraption"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Goblin Copper Chopper",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Goblin_Copper_Chopper",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Goblin-made motorcycle with steam engine and sidecar.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

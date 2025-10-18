@@ -1,0 +1,83 @@
+{
+  "activation": [],
+  "ai_description": "Engaged Lock Box of the Night Wyrm with a prize inside.",
+  "aliases": [],
+  "attunement": {
+    "bound_to_character": true,
+    "removal_conditions": null,
+    "slots": null
+  },
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image=Enchanted Lock Box.png |imagecaption= |type= |keywords= Celestial |effects= Contains a celestial boon |source= Loot Box }}",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [],
+  "enchantments": [],
+  "form": {
+    "conjured": false,
+    "description": "A rectangular dark wooden box covered in carved spiderweb patterns.",
+    "material": "wood"
+  },
+  "id": "enchanted-lock-box-of-the-night-wyrm",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/b/bf/Enchanted_Lock_Box.png/revision/latest?cb=20250417024832",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "LootBox",
+  "kind_detail": [
+    "|keywords= Celestial"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-05T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-05T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Lock Box of the Night Wyrm",
+  "physical": {
+    "dimensions_cm": null,
+    "durability": null,
+    "size_category": null,
+    "weight_kg": null
+  },
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Lock_Box_of_the_Night_Wyrm",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Contains a celestial boon",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Celestial"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,49 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Prison Tattoo Kit. Allows an artist to create a tattoo of their choosing upon the skin of a willing or unwilling target, potentially imbue magical buffs and upgrades.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Allows someone to create a tattoo on a target, can potentially imbue magical buffs and upgrades if the artist is good enough.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-prison-tattoo-kit",
+  "images": [],
+  "kind": "Tattoo",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Prison Tattoo Kit",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Prison_Tattoo_Kit",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Allows creation of tattoos that can have magical effects.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": {
+    "body_location": "skin",
+    "faction_keys": []
+  },
+  "tech": null,
+  "weapon": null
+}

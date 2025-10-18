@@ -1,0 +1,86 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Alchemy Table is a crafting workbench that allows crawlers to transform various Dungeon loot such as organs and skins into potions.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Transform Dungeon Loot",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "usage"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": {
+    "conjured": false,
+    "description": null,
+    "material": null
+  },
+  "id": "alchemy-table",
+  "images": [
+    {
+      "alt": "Alchemy Table level 3",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/6/63/Alchemy_Table_lvl3.png/revision/latest?cb=20250306044230",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "CraftingStation",
+  "kind_detail": [
+    "Crafting Table"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T12:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T12:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Alchemy Table",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Alchemy_Table",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Allows transformation of Dungeon loot into potions.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "crafting",
+    "alchemy",
+    "loot transformation"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

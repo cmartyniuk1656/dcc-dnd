@@ -1,0 +1,107 @@
+{
+  "activation": [],
+  "ai_description": "Stylish black bracelet made of obsidian glass. Upgraded three times; 50% chance to break if upgraded again.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image= |imagecaption= |type= |keywords= |effects= |source= |buy= |sell= }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CON",
+          "value": 10
+        }
+      ],
+      "name": "Constitution Bonus",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "DEX",
+          "value": 5
+        }
+      ],
+      "name": "Dexterity Bonus",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Fire Resistance",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "chance": null,
+      "modifiers": [],
+      "name": "Fireball Spell",
+      "outcomes": [],
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-obsidian-bracelet-of-the-raggle-rouser",
+  "images": [],
+  "kind": "Accessory",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Obsidian Bracelet of the Raggle Rouser",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Obsidian_Bracelet_of_the_Raggle_Rouser",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Jewelry",
+    "Equipped Items",
+    "Clothing",
+    "Accessories",
+    "Floor 6"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

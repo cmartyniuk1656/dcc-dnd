@@ -1,0 +1,56 @@
+{
+  "activation": [],
+  "ai_description": "Scroll of Meat Hooks. Attracts all carnivorous pet-class mobs to the caster for 30 seconds plus 10 seconds per intelligence point, at a range of 100 meters plus 20 meters per charisma point.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": 30,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Scrolls of Meat Hooks are scrolls that attract all carnivorous pet-class mobs within range toward the caster.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "scroll-of-meat-hooks",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Scroll of Meat Hooks",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Scroll_of_Meat_Hooks",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Attracts carnivorous pet-class mobs within 100m + (Charisma x 20)m for 30 sec + (Intelligence x 10) sec.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Scrolls",
+  "tags": [
+    "Scrolls",
+    "Items",
+    "Consumable Items",
+    "Pet Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

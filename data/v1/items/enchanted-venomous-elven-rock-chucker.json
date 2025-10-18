@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted Venomous Elven Rock Chucker – Contraption. The mounted, fast-attack artillery specialists of the Dream don’t bring siege engines with them when they go raiding. That’s why they’re so annoyingly deadly. Using a combination of knowledge, druid magic, and a little something-something extra—wink—they’re able to rapidly construct their war machines on the fly. These can’t-take-a-joke beanpoles can conjure up a whole regiment of wall-breaching contraptions in a matter of hours. Translation: you don’t want these pale fuckers on your doorstep. This particular light-duty rock thrower is made by casting Bamboozeled on a patch of land and then assembling the device from the resulting poisonous bamboo stalks. Bring a sling, some rope, a few extra parts, and you have a device that can hurl 300 kilos worth of “Do you hear something?” in an enemy’s direction. The magical bamboo stalks infuse anything hurled with this machine with Poison Cloud. This contraption has a 90-second cooldown between each use.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "|title= |image= |imagecaption= |type= Siege Equipment |keywords= |effects= |source= |buy= |sell= }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-venomous-elven-rock-chucker",
+  "images": [],
+  "kind": "Other",
+  "kind_detail": [
+    "Siege Equipment"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Venomous Elven Rock Chucker",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Venomous_Elven_Rock_Chucker",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Siege Equipment",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,67 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The I Have the Conch Box is a Loot Box given to Carl for the Lord of the Flies Achievement. He receives a Gold version of this box.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "i-have-the-conch-box",
+  "images": [
+    {
+      "alt": "I Have the Conch Box",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/de/I_have_the_conch_box.jpg/revision/latest?cb=20250309051506",
+      "srcset": [],
+      "title": "I Have the Conch Box",
+      "transparent": null,
+      "type": "splash",
+      "width": null
+    }
+  ],
+  "kind": "LootBox",
+  "kind_detail": [
+    "Loot Boxes"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "I Have the Conch Box",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/I_Have_the_Conch_Box",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Loot Boxes",
+    "Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

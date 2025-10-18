@@ -1,0 +1,112 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Ugly-Ass Backpack looks like a large metal open-topped basket; it has reinforced shoulder straps but they are insufficient to carry its weight.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "STR",
+          "value": null
+        },
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "DEX",
+          "value": null
+        }
+      ],
+      "name": "Variable additional mass",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "equips"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Unstable Mass Reset",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [
+          {
+            "left": "mass",
+            "op": ">",
+            "right": 50
+          }
+        ],
+        "event": "unequips"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "ugly-ass-backpack-with-a-completely-useless-design-that-only-an-idiot-would-wear",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/5/52/Ugly_Ass_Backpack_V2.jpg/revision/latest?cb=20250319042308",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Backpack"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-03T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-03T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Ugly Ass Backpack With a Completely Useless Design that Only an Idiot Would Wear",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Ugly_Ass_Backpack_With_a_Completely_Useless_Design_that_Only_an_Idiot_Would_Wear",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Item created by Carl for Katia, allows variable mass storage, requires special stand for equipping.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Equipped"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

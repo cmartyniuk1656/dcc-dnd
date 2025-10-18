@@ -1,0 +1,50 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [
+    "MOAB",
+    "Bomb Chicken"
+  ],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Mounted on a squeaky trailer made of looted wood and goblin wheels, the MOAB is designed to launch a variety of small bombs.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "mother-of-all-bombs",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Explosive",
+    "Crafted"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Mother of All Bombs",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Mother_of_All_Bombs_(MOAB)",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "The Mother of All Bombs is crafted to launch bombs called 'babies.'",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Explosives",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

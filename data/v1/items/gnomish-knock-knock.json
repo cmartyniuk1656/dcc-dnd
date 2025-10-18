@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "Gnomish Knock-Knock\nType: Fuel-air bomb. \nEffect: Thermobaric Explosion.\nStatus: 40. Barely stable. I wouldn’t be tapping on the thing. Ever seen a hundred Dromedarians die because their lungs imploded, followed by their skin getting melted off their body just before they all shatter into mist? Well now’s your chance! Fun for the whole family, this was the main weapon of the Gnomish Bombardier Squads. There are only a few of these things left, and they’re usually strapped to the failing air force’s most reliable patrol ships. The fuel-air Knock-Knocks were once used to devastating effect in the early days of the last conflict. The remaining munitions are instead used as a mutual-standoff weapon. These are simple, crude, but highly-effective bombs. Famously unstable. But god-damn do they put on a show.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Gnomish Knock-Knocks are refrigerator-sized bombs created by Gnomes and capable of leveling cities. They are detonated using an adjustable, pressure-based fuse that can allow the bombardier to fine-tune the height at which they explode.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "gnomish-knock-knock",
+  "images": [],
+  "kind": "Other",
+  "kind_detail": [
+    "Explosive"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Gnomish Knock-Knock",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Gnomish_Knock-Knock",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

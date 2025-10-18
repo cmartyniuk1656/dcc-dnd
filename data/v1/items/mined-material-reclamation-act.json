@@ -1,0 +1,48 @@
+{
+  "activation": [],
+  "ai_description": "Per Syndicate rules, subsection 543 of the Precious Elemental Reserves Code, having failed to file a proper appeal for mineral and elemental rights within 50 Solars of first contact, your planet has been successfully seized and is currently being mined of all requested elemental deposits by the assigned planetary regent. Every interior of your world has been crushed and all raw materials—organic and inanimate—are in the process of being mined for the requested elements. Per the Mined Material Reclamation Act along with subsection 35 of the Indigenous Planetary Species Protection Act, any surviving humans will be given the opportunity to reclaim their lost matter. The Borant Corporation, having been assigned regency over this solar system, is allowed to choose the manner of this reclamation, and they have chosen option 3, also known as the 18-Level World Dungeon. The Borant Corporation retains all rights to broadcast, exploit, and otherwise control all aspects of the World Dungeon and will remain in control as long as they adhere to Syndicate regulations regarding world resource reclamation. Upon successful completion of level 18 of the World Dungeon, regency of this planet will revert to the successor.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Mined Material Reclamation Act is a Syndicate law pertaining to the rights of planets to their mineral wealth.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "mined-material-reclamation-act",
+  "images": [],
+  "kind": "Other",
+  "kind_detail": [
+    "Syndicate Law"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Mined Material Reclamation Act",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Mined_Material_Reclamation_Act",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Syndicate Law"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

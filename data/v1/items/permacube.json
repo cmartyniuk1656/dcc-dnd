@@ -1,0 +1,82 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A permacube generates heat when combined with combustible material such as coal.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "generates heat for steam engines",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "permacube",
+  "images": [
+    {
+      "alt": "Permacube",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/33/Permacube.jpg/revision/latest?cb=20240523121719",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Crafting Material"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2024-05-22T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2024-05-22T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Permacube",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Permacube",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Generates heat for steam engines.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Crafting Materials",
+    "Technology"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

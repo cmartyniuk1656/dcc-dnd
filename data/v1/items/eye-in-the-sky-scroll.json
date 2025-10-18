@@ -1,0 +1,62 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Pinpoints the location of a Crawler",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "eye-in-the-sky-scroll",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/3d/00255.jpg/revision/latest?cb=20231124225127",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-02T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-02T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Eye in the sky scroll",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Eye_in_the_Sky_Scroll",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Cast using a scroll to determine crawler location.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Scroll",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

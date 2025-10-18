@@ -1,0 +1,86 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Dismemberment Limited is a sleek, white maglev train that moves almost silently on a monorail line. The first car is aerodynamic and sleek with a fully glass nose and pulls only two cars behind it. The train can only be entered and exited from the first car.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Contains War Mage",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "dismemberment-limited",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/af/Dismemberment_Limited.jpg/revision/latest?cb=20250319012632",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Train Line - Named Line"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Dismemberment Limited",
+  "physical": {
+    "dimensions_cm": null,
+    "durability": null,
+    "size_category": null,
+    "weight_kg": null
+  },
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dismemberment_Limited",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "A named train on the Fourth Floor Iron Tangle.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Train Line",
+    "Named Line"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

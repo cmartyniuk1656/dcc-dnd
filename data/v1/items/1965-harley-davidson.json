@@ -1,0 +1,71 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A genuine 1965 Harley Davidson FLH Electra Glide motorcycle.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "1965-harley-davidson",
+  "images": [
+    {
+      "alt": "1965 Harley Davidson",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/fb/543066377o.jpg/revision/latest?cb=20231128202533",
+      "srcset": [],
+      "title": "1965 Harley Davidson",
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Vehicle"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "1965 Harley Davidson",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/1965_Harley_Davidson_Motorcycle",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "A genuine 1965 Harley Davidson FLH Electra Glide motorcycle.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Vehicles",
+    "Earth Items",
+    "Items",
+    "Carl",
+    "Floor 4",
+    "Floor 8"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

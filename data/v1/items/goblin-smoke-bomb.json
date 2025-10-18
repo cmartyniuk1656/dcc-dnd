@@ -1,0 +1,98 @@
+{
+  "activation": [],
+  "ai_description": "Emits a stinking cloud of billowing, multi-color smoke that lasts for three minutes before dispersing. Use to either confuse enemies or as a stage prop at a hair metal concert.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": 180,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Goblin Smoke Bombs are apple-sized spherical bombs with wicks that emit a cloud of opaque smoke in a 10 meter radius for 3 minutes.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": {
+        "origin": "center",
+        "shape": "sphere",
+        "size": 10
+      },
+      "chance": null,
+      "modifiers": [],
+      "name": "Opaque smoke",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": {
+    "conjured": false,
+    "description": null,
+    "material": null
+  },
+  "id": "goblin-smoke-bomb",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/77/Goblin_Smoke_Bomb.png/revision/latest?cb=20250626013846",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Low Explosives"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Goblin Smoke Bomb",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Goblin_Smoke_Bomb",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Creates opaque smoke in a 10m radius for 3 minutes.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Low Explosives",
+  "tags": [
+    "explosive",
+    "smoke",
+    "bomb"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

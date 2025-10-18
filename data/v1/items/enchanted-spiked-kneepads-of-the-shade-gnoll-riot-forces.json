@@ -1,0 +1,95 @@
+{
+  "activation": [],
+  "ai_description": "Adds 10% Damage Reflect to all equipped armor. Cancels all Momentum-based attacks.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Self-adjusting slip-on knee bracers covered in retractable 8\" (20.32cm) long, thin, needle-like spikes that pop out when needed.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "+10% Damage Reflect",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Cancels momentum-based attacks",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-spiked-kneepads-of-the-shade-gnoll-riot-forces",
+  "images": [
+    {
+      "alt": "Official Kickstarter art by Luciano Fleitas",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/76/Boxers_and_kneepads.jpg/revision/latest?cb=20240401171705",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Spiked Kneepads of the Shade Gnoll Riot Forces",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Spiked_Kneepads_of_the_Shade_Gnoll_Riot_Forces",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Equipped armor gains +10% Damage Reflect. Cancels momentum-based attacks.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Equipped Items",
+  "tags": [
+    "Clothing"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

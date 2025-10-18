@@ -1,0 +1,103 @@
+{
+  "activation": [],
+  "ai_description": "Upgrade Patch. Medium. This patch depicts a burning book. It grants +15% to Intelligence and the Book Burner benefit.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A medium-sized rectangular patch with a book on it. The book is on fire. This patch is embroidered, not screen printed.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "mul",
+          "stack_rule": null,
+          "stat": "INT",
+          "value": 1.15
+        }
+      ],
+      "name": "Intelligence Increase",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "item_affix"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Book Burner Benefit",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "item_affix"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "book-burner-patch",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/23/Book_burner_patch.PNG/revision/latest?cb=20241130195146",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Upgrade Patch",
+    "Medium"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Book Burner Upgrade Patch",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Book_Burner_Patch",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "This upgrade patch grants +15% to Intelligence and the Book Burner benefit. It is a fleeting item, which will be destroyed upon removal.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Embroidered"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

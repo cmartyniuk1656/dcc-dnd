@@ -1,0 +1,68 @@
+{
+  "activation": [],
+  "ai_description": "Massage coupon! Has work been getting you down? Feeling stressed? Do you and your girlfriends need a break? This coupon entitles you, plus one companion!, a free, relaxing, one-hour massage at either the Penis Parade or the Penis Palace Back Room Relaxation Spa in the Desperado Club. Includes optional aromatherapy and chemical* peel. \"Extras\" and tip not included.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Entitles the owner plus one companion to a one hour massage at the penis parade or penis palace backroom relaxation spa.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Free massage at the Desperado Club",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "massage-coupon",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-20T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-20T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Massage Coupon",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Massage_Coupon",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

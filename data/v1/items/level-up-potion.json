@@ -1,0 +1,70 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Level-Up Potions are potions that may be awarded by quests. They presumably cause the target to gain one crawler level.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": 1.0,
+      "modifiers": [],
+      "name": "Gain Level",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "On Use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "level-up-potion",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Level-Up Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Level-Up_Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "+ 1 Level",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Potion",
+  "tags": [
+    "Potion",
+    "Consumable Items",
+    "Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

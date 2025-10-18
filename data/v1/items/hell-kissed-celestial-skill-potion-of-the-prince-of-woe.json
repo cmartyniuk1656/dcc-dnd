@@ -1,0 +1,88 @@
+{
+  "activation": [],
+  "ai_description": "Hell-Kissed Celestial Skill Potion of the Prince of Woe. Drinking this potion will give you a random level 10 to 15 Celestial-tier skill. This skill will be any combat-based skill from any Sheol-level mob level 200 or higher.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Drinking this potion will give you a random level 10 to 15 Celestial-tier skill. The skill will be combat based, and it will be something you don’t already have.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Gloom Wraith Phase Skill",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "consumption"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "hell-kissed-celestial-skill-potion-of-the-prince-of-woe",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/9/90/Potion_of_woe.png/revision/latest?cb=20250307031547",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Potion"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Hell-Kissed Celestial Skill Potion of the Prince of Woe",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Hell-Kissed_Celestial_Skill_Potion_of_the_Prince_of_Woe",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Potion",
+    "Celestial"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

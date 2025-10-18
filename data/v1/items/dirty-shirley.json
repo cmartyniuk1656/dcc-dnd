@@ -1,0 +1,123 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Dirty Shirley is a drink made of Vodka, Grenedine, and lemon lime soda. It is frequently topped with cherries.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Buzzed Debuff",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Shit-Faced Debuff",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "dirty-shirley",
+  "images": [
+    {
+      "alt": "Art by u/Reign-Kid, Reddit",
+      "attribution": {
+        "author": "u/Reign-Kid, Reddit",
+        "license": null,
+        "source_url": null
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/7f/Dirty_Shirly_Reign_Kid.jpg/revision/latest?cb=20250811021921",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    },
+    {
+      "alt": "Art by Jen Kahn Terranova",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/d2/Dirty_Shirly_by_Terranova.jpg/revision/latest?cb=20250419005848",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Consumable"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-23T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-23T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Dirty Shirley",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dirty_Shirley",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Dirty Shirley is a drink made of Vodka, Grenedine, and lemon lime soda. It is frequently topped with cherries.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Drink"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

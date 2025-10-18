@@ -1,0 +1,70 @@
+{
+  "activation": [],
+  "ai_description": "This is a stick. It’s enchanted. It’s not a wand, but when used correctly, it can do something truly magical.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Enchanted Stick of Cascadia's Screams ties into the fairytale surrounding the Seventh Floor, the 'Great Race.' It is connected to the Enchanted Hammer of Fast Forward.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-stick-of-cascadia-screams",
+  "images": [
+    {
+      "alt": "Icon of Enchanted Stick of Cascadia Screams",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/0a/00705.jpg/revision/latest?cb=20231216222709",
+      "srcset": [],
+      "title": "Enchanted Stick of Cascadia Screams",
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Stick of Cascadia Screams",
+  "physical": {
+    "dimensions_cm": {
+      "h": 25.4,
+      "w": 0.635
+    },
+    "durability": null,
+    "size_category": null,
+    "weight_kg": null
+  },
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Stick_of_Cascadia_Screams",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Utility Items",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

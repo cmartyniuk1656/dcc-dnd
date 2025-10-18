@@ -1,0 +1,93 @@
+{
+  "activation": [],
+  "ai_description": "Drinking this mixture will permanently increase your Constitution by a random number between one and four. You may only drink two of these during your time in the dungeon. Why? Because drinking more would be cheating. And if anyone is going to cheat, it’s going to be me.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": 2
+  },
+  "description": "Drinking this mixture will permanently increase your Constitution by a random number between one and four. You may only drink two of these during your time in the dungeon. Why? Because drinking more would be cheating.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": 1.0,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CON",
+          "value": {}
+        }
+      ],
+      "name": "Constitution Buff",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "drink"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "superb-constitution-buff-potion",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/4/47/Superb_Constitution_Buff_Potion.jpg/revision/latest?cb=20250316043915",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Superb Constitution Buff Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Superb_Constitution_Buff_Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Randomly buff Constitution stat between 1 and 4",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

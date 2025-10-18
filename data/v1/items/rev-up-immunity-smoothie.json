@@ -1,0 +1,146 @@
+{
+  "activation": [],
+  "ai_description": "One part moonshine, and one part fairy, this smoothie offers 10 doses for the price of one! Each sip of this delicious concoction imbues the following effects: Temporary immunity to all health-seeping conditions and debuffs. Temporary protection against all communicable diseases. Inflicts the Buzzed Debuff. (Plus 3 Charisma. Minus 1 Dexterity. Plus Shaky Cam debuff. Plus Truth Serum Debuff.)",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": 1,
+    "use_time": null,
+    "uses": 10
+  },
+  "description": "Rev-Up Immunity Smoothies are a discontinued Rev-Up product originally manufactured on the Second Floor. Consuming the smoothie gives immunity to the Taint and Vigorous Measles.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Temporary immunity to Taint",
+      "notes": "Temporary immunity to Taint",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Temporary immunity to Vigorous Measles",
+      "notes": "Temporary immunity to Vigorous Measles",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Temporary immunity to health-seeping debuffs",
+      "notes": "Temporary immunity to health-seeping debuffs",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Temporary resistance to communicable diseases",
+      "notes": "Temporary resistance to communicable diseases",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Buzzed Debuff",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "rev-up-immunity-smoothie",
+  "images": [
+    {
+      "alt": "Art by u/OutFold, Reddit",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/20/Krakaren_Clone_Fight_by_OutFold.jpg/revision/latest?cb=20250409044131",
+      "srcset": [],
+      "title": "Rev-Up Immunity Smoothie",
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Consumable",
+    "Potion"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Rev-Up Immunity Smoothie",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Rev-Up_Immunity_Smoothie",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "A smoothie that provides temporary immunity to various ailments.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Crafted",
+    "Pharmaceuticals",
+    "Food"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

@@ -1,0 +1,173 @@
+{
+  "activation": [],
+  "ai_description": "It’s like giving yourself a PCP enema after spending the day riding the Night Train Express.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Drinking this potion gives the following effects for (Constitution) seconds. Strength times two. Movement speed times two. Dexterity times .5. The Where the Fuck Am I? Who the Fuck Are You? Debuff. Constitution times .5. For every crawler, NPC, or mob killed by you while this potion is active, your movement speed increases by an additional 25%.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "mul",
+          "stat": "STR",
+          "value": 2
+        }
+      ],
+      "name": "Strength",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "mul",
+          "stat": "Movement speed",
+          "value": 2
+        },
+        {
+          "op": "add",
+          "stat": "Movement speed",
+          "value": 25
+        }
+      ],
+      "name": "Movement speed",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "mul",
+          "stat": "DEX",
+          "value": 0.5
+        }
+      ],
+      "name": "Dexterity",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Debuff - Where the Fuck Am I? Who the Fuck Are You?",
+      "notes": "Causes user to forget where they are and why they're fighting.",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "mul",
+          "stat": "CON",
+          "value": 0.5
+        }
+      ],
+      "name": "Constitution",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "potion-of-bloodlust",
+  "images": [
+    {
+      "alt": "Potion of Bloodlust",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://dungeon-crawler-carl.fandom.com/wiki/Special:Redirect/file/00198.jpg",
+      "srcset": [],
+      "title": "Potion of Bloodlust",
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Potion of Bloodlust",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Potion_of_Bloodlust",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Potion",
+    "Consumable",
+    "Floor 5"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

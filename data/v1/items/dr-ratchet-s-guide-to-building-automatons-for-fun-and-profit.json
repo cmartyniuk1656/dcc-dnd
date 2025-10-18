@@ -1,0 +1,48 @@
+{
+  "activation": [],
+  "ai_description": "-->",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A book on creating automatons, features a dwarf riding on the back of a mechanical horse on the cover. Autographed.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "dr-ratchet-s-guide-to-building-automatons-for-fun-and-profit",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords= Automotons"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Dr. Ratchet's Guide to Building Automatons for Fun and Profit",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Dr._Ratchet's_Guide_to_Building_Automatons_for_Fun_and_Profit",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Automotons"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

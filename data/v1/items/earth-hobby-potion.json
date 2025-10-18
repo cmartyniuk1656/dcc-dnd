@@ -1,0 +1,86 @@
+{
+  "activation": [],
+  "ai_description": "This potion grants a Level Three skill ability in a unique, Earth-based hobby",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Obtain a Level Three skill ability in a unique, Earth-based hobby",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Obtain a Level Three skill ability",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "drink"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "earth-hobby-potion",
+  "images": [
+    {
+      "alt": "Earth Hobby Potion",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://dungeon-crawler-carl.fandom.com/wiki/Special:Redirect/file/00097.jpg",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Earth Hobby Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "Earth_Hobby_Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Grants Level Three skill ability in an Earth hobby",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Potion"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

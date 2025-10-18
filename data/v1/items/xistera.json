@@ -1,0 +1,75 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A wicker-like scoop, two feet long, that Carl can attach to his hand and arm. It is used for throwing projectiles with high speed and accuracy. When Carl summons something from his inventory into his hand it goes right into the scoop, which adjusts itself to accommodate the projectile. He typically uses it to throw bombs or potions held in delivery devices fashioned by Mordecai. Carl has a lot of range with the xistera, and his accuracy is very good except at the longest distances, where he will often overshoot his target. When not in use the xistera can fold inward onto Carl's forearm and form a bracer, which leaves his hand free and allows him to summon his gauntlet.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "xistera",
+  "images": [
+    {
+      "alt": "An example of a Chistéra from wikipedia",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/2/28/Chist%C3%A9ra.jpg/revision/latest?cb=20240401210013",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Weapon",
+  "kind_detail": [
+    "Equipable",
+    "Ranged"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Carl's Xistera",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Xistera",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Unique item that attaches to the end of xistera, allows for tossing of a head.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Equipable",
+    "Ranged"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": {
+    "category": "Ranged",
+    "damage": [],
+    "handedness": null,
+    "properties": [],
+    "range_m": null,
+    "reach_m": null
+  }
+}

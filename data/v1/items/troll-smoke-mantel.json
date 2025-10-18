@@ -1,0 +1,57 @@
+{
+  "activation": [],
+  "ai_description": "-->",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "is a smoke bomb, costs 30,000 gold for a set of twelve.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": 30000,
+    "currency": "gold",
+    "trade_value": null
+  },
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "troll-smoke-mantel",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-10T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-10T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Troll Smoke Mantel",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Troll_Smoke_Mantel",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Costs 30,000 gold for a set of twelve.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Explosives",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

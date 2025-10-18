@@ -1,0 +1,99 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Hobgoblin Smoke Curtains are round smoke bombs with fuses, which are relatively inexpensive and generally better than the limited Goblin Smoke Bombs. When detonated, they coat the entire area in a dense white fog.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "covers area in dense white fog",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "detonate"
+      }
+    },
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Smoke and fog do not affect most noncorporeal ghost mobs, but do affect those with a physical presence.",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "area_effect"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "hobgoblin-smoke-curtain",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c2/Hob_Smoke.jpg/revision/latest?cb=20240829201146",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Hobgoblin Smoke Curtain",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Hobgoblin_Smoke_Curtain",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Hobgoblin Smoke Curtains are effective smoke bombs that create a fog when detonated.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Explosives",
+  "tags": [
+    "item",
+    "explosive"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

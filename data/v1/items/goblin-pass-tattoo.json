@@ -1,0 +1,83 @@
+{
+  "activation": [],
+  "ai_description": "It’s a tattoo! On your forearm! Now you’ll never get a good job!",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "The Goblin Pass is a goblin skull tattoo that marks the bearer as a friend of the goblins. It allows for free passage through goblin-controlled territory but causes natural goblin enemies to deal 20% more damage.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Goblin Pass Effect",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "goblin-pass-tattoo",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/76/Goblin_Pass.jpg/revision/latest?cb=20240913092921",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Tattoo",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Goblin Pass Tattoo",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Goblin_Pass_Tattoo",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Removes automatic goblin hostility and allows for free passage through goblin territory. Goblin enemies deal 20% more damage.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Tattoo",
+    "Item"
+  ],
+  "tattoo": {
+    "body_location": "inner left forearm",
+    "faction_keys": []
+  },
+  "tech": null,
+  "weapon": null
+}

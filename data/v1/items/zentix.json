@@ -1,0 +1,47 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Zentix is a reactive, tamper-proof polymer that feels like cheap plastic. As a smart polymer, it can be programmed with security settings that cause it to fail under certain conditions (such as when tampered with or used by unauthorized users).",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "zentix",
+  "images": [],
+  "kind": "Other",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Zentix",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Zentix",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Zentix is a smart polymer used in children's toys that can react under certain conditions.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Syndicate Polymer",
+    "Technology"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

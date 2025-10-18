@@ -1,0 +1,53 @@
+{
+  "activation": [],
+  "ai_description": "Wand of Nighty-Night. 10 Charges. Knocks an opponent out onto their ass. Casts a level-10 Sleep on a non-boss, single target for a period of five minutes. Opponent will reawaken if they sustain physical damage. Multiple casts compounds the effect, which is why this wand is so fancy.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": 300,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": 10
+  },
+  "description": "|title= |image= |imagecaption= |type= |keywords= |effects= |source= }}",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "wand-of-nighty-night",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": 10,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Wand of Nighty Night",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Wand_of_Nighty_Night",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Consumable Items",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

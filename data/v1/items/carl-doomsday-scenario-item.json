@@ -1,0 +1,65 @@
+{
+  "activation": [],
+  "ai_description": "An explosion large enough to rattle the teeth of a god.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A 45 kilometer blast.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Explosion",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "create"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "carl-doomsday-scenario-item",
+  "images": [],
+  "kind": "Item",
+  "kind_detail": [
+    "Unstable custom explosive"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Carl’s Doomsday Scenario",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Carl's_Doomsday_Scenario_(Item)",
+    "source_type": "wiki"
+  },
+  "rarity": "Pretty Damn Rare",
+  "rules_text": "A 45 kilometer blast from an unstable explosive.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Consumable Items",
+  "tags": [
+    "Unstable",
+    "custom",
+    "explosive"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

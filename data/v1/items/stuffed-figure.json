@@ -1,0 +1,68 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A summoning device that looks like a beanie baby in the shape of a creature or figure. Removing the tag summons the creature to fight for the summoner.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Summon",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "remove tag"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "stuffed-figure",
+  "images": [],
+  "kind": "Weapon",
+  "kind_detail": [
+    "Summoning Weapon"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Stuffed Figure",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Stuffed_Figure",
+    "source_type": "wiki"
+  },
+  "rarity": "Common",
+  "rules_text": "A summoning device that looks like a beanie baby. Removing the tag summons the creature.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": {
+    "category": "Summoning Weapon",
+    "damage": [],
+    "handedness": null,
+    "properties": [],
+    "range_m": null,
+    "reach_m": null
+  }
+}

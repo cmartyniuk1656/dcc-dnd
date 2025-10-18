@@ -1,0 +1,143 @@
+{
+  "activation": [],
+  "ai_description": "The Tiara of a Thousand Lights is a unique item created for the Crawler Princess Donut, with the ability to store magical properties from other hats.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "A unique item created for Donut by her sponsor Long Haul Biological Waste Management Solutions.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CHA",
+          "value": 10
+        }
+      ],
+      "name": "+10 CHA",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [
+    {
+      "name": "Absorption Jewels",
+      "parameters": {
+        "total": 99
+      }
+    },
+    {
+      "name": "Charisma Bonus",
+      "parameters": {
+        "bonus": 10
+      }
+    },
+    {
+      "name": "Spell Range Increase",
+      "parameters": {}
+    },
+    {
+      "name": "Potion Cooldown Reduction",
+      "parameters": {
+        "percentage": 50
+      }
+    },
+    {
+      "name": "Intelligence Bonus",
+      "parameters": {
+        "bonus": 10
+      }
+    },
+    {
+      "name": "Poison Protection",
+      "parameters": {}
+    },
+    {
+      "name": "Negate Dexterity Debuff When Inebriated",
+      "parameters": {}
+    },
+    {
+      "name": "Hover Skill",
+      "parameters": {
+        "level": 10
+      }
+    },
+    {
+      "name": "Perfect Night Vision",
+      "parameters": {}
+    },
+    {
+      "name": "Battle Formation Skill",
+      "parameters": {
+        "level": null
+      }
+    }
+  ],
+  "form": null,
+  "id": "tiara-of-a-thousand-lights",
+  "images": [
+    {
+      "alt": "Tiara of a Thousand Lights",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/af/Tiara_of_a_Thousand_Lights.png/revision/latest?cb=20250809005011",
+      "srcset": [],
+      "title": "Tiara of a Thousand Lights",
+      "transparent": null,
+      "type": "splash",
+      "width": null
+    }
+  ],
+  "kind": "Accessory",
+  "kind_detail": [
+    "Tiara"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-02T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-02T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "The Tiara of a Thousand Lights",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Tiara_of_a_Thousand_Lights",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Imbued with 99 Absorption Jewels for upgrades, grants +10 to Charisma.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Tiara",
+  "tags": [
+    "Celestial",
+    "Jewelry",
+    "Accessories"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

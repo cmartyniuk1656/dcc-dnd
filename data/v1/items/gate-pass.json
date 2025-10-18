@@ -1,0 +1,46 @@
+{
+  "activation": [],
+  "ai_description": "Gate Pass. When one walks about the streets of any town within the Over City, the mindless Swordsman guards tend to get a bit squirrely if you’re carrying a corpse with you. When it comes to their black and white view of justice, the rule of law is absolute. Unless you have a gate pass. This letter gets the city guard off your back as long you’re not being too overt with your current criminal enterprise. Pass only works within the township in which it was issued.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "When one walks about the streets of any town within the Over City, the mindless Swordsman guards tend to get a bit squirrely if you’re carrying a corpse with you. When it comes to their black and white view of justice, the rule of law is absolute. Unless you have a gate pass. This letter gets the city guard off your back as long you’re not being too overt with your current criminal enterprise. Pass only works within the township in which it was issued.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "gate-pass",
+  "images": [],
+  "kind": "Other",
+  "kind_detail": [
+    "|keywords="
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Gate Pass",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Gate_Pass",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

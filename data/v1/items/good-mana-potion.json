@@ -1,0 +1,68 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [
+    "Good Mana Refills"
+  ],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": 120,
+    "duration_seconds": 120,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Good Mana Potions are potions that slowly add 200 Mana Points over the space of two minutes, at a rate of approximately 1.67 MP per second.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Restore Mana",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "consume"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "good-mana-potion",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Good Mana Potion",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Good_Mana_Potion",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Restores 200 MP over 120 seconds.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Potion",
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

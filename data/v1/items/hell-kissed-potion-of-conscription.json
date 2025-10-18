@@ -1,0 +1,53 @@
+{
+  "activation": [],
+  "ai_description": "Hell-Kissed Potion of Conscription, level 18. This works like a regular potion of Conscription, but it has been hell-kissed. At level 18, it will work against pretty much any non-affiliated entities, regardless of their protections, including most deities. It was brewed in the dark recesses of the Nothing by Krakaren Prime, who is said to yearn for domination. Conscription potions only work on the 9th, 12th, 15th, 17th, and 18th floors.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Applies level 18 Conscription Effect onto user",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "hell-kissed-potion-of-conscription",
+  "images": [],
+  "kind": "Consumable",
+  "kind_detail": [
+    "Potion"
+  ],
+  "level_requirement": 18,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Hell-Kissed Potion of Conscription",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Hell-Kissed_Potion_of_Conscription",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Applies level 18 Conscription Effect onto user",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

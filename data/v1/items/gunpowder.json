@@ -1,0 +1,76 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [
+    "black powder",
+    "funpowder"
+  ],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Gunpowder is a granulated black powder that was widely used as a propellant in firearms. It deflagrates rather than detonates and is effective at throwing metal.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "gunpowder",
+  "images": [
+    {
+      "alt": "Gunpowder image",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/d/d5/Funpowder.jpg/revision/latest?cb=20240523103430",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Consumable",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2024-05-22T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2024-05-22T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Gunpowder",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Gunpowder",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Gunpowder is a low explosive used for projectile propulsion.",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "propellent",
+    "explosive",
+    "crafting material"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

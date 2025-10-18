@@ -1,0 +1,95 @@
+{
+  "activation": [],
+  "ai_description": "Small, low-damage throwing stars. These bad boys aren’t anything special upon first glance. They’re the same black stars you wannabe ninjas purchased at the knife shop and the swap meet when you were kids. The same throwing stars you’d drill into the drywall of your room until your mom caught you and took them away. And while these shuriken don’t have the ability to turn you into a ninja, nor do they have the capacity to make your mom stop drinking, they are enchanted with a Bloodlust enhancement. For every monster you damage with a shuriken from this set, the damage against that monster type rises by 8%.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": {
+    "cooldown_seconds": null,
+    "duration_seconds": null,
+    "overdose_rules": null,
+    "stack_limit": null,
+    "use_time": null,
+    "uses": null
+  },
+  "description": "Enchanted Shuriken of Bloodlust are flimsy black throwing stars better used for crafting than throwing. Extremely fragile, the shuriken inflict low damage at first, but each successful attack against a type of monster increases the damage they deal against that type of monster by 8%. This effect compounds over time.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Damage Increase",
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "Successful Attack"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "enchanted-shuriken-of-bloodlust",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/c/c2/Shiriken_of_Bloodlust.png/revision/latest?cb=20250525235146",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Weapon",
+  "kind_detail": [
+    "Weapon",
+    "Consumable"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted Shuriken of Bloodlust",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 1.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_Shuriken_of_Bloodlust",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "+8% damage against same monster type",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Enchanted"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": {
+    "category": "Throwing Star",
+    "damage": [],
+    "handedness": null,
+    "properties": [],
+    "range_m": null,
+    "reach_m": null
+  }
+}

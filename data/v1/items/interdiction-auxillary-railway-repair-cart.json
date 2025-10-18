@@ -1,0 +1,66 @@
+{
+  "activation": [],
+  "ai_description": "Interdiction Auxiliary Railway Repair Cart. Contraption. The simplest of the powered railway carts. Includes battery power or powered track selection option. Includes portal track selector. Interdiction teams are supposed to use these to carry additional personnel and supplies to repair areas as backup and support to the more robust Rapid Response Carts and their teams. They are not supposed to be used as a primary response vehicle.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Interdiction Auxiliary Railway Repair Cart is a contraption found at station 75 on the Iron Tangle.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "interdiction-auxillary-railway-repair-cart",
+  "images": [
+    {
+      "alt": null,
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/f/f6/Auxillary_Railway_Cart.jpg/revision/latest?cb=20250328024018",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Vehicle",
+  "kind_detail": [
+    "Vehicle"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Interdiction Auxillary Railway Repair Cart",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Interdiction_Auxillary_Railway_Repair_Cart",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Contraption"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

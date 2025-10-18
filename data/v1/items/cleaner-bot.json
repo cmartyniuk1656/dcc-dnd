@@ -1,0 +1,116 @@
+{
+  "activation": [],
+  "ai_description": null,
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Cleaner Bots are frisbee-shaped flying Roombas that hum as they buzz around.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": 25000,
+    "currency": "gold",
+    "trade_value": null
+  },
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "cleaner-bot",
+  "images": [
+    {
+      "alt": "Art by u/1Estel1, Reddit",
+      "attribution": {
+        "author": "u/1Estel1",
+        "license": null,
+        "source_url": "https://www.reddit.com/user/1Estel1"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/3/38/Cleaner_Bot_by_1Estel1.png/revision/latest?cb=20250515213406",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    },
+    {
+      "alt": "Art by u/Sorry_Ant9293, Reddit",
+      "attribution": {
+        "author": "u/Sorry_Ant9293",
+        "license": null,
+        "source_url": "https://www.reddit.com/user/Sorry_Ant9293"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/a/a2/Cleaner_Bot_by_Sorry_Ant.png/revision/latest?cb=20250416021334",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    },
+    {
+      "alt": "Art by u/OutFold, Reddit",
+      "attribution": {
+        "author": "u/OutFold",
+        "license": null,
+        "source_url": "https://www.reddit.com/user/OutFold"
+      },
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/0/09/Cleaner_bot.JPEG/revision/latest?cb=20250208040629",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "icon",
+      "width": null
+    }
+  ],
+  "kind": "Other",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Cleaner Bot",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Cleaner_Bot",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "Cleans Personal Space",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Personal Space Upgrade",
+  "tags": [
+    "technology",
+    "personal space upgrade",
+    "floor 4"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

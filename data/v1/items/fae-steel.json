@@ -1,0 +1,64 @@
+{
+  "activation": [],
+  "ai_description": "While not as strong as Elven mail or even good Orcish steel, it’s the strongest alloy that fairy folk can wear.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Fae Steel is a lightweight alloy used to make armor and other items in the Dungeon. Although not particularly strong, it is the strongest metal that Fairy-class creatures can wear.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [],
+  "enchantments": [],
+  "form": null,
+  "id": "fae-steel",
+  "images": [
+    {
+      "alt": "Fae Steel",
+      "attribution": null,
+      "cdn_key": null,
+      "focal_point": null,
+      "foundry": null,
+      "hash_sha256": null,
+      "height": null,
+      "mime": null,
+      "spoiler": null,
+      "src": "https://dungeon-crawler-carl.fandom.com/wiki/Special:FilePath/Fae%20Steel.jpg",
+      "srcset": [],
+      "title": null,
+      "transparent": null,
+      "type": "other",
+      "width": null
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Fae Steel",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Fae_Steel",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": null,
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": "Material",
+  "tags": [
+    "Crafting Materials"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

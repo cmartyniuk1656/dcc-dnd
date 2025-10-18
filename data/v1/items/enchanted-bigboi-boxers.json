@@ -1,0 +1,132 @@
+{
+  "activation": [],
+  "ai_description": "Enchanted for size-altering creatures to prevent nudity during transformation.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "White boxers covered in little red hearts, enchanted for size-altering races.",
+  "dnd5e_mapping": null,
+  "economy": {
+    "cost": null,
+    "currency": null,
+    "trade_value": null
+  },
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [
+        {
+          "op": "add",
+          "stack_rule": null,
+          "stat": "CON",
+          "value": 2
+        }
+      ],
+      "name": "+2 CON",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "unspecified"
+      }
+    }
+  ],
+  "enchantments": [
+    {
+      "name": "Constitution Boost",
+      "parameters": {
+        "value": "+2"
+      }
+    },
+    {
+      "name": "Protective Shell Spell Use",
+      "parameters": {
+        "frequency": "once every 30 hours",
+        "level": "15"
+      }
+    },
+    {
+      "name": "Upgraded Constitution Boost",
+      "parameters": {
+        "value": "+5"
+      }
+    },
+    {
+      "name": "Upgraded Dexterity Boost",
+      "parameters": {
+        "value": "+5"
+      }
+    },
+    {
+      "name": "Upgraded Intelligence Boost",
+      "parameters": {
+        "value": "+5"
+      }
+    },
+    {
+      "name": "Freeballing Benefit",
+      "parameters": {}
+    }
+  ],
+  "form": null,
+  "id": "enchanted-bigboi-boxers",
+  "images": [
+    {
+      "alt": "Official Art by Luciano Fleitas",
+      "attribution": null,
+      "focal_point": null,
+      "foundry": null,
+      "height": 600,
+      "mime": "image/jpeg",
+      "src": "https://static.wikia.nocookie.net/dungeon-crawler-carl/images/7/76/Boxers_and_kneepads.jpg/revision/latest?cb=20240401171705",
+      "srcset": [],
+      "title": "Enchanted BigBoi Boxers",
+      "type": "splash",
+      "width": 800
+    }
+  ],
+  "kind": "Item",
+  "kind_detail": [
+    "Equippable",
+    "Enchanted"
+  ],
+  "level_requirement": 15,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Enchanted BigBoi Boxers",
+  "physical": {
+    "dimensions_cm": null,
+    "durability": null,
+    "size_category": "Medium",
+    "weight_kg": null
+  },
+  "power": null,
+  "provenance": {
+    "confidence": 0.7,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Enchanted_BigBoi_Boxers",
+    "source_type": "wiki"
+  },
+  "rarity": "Bronze",
+  "rules_text": "Increases Constitution and provides a spell use ability.",
+  "series": "Dungeon Crawler Carl",
+  "slot": "Waist",
+  "subcategory": "Equippable",
+  "tags": [
+    "Enchanted",
+    "Clothing",
+    "Equipped Items"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}

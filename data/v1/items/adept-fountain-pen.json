@@ -1,0 +1,64 @@
+{
+  "activation": [],
+  "ai_description": "The most basic of all the calligrapher’s implements. It is versatile and can be used for various purposes, both noble and malicious.",
+  "aliases": [],
+  "attunement": null,
+  "balance_flags": null,
+  "consumable": null,
+  "description": "Adept’s fountain pen is an item that allows a user to do calligraphy.",
+  "dnd5e_mapping": null,
+  "economy": null,
+  "effects": [
+    {
+      "area": null,
+      "chance": null,
+      "modifiers": [],
+      "name": "Allows for Calligraphy",
+      "notes": null,
+      "outcomes": [],
+      "save": null,
+      "targeting": null,
+      "trigger": {
+        "conditions": [],
+        "event": "use"
+      }
+    }
+  ],
+  "enchantments": [],
+  "form": null,
+  "id": "adept-fountain-pen",
+  "images": [],
+  "kind": "Tool",
+  "kind_detail": [
+    "Calligraphy Pen"
+  ],
+  "level_requirement": null,
+  "metadata": {
+    "created_at": "2023-10-01T00:00:00Z",
+    "license": "TBD",
+    "updated_at": "2023-10-01T00:00:00Z",
+    "version": "1.0.0"
+  },
+  "name": "Adept's Fountain Pen",
+  "physical": null,
+  "power": null,
+  "provenance": {
+    "confidence": 0.0,
+    "extraction_method": "llm",
+    "extraction_notes": null,
+    "source_ref": "https://dungeon-crawler-carl.fandom.com/wiki/Adept's_Fountain_Pen",
+    "source_type": "wiki"
+  },
+  "rarity": null,
+  "rules_text": "",
+  "series": "Dungeon Crawler Carl",
+  "slot": null,
+  "subcategory": null,
+  "tags": [
+    "Calligraphy",
+    "Pen"
+  ],
+  "tattoo": null,
+  "tech": null,
+  "weapon": null
+}
