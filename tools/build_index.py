@@ -19,7 +19,7 @@ def main() -> None:
                 "subcategory": obj.get("subcategory"),
                 "tags": obj.get("tags", []),
                 "image": (obj.get("images") or [{}])[0].get("src"),
-                "url": f"/data/v1/items/{obj['id']}.json",
+                "url": f"/v1/items/{obj['id']}.json",
             }
         )
     index.sort(key=lambda record: record["name"].lower())
